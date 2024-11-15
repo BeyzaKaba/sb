@@ -388,7 +388,7 @@ async def download(season, episode,message,dil):
         for i in range(len(subs)):
             sub_code = subs[i]["label"]
             sub_lang = languages.get(part3=sub_code).name
-            if sub_lang == "tur":
+            if sub_lang == "tr":
                 sub_code = subs[i]["label"]
                 sub_lang = languages.get(part3=sub_code).name
                 sub_url = subs[i]["src"]
