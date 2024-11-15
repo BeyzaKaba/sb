@@ -1,0 +1,4408 @@
+{
+    "info": {
+        "badging": "disneyplusoriginal",
+        "callToAction": null,
+        "contentId": "e28fb81e-4d5b-40d4-8e50-a95f20547920",
+        "currentAvailability": {
+            "region": "TR",
+            "kidsMode": null
+        },
+        "encodedSeriesId": "3FfVmffm1ijj",
+        "family": {
+            "encodedFamilyId": "1O4DKgbGGLlr",
+            "familyId": "ZGlzbmV5b3JnOmRpc25leS5jb206cmFkYXI6MzY2NjY0",
+            "parent": true,
+            "parentRef": null,
+            "sequenceNumber": null
+        },
+        "image": {
+            "tile": {
+                "1.33": {
+                    "series": {
+                        "default": {
+                            "masterId": "45C5073572D533ED0165E152821528B5B8A0EC4E85CCC4FBC3FBD680C0C05821",
+                            "masterWidth": 2880,
+                            "masterHeight": 2160,
+                            "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/45C5073572D533ED0165E152821528B5B8A0EC4E85CCC4FBC3FBD680C0C05821"
+                        }
+                    }
+                },
+                "0.71": {
+                    "series": {
+                        "default": {
+                            "masterId": "471DAF7F17EF23F20C0D267CF2AB775D2CA645DA9718406A3B2DC6B8564D0AC8",
+                            "masterWidth": 2000,
+                            "masterHeight": 2818,
+                            "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/471DAF7F17EF23F20C0D267CF2AB775D2CA645DA9718406A3B2DC6B8564D0AC8"
+                        }
+                    }
+                },
+                "1.78": {
+                    "series": {
+                        "default": {
+                            "masterId": "F5845A95BEAA5153FA1A1D77D39A4B261F9440B06424B7217AFAA33BB999AAA9",
+                            "masterWidth": 3840,
+                            "masterHeight": 2160,
+                            "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/F5845A95BEAA5153FA1A1D77D39A4B261F9440B06424B7217AFAA33BB999AAA9"
+                        }
+                    }
+                }
+            },
+            "title_treatment": {
+                "1.78": {
+                    "series": {
+                        "default": {
+                            "masterId": "8749A7EC131173CF0C24103768BAD4DDE40FE74789723045AF9D6D651A5CFF61",
+                            "masterWidth": 1920,
+                            "masterHeight": 1080,
+                            "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/8749A7EC131173CF0C24103768BAD4DDE40FE74789723045AF9D6D651A5CFF61"
+                        }
+                    }
+                }
+            },
+            "background_details": {
+                "1.78": {
+                    "series": {
+                        "default": {
+                            "masterId": "06D6ABC402F523B8EC801AF13EA23D0573DD237E2F9DA0ED6951D41F146CCD49",
+                            "masterWidth": 3840,
+                            "masterHeight": 2160,
+                            "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/06D6ABC402F523B8EC801AF13EA23D0573DD237E2F9DA0ED6951D41F146CCD49"
+                        }
+                    }
+                },
+                "1.33": {
+                    "series": {
+                        "default": {
+                            "masterId": "5D8E6AF1820CCC3F7DBE968115866927D2D3B43E0AE41FA9596C41016BC82A05",
+                            "masterWidth": 2880,
+                            "masterHeight": 2160,
+                            "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/5D8E6AF1820CCC3F7DBE968115866927D2D3B43E0AE41FA9596C41016BC82A05"
+                        }
+                    }
+                }
+            },
+            "background_up_next": {
+                "1.78": {
+                    "series": {
+                        "default": {
+                            "masterId": "697A28AED5D743C018BFB122A62F3A318D61779F6887DDEF6F0EEA87F523C90A",
+                            "masterWidth": 3840,
+                            "masterHeight": 2160,
+                            "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/697A28AED5D743C018BFB122A62F3A318D61779F6887DDEF6F0EEA87F523C90A"
+                        }
+                    }
+                }
+            }
+        },
+        "labels": [],
+        "mediaMetadata": {
+            "facets": [
+                {
+                    "label": "default"
+                }
+            ]
+        },
+        "mediaRights": {
+            "downloadBlocked": false,
+            "pconBlocked": false
+        },
+        "participant": {},
+        "seasonsMaxYear": 2023,
+        "seasonsMinYear": 2022,
+        "seriesId": "e28fb81e-4d5b-40d4-8e50-a95f20547920",
+        "seriesType": "standard",
+        "text": {
+            "title": {
+                "full": {
+                    "series": {
+                        "default": {
+                            "content": "I am Groot",
+                            "language": "tr",
+                            "sourceEntity": "series"
+                        }
+                    }
+                },
+                "slug": {
+                    "series": {
+                        "default": {
+                            "content": "i-am-groot",
+                            "language": "tr",
+                            "sourceEntity": "series"
+                        }
+                    }
+                },
+                "brief": {
+                    "series": {
+                        "default": {
+                            "content": "I am Groot",
+                            "language": "tr",
+                            "sourceEntity": "series"
+                        }
+                    }
+                }
+            },
+            "description": {
+                "medium": {
+                    "series": {
+                        "default": {
+                            "content": "Sorun \u00e7\u0131karan a\u011fa\u00e7 dal\u0131, \"I Am Groot\"un ikinci sezonunda yaramazl\u0131k yapmak i\u00e7in d\u00f6n\u00fcyor. Bebek Groot bu sefer Koruyucular'\u0131n uzay gemilerinde kainat\u0131 ve daha \u00f6tesini ke\u015ffeder, yeni ve renkli mek\u00e2nlarla ve yarat\u0131klarla y\u00fcz y\u00fcze ya da burun buruna gelir.",
+                            "language": "tr",
+                            "sourceEntity": "series"
+                        }
+                    }
+                },
+                "brief": {
+                    "series": {
+                        "default": {
+                            "content": "Sorun \u00e7\u0131karan a\u011fa\u00e7 dal\u0131, Koruyucular'\u0131n uzay gemilerinde kainat\u0131 ve \u00f6tesini ke\u015ffeder.",
+                            "language": "tr",
+                            "sourceEntity": "series"
+                        }
+                    }
+                },
+                "full": {
+                    "series": {
+                        "default": {
+                            "content": "Sorun \u00e7\u0131karan a\u011fa\u00e7 dal\u0131, \"I Am Groot\"un ikinci sezonunda yaramazl\u0131k yapmak i\u00e7in geri d\u00f6n\u00fcyor. Bebek Groot bu sefer Koruyucular'\u0131n uzay gemilerinde kainat\u0131 ve daha \u00f6tesini ke\u015ffeder, yeni ve renkli mek\u00e2nlarla ve yarat\u0131klarla y\u00fcz y\u00fcze ya da burun buruna gelir. Kirsten Lepore'nin yaz\u0131p y\u00f6netti\u011fi yepyeni be\u015f k\u0131sa b\u00f6l\u00fcml\u00fck dizide, Groot'u seslendiren Vin Diesel galaksiye geri d\u00f6n\u00fcyor.",
+                            "language": "tr",
+                            "sourceEntity": "series"
+                        }
+                    }
+                }
+            }
+        },
+        "type": "DmcSeries",
+        "typedGenres": [
+            {
+                "type": "BOLT",
+                "name": "Science Fiction",
+                "partnerId": "300067"
+            },
+            {
+                "type": "BOLT",
+                "name": "Comedy",
+                "partnerId": "300054"
+            },
+            {
+                "type": "BOLT",
+                "name": "Animation",
+                "partnerId": "300001"
+            }
+        ],
+        "ratings": [
+            {
+                "advisories": [
+                    "V"
+                ],
+                "description": null,
+                "filingNumber": null,
+                "system": "AI",
+                "value": "7+"
+            }
+        ],
+        "releases": [
+            {
+                "releaseDate": "2022-08-10",
+                "releaseOrg": null,
+                "releaseType": "original",
+                "releaseYear": 2022,
+                "territory": null
+            }
+        ],
+        "tags": [
+            {
+                "displayName": null,
+                "type": "disneyPlusOriginal",
+                "value": "true"
+            }
+        ],
+        "videoArt": [
+            {
+                "mediaMetadata": {
+                    "urls": [
+                        {
+                            "url": "https://vod-bgc-eu-west-1.media.dssott.com/bgui/ps01/disney/bgui/2023/07/27/1690473034-366664.mp4"
+                        }
+                    ]
+                },
+                "purpose": "full_bleed"
+            }
+        ]
+    },
+    "content": [
+        {
+            "badging": "disneyplusoriginal",
+            "callToAction": null,
+            "channel": null,
+            "contentId": "b8807174-5c95-4686-a9ce-e82d69e7c209",
+            "contentType": "full",
+            "currentAvailability": {
+                "region": "TR",
+                "kidsMode": null
+            },
+            "event": null,
+            "encodedSeriesId": "3FfVmffm1ijj",
+            "episodeNumber": "1",
+            "episodeSequenceNumber": 1,
+            "episodeSeriesSequenceNumber": 1,
+            "family": {
+                "encodedFamilyId": "44rWwyo5VHmX",
+                "familyId": "ZGlzbmV5b3JnOmRpc25leS5jb206cmFkYXI6NDQ0MjU1",
+                "parent": true,
+                "parentRef": {
+                    "encodedSeriesId": "3FfVmffm1ijj",
+                    "programId": "9f854b2f-ad26-48ad-97c9-050e4b519a42",
+                    "seasonId": "48886ce0-ef37-4268-9b54-46efa32e0de6",
+                    "seriesId": "e28fb81e-4d5b-40d4-8e50-a95f20547920"
+                },
+                "sequenceNumber": null
+            },
+            "groups": [
+                {
+                    "name": "Marvel",
+                    "partnerGroupId": "377146",
+                    "type": "disneyPlusStorefrontBrand"
+                }
+            ],
+            "internalTitle": "I Am Groot - s1e1 - b8807174-5c95-4686-a9ce-e82d69e7c209",
+            "image": {
+                "tile": {
+                    "1.33": {
+                        "series": {
+                            "default": {
+                                "masterId": "45C5073572D533ED0165E152821528B5B8A0EC4E85CCC4FBC3FBD680C0C05821",
+                                "masterWidth": 2880,
+                                "masterHeight": 2160,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/45C5073572D533ED0165E152821528B5B8A0EC4E85CCC4FBC3FBD680C0C05821"
+                            }
+                        }
+                    },
+                    "0.71": {
+                        "series": {
+                            "default": {
+                                "masterId": "471DAF7F17EF23F20C0D267CF2AB775D2CA645DA9718406A3B2DC6B8564D0AC8",
+                                "masterWidth": 2000,
+                                "masterHeight": 2818,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/471DAF7F17EF23F20C0D267CF2AB775D2CA645DA9718406A3B2DC6B8564D0AC8"
+                            }
+                        }
+                    },
+                    "1.78": {
+                        "series": {
+                            "default": {
+                                "masterId": "F5845A95BEAA5153FA1A1D77D39A4B261F9440B06424B7217AFAA33BB999AAA9",
+                                "masterWidth": 3840,
+                                "masterHeight": 2160,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/F5845A95BEAA5153FA1A1D77D39A4B261F9440B06424B7217AFAA33BB999AAA9"
+                            }
+                        }
+                    }
+                },
+                "title_treatment": {
+                    "1.78": {
+                        "series": {
+                            "default": {
+                                "masterId": "8749A7EC131173CF0C24103768BAD4DDE40FE74789723045AF9D6D651A5CFF61",
+                                "masterWidth": 1920,
+                                "masterHeight": 1080,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/8749A7EC131173CF0C24103768BAD4DDE40FE74789723045AF9D6D651A5CFF61"
+                            }
+                        }
+                    }
+                },
+                "background_details": {
+                    "1.78": {
+                        "series": {
+                            "default": {
+                                "masterId": "06D6ABC402F523B8EC801AF13EA23D0573DD237E2F9DA0ED6951D41F146CCD49",
+                                "masterWidth": 3840,
+                                "masterHeight": 2160,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/06D6ABC402F523B8EC801AF13EA23D0573DD237E2F9DA0ED6951D41F146CCD49"
+                            }
+                        }
+                    },
+                    "1.33": {
+                        "series": {
+                            "default": {
+                                "masterId": "5D8E6AF1820CCC3F7DBE968115866927D2D3B43E0AE41FA9596C41016BC82A05",
+                                "masterWidth": 2880,
+                                "masterHeight": 2160,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/5D8E6AF1820CCC3F7DBE968115866927D2D3B43E0AE41FA9596C41016BC82A05"
+                            }
+                        }
+                    }
+                },
+                "background_up_next": {
+                    "1.78": {
+                        "series": {
+                            "default": {
+                                "masterId": "697A28AED5D743C018BFB122A62F3A318D61779F6887DDEF6F0EEA87F523C90A",
+                                "masterWidth": 3840,
+                                "masterHeight": 2160,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/697A28AED5D743C018BFB122A62F3A318D61779F6887DDEF6F0EEA87F523C90A"
+                            }
+                        },
+                        "program": {
+                            "default": {
+                                "masterId": "184AE8AFD209E07EE6EA7503CD609A4ACA328B59CD047AB420B7E5FBF0470C43",
+                                "masterWidth": 3840,
+                                "masterHeight": 2160,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/184AE8AFD209E07EE6EA7503CD609A4ACA328B59CD047AB420B7E5FBF0470C43"
+                            }
+                        }
+                    }
+                },
+                "thumbnail": {
+                    "1.78": {
+                        "program": {
+                            "default": {
+                                "masterId": "13C5B1205FE022156D6B313D49F778EBEE1AC7B0A640D98CD562E11FC56794E2",
+                                "masterWidth": 3840,
+                                "masterHeight": 2160,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/13C5B1205FE022156D6B313D49F778EBEE1AC7B0A640D98CD562E11FC56794E2"
+                            }
+                        }
+                    }
+                }
+            },
+            "labels": [],
+            "league": null,
+            "mediaMetadata": {
+                "activeAspectRatio": 1.78,
+                "audioTracks": [
+                    {
+                        "features": [
+                            "dolby_51",
+                            "dolby_20"
+                        ],
+                        "language": "es-419",
+                        "name": null,
+                        "renditionName": "Espa\u00f1ol (Latinoamericano)",
+                        "trackType": "PRIMARY"
+                    },
+                    {
+                        "features": [
+                            "dolby_51",
+                            "dolby_20"
+                        ],
+                        "language": "sk",
+                        "name": null,
+                        "renditionName": "Sloven\u010dina",
+                        "trackType": "PRIMARY"
+                    },
+                    {
+                        "features": [
+                            "dolby_51",
+                            "dolby_20"
+                        ],
+                        "language": "hu",
+                        "name": null,
+                        "renditionName": "Magyar",
+                        "trackType": "PRIMARY"
+                    },
+                    {
+                        "features": [
+                            "dolby_51",
+                            "dolby_20"
+                        ],
+                        "language": "de",
+                        "name": null,
+                        "renditionName": "Deutsch",
+                        "trackType": "PRIMARY"
+                    },
+                    {
+                        "features": [
+                            "dolby_51",
+                            "dolby_20"
+                        ],
+                        "language": "fr-CA",
+                        "name": null,
+                        "renditionName": "Fran\u00e7ais (Canadien)",
+                        "trackType": "PRIMARY"
+                    },
+                    {
+                        "features": [
+                            "dolby_51",
+                            "dolby_20"
+                        ],
+                        "language": "cmn",
+                        "name": null,
+                        "renditionName": "Mandarin",
+                        "trackType": "PRIMARY"
+                    },
+                    {
+                        "features": [
+                            "dolby_51",
+                            "dolby_20",
+                            "dolby_atmos"
+                        ],
+                        "language": "en",
+                        "name": null,
+                        "renditionName": "English",
+                        "trackType": "PRIMARY"
+                    },
+                    {
+                        "features": [
+                            "dolby_51",
+                            "dolby_20"
+                        ],
+                        "language": "fr-FR",
+                        "name": null,
+                        "renditionName": "Fran\u00e7ais",
+                        "trackType": "PRIMARY"
+                    },
+                    {
+                        "features": [
+                            "dolby_51",
+                            "dolby_20"
+                        ],
+                        "language": "ja",
+                        "name": null,
+                        "renditionName": "Japanese",
+                        "trackType": "PRIMARY"
+                    },
+                    {
+                        "features": [
+                            "dolby_51",
+                            "dolby_20"
+                        ],
+                        "language": "ko",
+                        "name": null,
+                        "renditionName": "Korean",
+                        "trackType": "PRIMARY"
+                    },
+                    {
+                        "features": [
+                            "dolby_51",
+                            "dolby_20"
+                        ],
+                        "language": "ro",
+                        "name": null,
+                        "renditionName": "Rom\u00e2n\u0103",
+                        "trackType": "PRIMARY"
+                    },
+                    {
+                        "features": [
+                            "dolby_51",
+                            "dolby_20"
+                        ],
+                        "language": "pt-BR",
+                        "name": null,
+                        "renditionName": "Portugu\u00eas (Brasil)",
+                        "trackType": "PRIMARY"
+                    },
+                    {
+                        "features": [
+                            "dolby_20"
+                        ],
+                        "language": "es-419",
+                        "name": null,
+                        "renditionName": "Espa\u00f1ol (Latinoamericano) [Audio descriptivo]",
+                        "trackType": "NARRATION"
+                    },
+                    {
+                        "features": [
+                            "dolby_20"
+                        ],
+                        "language": "pt-BR",
+                        "name": null,
+                        "renditionName": "Portugu\u00eas (Brasil) [Descri\u00e7\u00e3o Do \u00c1udio]",
+                        "trackType": "NARRATION"
+                    },
+                    {
+                        "features": [
+                            "dolby_51",
+                            "dolby_20"
+                        ],
+                        "language": "tr",
+                        "name": null,
+                        "renditionName": "T\u00fcrk\u00e7e",
+                        "trackType": "PRIMARY"
+                    },
+                    {
+                        "features": [
+                            "dolby_51",
+                            "dolby_20"
+                        ],
+                        "language": "it",
+                        "name": null,
+                        "renditionName": "Italiano",
+                        "trackType": "PRIMARY"
+                    },
+                    {
+                        "features": [
+                            "dolby_51",
+                            "dolby_20"
+                        ],
+                        "language": "pl",
+                        "name": null,
+                        "renditionName": "Polski",
+                        "trackType": "PRIMARY"
+                    },
+                    {
+                        "features": [
+                            "dolby_51",
+                            "dolby_20"
+                        ],
+                        "language": "cs",
+                        "name": null,
+                        "renditionName": "\u010ce\u0161tina",
+                        "trackType": "PRIMARY"
+                    },
+                    {
+                        "features": [
+                            "dolby_51",
+                            "dolby_20"
+                        ],
+                        "language": "es-ES",
+                        "name": null,
+                        "renditionName": "Espa\u00f1ol",
+                        "trackType": "PRIMARY"
+                    },
+                    {
+                        "features": [
+                            "dolby_20"
+                        ],
+                        "language": "en",
+                        "name": null,
+                        "renditionName": "English [Audio Description]",
+                        "trackType": "NARRATION"
+                    }
+                ],
+                "captions": [
+                    {
+                        "language": "de",
+                        "name": null,
+                        "renditionName": "Deutsch",
+                        "trackType": "NORMAL"
+                    },
+                    {
+                        "language": "pt-BR",
+                        "name": null,
+                        "renditionName": "Portugu\u00eas (Brasil)",
+                        "trackType": "NORMAL"
+                    },
+                    {
+                        "language": "pt-PT",
+                        "name": null,
+                        "renditionName": "Portugu\u00eas",
+                        "trackType": "NORMAL"
+                    },
+                    {
+                        "language": "fr-CA",
+                        "name": null,
+                        "renditionName": "Fran\u00e7ais (Canadien)",
+                        "trackType": "NORMAL"
+                    },
+                    {
+                        "language": "en",
+                        "name": null,
+                        "renditionName": "English [CC]",
+                        "trackType": "SDH"
+                    },
+                    {
+                        "language": "sk",
+                        "name": null,
+                        "renditionName": "Sloven\u010dina",
+                        "trackType": "NORMAL"
+                    },
+                    {
+                        "language": "da",
+                        "name": null,
+                        "renditionName": "Dansk",
+                        "trackType": "NORMAL"
+                    },
+                    {
+                        "language": "pl",
+                        "name": null,
+                        "renditionName": "Polski",
+                        "trackType": "NORMAL"
+                    },
+                    {
+                        "language": "ja",
+                        "name": null,
+                        "renditionName": "Japanese",
+                        "trackType": "NORMAL"
+                    },
+                    {
+                        "language": "ko",
+                        "name": null,
+                        "renditionName": "Korean",
+                        "trackType": "NORMAL"
+                    },
+                    {
+                        "language": "ro",
+                        "name": null,
+                        "renditionName": "Rom\u00e2n\u0103",
+                        "trackType": "NORMAL"
+                    },
+                    {
+                        "language": "el",
+                        "name": null,
+                        "renditionName": "Greek",
+                        "trackType": "NORMAL"
+                    },
+                    {
+                        "language": "fi",
+                        "name": null,
+                        "renditionName": "Suomi",
+                        "trackType": "NORMAL"
+                    },
+                    {
+                        "language": "pt-BR",
+                        "name": null,
+                        "renditionName": "Portugu\u00eas (Brasil) [CC]",
+                        "trackType": "SDH"
+                    },
+                    {
+                        "language": "nl",
+                        "name": null,
+                        "renditionName": "Nederlands",
+                        "trackType": "NORMAL"
+                    },
+                    {
+                        "language": "zh-Hant",
+                        "name": null,
+                        "renditionName": "Chinese (Traditional)",
+                        "trackType": "NORMAL"
+                    },
+                    {
+                        "language": "es-419",
+                        "name": null,
+                        "renditionName": "Espa\u00f1ol (Latinoamericano)",
+                        "trackType": "NORMAL"
+                    },
+                    {
+                        "language": "cs",
+                        "name": null,
+                        "renditionName": "\u010ce\u0161tina",
+                        "trackType": "NORMAL"
+                    },
+                    {
+                        "language": "es-ES",
+                        "name": null,
+                        "renditionName": "Espa\u00f1ol",
+                        "trackType": "NORMAL"
+                    },
+                    {
+                        "language": "hu",
+                        "name": null,
+                        "renditionName": "Magyar",
+                        "trackType": "NORMAL"
+                    },
+                    {
+                        "language": "fr-FR",
+                        "name": null,
+                        "renditionName": "Fran\u00e7ais",
+                        "trackType": "NORMAL"
+                    },
+                    {
+                        "language": "sv",
+                        "name": null,
+                        "renditionName": "Svenska",
+                        "trackType": "NORMAL"
+                    },
+                    {
+                        "language": "tr",
+                        "name": null,
+                        "renditionName": "T\u00fcrk\u00e7e",
+                        "trackType": "NORMAL"
+                    },
+                    {
+                        "language": "no",
+                        "name": null,
+                        "renditionName": "Norsk",
+                        "trackType": "NORMAL"
+                    },
+                    {
+                        "language": "it",
+                        "name": null,
+                        "renditionName": "Italiano",
+                        "trackType": "NORMAL"
+                    },
+                    {
+                        "language": "zh-Hans",
+                        "name": null,
+                        "renditionName": "Chinese (Simplified)",
+                        "trackType": "NORMAL"
+                    },
+                    {
+                        "language": "es-419",
+                        "name": null,
+                        "renditionName": "Espa\u00f1ol (Latinoamericano) [CC]",
+                        "trackType": "SDH"
+                    },
+                    {
+                        "language": "zh-HK",
+                        "name": null,
+                        "renditionName": "Chinese (Hong Kong)",
+                        "trackType": "NORMAL"
+                    }
+                ],
+                "facets": [
+                    {
+                        "activeAspectRatio": 1.78,
+                        "label": "default"
+                    }
+                ],
+                "features": [
+                    "sdr",
+                    "hdr_10",
+                    "hdr",
+                    "dolby_vision"
+                ],
+                "format": "UHD",
+                "mediaId": "374e6830-0b81-4565-9fc5-72ea1cbc5a38",
+                "phase": "active",
+                "playbackUrls": [
+                    {
+                        "rel": "video",
+                        "href": "https://disney.playback.edge.bamgrid.com/media/374e6830-0b81-4565-9fc5-72ea1cbc5a38/scenarios/{scenario}",
+                        "templated": true,
+                        "params": [
+                            {
+                                "name": "scenario",
+                                "description": "Playback scenario"
+                            }
+                        ]
+                    }
+                ],
+                "productType": "VOD",
+                "runtimeMillis": 342000,
+                "state": "ON",
+                "type": "VIDEO"
+            },
+            "meta": null,
+            "mediaRights": {
+                "violations": [],
+                "downloadBlocked": false,
+                "pconBlocked": false,
+                "rewind": true
+            },
+            "milestone": {
+                "FFEC": [
+                    {
+                        "id": "3dc64201-5726-4967-b956-fc83f09b8f81",
+                        "milestoneTime": [
+                            {
+                                "startMillis": 211792,
+                                "type": "offset"
+                            }
+                        ]
+                    }
+                ],
+                "up_next": [
+                    {
+                        "id": "9abb64ce-d748-4fde-b0c2-4d207b87f273",
+                        "milestoneTime": [
+                            {
+                                "startMillis": 223208,
+                                "type": "offset"
+                            }
+                        ]
+                    }
+                ],
+                "LFEC": [
+                    {
+                        "id": "fd1b7918-510a-498f-98a6-3a2a9808d41e",
+                        "milestoneTime": [
+                            {
+                                "startMillis": 245750,
+                                "type": "offset"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "originalLanguage": "en",
+            "participant": {
+                "director": [
+                    {
+                        "characterDetails": null,
+                        "displayName": "Kirsten Lepore",
+                        "order": 1,
+                        "participantId": "110143536",
+                        "sortName": "Lepore, Kirsten"
+                    }
+                ]
+            },
+            "programId": "9f854b2f-ad26-48ad-97c9-050e4b519a42",
+            "programType": "episode",
+            "ratings": [
+                {
+                    "advisories": [
+                        "V"
+                    ],
+                    "description": null,
+                    "filingNumber": null,
+                    "system": "AI",
+                    "value": "7+"
+                }
+            ],
+            "releases": [
+                {
+                    "releaseDate": "2022-08-10",
+                    "releaseOrg": null,
+                    "releaseType": "original",
+                    "releaseYear": 2022,
+                    "territory": null
+                }
+            ],
+            "seasonId": "48886ce0-ef37-4268-9b54-46efa32e0de6",
+            "seasonSequenceNumber": 1,
+            "seriesId": "e28fb81e-4d5b-40d4-8e50-a95f20547920",
+            "seriesType": "standard",
+            "sport": null,
+            "tags": [
+                {
+                    "displayName": null,
+                    "type": "titleEidr",
+                    "value": "5A49-580D-0CDE-BE42-7828-A"
+                },
+                {
+                    "displayName": null,
+                    "type": "disneyPlusOriginal",
+                    "value": "true"
+                }
+            ],
+            "targetLanguage": "en",
+            "text": {
+                "description": {
+                    "medium": {
+                        "series": {
+                            "default": {
+                                "content": "Sorun \u00e7\u0131karan a\u011fa\u00e7 dal\u0131, \"I Am Groot\"un ikinci sezonunda yaramazl\u0131k yapmak i\u00e7in d\u00f6n\u00fcyor. Bebek Groot bu sefer Koruyucular'\u0131n uzay gemilerinde kainat\u0131 ve daha \u00f6tesini ke\u015ffeder, yeni ve renkli mek\u00e2nlarla ve yarat\u0131klarla y\u00fcz y\u00fcze ya da burun buruna gelir.",
+                                "language": "tr",
+                                "sourceEntity": "series"
+                            }
+                        },
+                        "program": {
+                            "default": {
+                                "content": "\"Galaksinin Koruyucular\u0131\"nda olanlar\u0131n devam\u0131n\u0131n ele al\u0131nd\u0131\u011f\u0131 bu b\u00f6l\u00fcmde, Bebek Groot sonunda ilk ad\u0131mlar\u0131n\u0131 atmaya haz\u0131rd\u0131r, ancak ko\u015fabilmek i\u00e7in y\u00fcr\u00fcmeyi \u00f6\u011frenmesi gerekti\u011fini anlar.",
+                                "language": "tr",
+                                "sourceEntity": "program"
+                            }
+                        }
+                    },
+                    "brief": {
+                        "series": {
+                            "default": {
+                                "content": "Sorun \u00e7\u0131karan a\u011fa\u00e7 dal\u0131, Koruyucular'\u0131n uzay gemilerinde kainat\u0131 ve \u00f6tesini ke\u015ffeder.",
+                                "language": "tr",
+                                "sourceEntity": "series"
+                            }
+                        },
+                        "program": {
+                            "default": {
+                                "content": "Bebek Groot ilk ad\u0131mlar\u0131n\u0131 atar, ancak sonras\u0131nda ko\u015fmak i\u00e7in y\u00fcr\u00fcmeyi \u00f6\u011frenmesi gerekti\u011fini anlar.",
+                                "language": "tr",
+                                "sourceEntity": "program"
+                            }
+                        }
+                    },
+                    "full": {
+                        "program": {
+                            "default": {
+                                "content": "\"Galaksinin Koruyucular\u0131\"nda olanlar\u0131n devam\u0131n\u0131n ele al\u0131nd\u0131\u011f\u0131 bu b\u00f6l\u00fcmde, Bebek Groot sonunda ilk ad\u0131mlar\u0131n\u0131 atmaya haz\u0131rd\u0131r, ancak ko\u015fabilmek i\u00e7in y\u00fcr\u00fcmeyi \u00f6\u011frenmesi gerekti\u011fini anlar.",
+                                "language": "tr",
+                                "sourceEntity": "program"
+                            }
+                        },
+                        "series": {
+                            "default": {
+                                "content": "Sorun \u00e7\u0131karan a\u011fa\u00e7 dal\u0131, \"I Am Groot\"un ikinci sezonunda yaramazl\u0131k yapmak i\u00e7in geri d\u00f6n\u00fcyor. Bebek Groot bu sefer Koruyucular'\u0131n uzay gemilerinde kainat\u0131 ve daha \u00f6tesini ke\u015ffeder, yeni ve renkli mek\u00e2nlarla ve yarat\u0131klarla y\u00fcz y\u00fcze ya da burun buruna gelir. Kirsten Lepore'nin yaz\u0131p y\u00f6netti\u011fi yepyeni be\u015f k\u0131sa b\u00f6l\u00fcml\u00fck dizide, Groot'u seslendiren Vin Diesel galaksiye geri d\u00f6n\u00fcyor.",
+                                "language": "tr",
+                                "sourceEntity": "series"
+                            }
+                        }
+                    }
+                },
+                "title": {
+                    "slug": {
+                        "series": {
+                            "default": {
+                                "content": "i-am-groot",
+                                "language": "tr",
+                                "sourceEntity": "series"
+                            }
+                        },
+                        "program": {
+                            "default": {
+                                "content": "groots-first-steps",
+                                "language": "tr",
+                                "sourceEntity": "program"
+                            }
+                        }
+                    },
+                    "full": {
+                        "series": {
+                            "default": {
+                                "content": "I am Groot",
+                                "language": "tr",
+                                "sourceEntity": "series"
+                            }
+                        },
+                        "program": {
+                            "default": {
+                                "content": "Groot's First Steps",
+                                "language": "tr",
+                                "sourceEntity": "program"
+                            }
+                        }
+                    },
+                    "brief": {
+                        "series": {
+                            "default": {
+                                "content": "I am Groot",
+                                "language": "tr",
+                                "sourceEntity": "series"
+                            }
+                        },
+                        "program": {
+                            "default": {
+                                "content": "Groot's First Steps",
+                                "language": "tr",
+                                "sourceEntity": "program"
+                            }
+                        }
+                    }
+                }
+            },
+            "type": "DmcVideo",
+            "typedGenres": [
+                {
+                    "name": "Science Fiction",
+                    "partnerId": "300067",
+                    "type": "BOLT"
+                },
+                {
+                    "name": "Comedy",
+                    "partnerId": "300054",
+                    "type": "BOLT"
+                },
+                {
+                    "name": "Animation",
+                    "partnerId": "300001",
+                    "type": "BOLT"
+                }
+            ],
+            "videoArt": [],
+            "videoId": "91c4ab47-11bc-4a5d-a812-10cd8b5dc370"
+        },
+        {
+            "badging": "disneyplusoriginal",
+            "callToAction": null,
+            "channel": null,
+            "contentId": "fbd0fa67-7af6-403b-8d4c-a638824c844c",
+            "contentType": "full",
+            "currentAvailability": {
+                "region": "TR",
+                "kidsMode": null
+            },
+            "event": null,
+            "encodedSeriesId": "3FfVmffm1ijj",
+            "episodeNumber": "2",
+            "episodeSequenceNumber": 2,
+            "episodeSeriesSequenceNumber": 2,
+            "family": {
+                "encodedFamilyId": "2EcBWXF3Reyz",
+                "familyId": "ZGlzbmV5b3JnOmRpc25leS5jb206cmFkYXI6NDQ0MjU2",
+                "parent": true,
+                "parentRef": {
+                    "encodedSeriesId": "3FfVmffm1ijj",
+                    "programId": "81ae2d14-98f0-480e-b104-0b175f22d23f",
+                    "seasonId": "48886ce0-ef37-4268-9b54-46efa32e0de6",
+                    "seriesId": "e28fb81e-4d5b-40d4-8e50-a95f20547920"
+                },
+                "sequenceNumber": null
+            },
+            "groups": [
+                {
+                    "name": "Marvel",
+                    "partnerGroupId": "377146",
+                    "type": "disneyPlusStorefrontBrand"
+                }
+            ],
+            "internalTitle": "I Am Groot - s1e2 - fbd0fa67-7af6-403b-8d4c-a638824c844c",
+            "image": {
+                "tile": {
+                    "1.33": {
+                        "series": {
+                            "default": {
+                                "masterId": "45C5073572D533ED0165E152821528B5B8A0EC4E85CCC4FBC3FBD680C0C05821",
+                                "masterWidth": 2880,
+                                "masterHeight": 2160,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/45C5073572D533ED0165E152821528B5B8A0EC4E85CCC4FBC3FBD680C0C05821"
+                            }
+                        }
+                    },
+                    "0.71": {
+                        "series": {
+                            "default": {
+                                "masterId": "471DAF7F17EF23F20C0D267CF2AB775D2CA645DA9718406A3B2DC6B8564D0AC8",
+                                "masterWidth": 2000,
+                                "masterHeight": 2818,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/471DAF7F17EF23F20C0D267CF2AB775D2CA645DA9718406A3B2DC6B8564D0AC8"
+                            }
+                        }
+                    },
+                    "1.78": {
+                        "series": {
+                            "default": {
+                                "masterId": "F5845A95BEAA5153FA1A1D77D39A4B261F9440B06424B7217AFAA33BB999AAA9",
+                                "masterWidth": 3840,
+                                "masterHeight": 2160,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/F5845A95BEAA5153FA1A1D77D39A4B261F9440B06424B7217AFAA33BB999AAA9"
+                            }
+                        }
+                    }
+                },
+                "title_treatment": {
+                    "1.78": {
+                        "series": {
+                            "default": {
+                                "masterId": "8749A7EC131173CF0C24103768BAD4DDE40FE74789723045AF9D6D651A5CFF61",
+                                "masterWidth": 1920,
+                                "masterHeight": 1080,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/8749A7EC131173CF0C24103768BAD4DDE40FE74789723045AF9D6D651A5CFF61"
+                            }
+                        }
+                    }
+                },
+                "background_details": {
+                    "1.78": {
+                        "series": {
+                            "default": {
+                                "masterId": "06D6ABC402F523B8EC801AF13EA23D0573DD237E2F9DA0ED6951D41F146CCD49",
+                                "masterWidth": 3840,
+                                "masterHeight": 2160,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/06D6ABC402F523B8EC801AF13EA23D0573DD237E2F9DA0ED6951D41F146CCD49"
+                            }
+                        }
+                    },
+                    "1.33": {
+                        "series": {
+                            "default": {
+                                "masterId": "5D8E6AF1820CCC3F7DBE968115866927D2D3B43E0AE41FA9596C41016BC82A05",
+                                "masterWidth": 2880,
+                                "masterHeight": 2160,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/5D8E6AF1820CCC3F7DBE968115866927D2D3B43E0AE41FA9596C41016BC82A05"
+                            }
+                        }
+                    }
+                },
+                "background_up_next": {
+                    "1.78": {
+                        "series": {
+                            "default": {
+                                "masterId": "697A28AED5D743C018BFB122A62F3A318D61779F6887DDEF6F0EEA87F523C90A",
+                                "masterWidth": 3840,
+                                "masterHeight": 2160,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/697A28AED5D743C018BFB122A62F3A318D61779F6887DDEF6F0EEA87F523C90A"
+                            }
+                        },
+                        "program": {
+                            "default": {
+                                "masterId": "59E5E767072408DC289D844C1DBDD954CF62CA9ABC1BFD6BD059E8E8EC544F5A",
+                                "masterWidth": 3840,
+                                "masterHeight": 2160,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/59E5E767072408DC289D844C1DBDD954CF62CA9ABC1BFD6BD059E8E8EC544F5A"
+                            }
+                        }
+                    }
+                },
+                "thumbnail": {
+                    "1.78": {
+                        "program": {
+                            "default": {
+                                "masterId": "8AE521287EB7C9450DCA8B8633FDD10905277E2C7C57F04A9A1ED5BEBA5ECC76",
+                                "masterWidth": 3840,
+                                "masterHeight": 2160,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/8AE521287EB7C9450DCA8B8633FDD10905277E2C7C57F04A9A1ED5BEBA5ECC76"
+                            }
+                        }
+                    }
+                }
+            },
+            "labels": [],
+            "league": null,
+            "mediaMetadata": {
+                "activeAspectRatio": 1.78,
+                "audioTracks": [
+                    {
+                        "features": [
+                            "dolby_51",
+                            "dolby_20"
+                        ],
+                        "language": "es-419",
+                        "name": null,
+                        "renditionName": "Espa\u00f1ol (Latinoamericano)",
+                        "trackType": "PRIMARY"
+                    },
+                    {
+                        "features": [
+                            "dolby_51",
+                            "dolby_20"
+                        ],
+                        "language": "sk",
+                        "name": null,
+                        "renditionName": "Sloven\u010dina",
+                        "trackType": "PRIMARY"
+                    },
+                    {
+                        "features": [
+                            "dolby_51",
+                            "dolby_20"
+                        ],
+                        "language": "hu",
+                        "name": null,
+                        "renditionName": "Magyar",
+                        "trackType": "PRIMARY"
+                    },
+                    {
+                        "features": [
+                            "dolby_51",
+                            "dolby_20"
+                        ],
+                        "language": "de",
+                        "name": null,
+                        "renditionName": "Deutsch",
+                        "trackType": "PRIMARY"
+                    },
+                    {
+                        "features": [
+                            "dolby_51",
+                            "dolby_20"
+                        ],
+                        "language": "fr-CA",
+                        "name": null,
+                        "renditionName": "Fran\u00e7ais (Canadien)",
+                        "trackType": "PRIMARY"
+                    },
+                    {
+                        "features": [
+                            "dolby_51",
+                            "dolby_20"
+                        ],
+                        "language": "cmn",
+                        "name": null,
+                        "renditionName": "Mandarin",
+                        "trackType": "PRIMARY"
+                    },
+                    {
+                        "features": [
+                            "dolby_51",
+                            "dolby_20",
+                            "dolby_atmos"
+                        ],
+                        "language": "en",
+                        "name": null,
+                        "renditionName": "English",
+                        "trackType": "PRIMARY"
+                    },
+                    {
+                        "features": [
+                            "dolby_51",
+                            "dolby_20"
+                        ],
+                        "language": "fr-FR",
+                        "name": null,
+                        "renditionName": "Fran\u00e7ais",
+                        "trackType": "PRIMARY"
+                    },
+                    {
+                        "features": [
+                            "dolby_51",
+                            "dolby_20"
+                        ],
+                        "language": "ja",
+                        "name": null,
+                        "renditionName": "Japanese",
+                        "trackType": "PRIMARY"
+                    },
+                    {
+                        "features": [
+                            "dolby_51",
+                            "dolby_20"
+                        ],
+                        "language": "ko",
+                        "name": null,
+                        "renditionName": "Korean",
+                        "trackType": "PRIMARY"
+                    },
+                    {
+                        "features": [
+                            "dolby_51",
+                            "dolby_20"
+                        ],
+                        "language": "ro",
+                        "name": null,
+                        "renditionName": "Rom\u00e2n\u0103",
+                        "trackType": "PRIMARY"
+                    },
+                    {
+                        "features": [
+                            "dolby_51",
+                            "dolby_20"
+                        ],
+                        "language": "pt-BR",
+                        "name": null,
+                        "renditionName": "Portugu\u00eas (Brasil)",
+                        "trackType": "PRIMARY"
+                    },
+                    {
+                        "features": [
+                            "dolby_20"
+                        ],
+                        "language": "es-419",
+                        "name": null,
+                        "renditionName": "Espa\u00f1ol (Latinoamericano) [Audio descriptivo]",
+                        "trackType": "NARRATION"
+                    },
+                    {
+                        "features": [
+                            "dolby_20"
+                        ],
+                        "language": "pt-BR",
+                        "name": null,
+                        "renditionName": "Portugu\u00eas (Brasil) [Descri\u00e7\u00e3o Do \u00c1udio]",
+                        "trackType": "NARRATION"
+                    },
+                    {
+                        "features": [
+                            "dolby_51",
+                            "dolby_20"
+                        ],
+                        "language": "tr",
+                        "name": null,
+                        "renditionName": "T\u00fcrk\u00e7e",
+                        "trackType": "PRIMARY"
+                    },
+                    {
+                        "features": [
+                            "dolby_51",
+                            "dolby_20"
+                        ],
+                        "language": "it",
+                        "name": null,
+                        "renditionName": "Italiano",
+                        "trackType": "PRIMARY"
+                    },
+                    {
+                        "features": [
+                            "dolby_51",
+                            "dolby_20"
+                        ],
+                        "language": "pl",
+                        "name": null,
+                        "renditionName": "Polski",
+                        "trackType": "PRIMARY"
+                    },
+                    {
+                        "features": [
+                            "dolby_51",
+                            "dolby_20"
+                        ],
+                        "language": "cs",
+                        "name": null,
+                        "renditionName": "\u010ce\u0161tina",
+                        "trackType": "PRIMARY"
+                    },
+                    {
+                        "features": [
+                            "dolby_51",
+                            "dolby_20"
+                        ],
+                        "language": "es-ES",
+                        "name": null,
+                        "renditionName": "Espa\u00f1ol",
+                        "trackType": "PRIMARY"
+                    },
+                    {
+                        "features": [
+                            "dolby_20"
+                        ],
+                        "language": "en",
+                        "name": null,
+                        "renditionName": "English [Audio Description]",
+                        "trackType": "NARRATION"
+                    }
+                ],
+                "captions": [
+                    {
+                        "language": "de",
+                        "name": null,
+                        "renditionName": "Deutsch",
+                        "trackType": "NORMAL"
+                    },
+                    {
+                        "language": "pt-BR",
+                        "name": null,
+                        "renditionName": "Portugu\u00eas (Brasil)",
+                        "trackType": "NORMAL"
+                    },
+                    {
+                        "language": "pt-BR",
+                        "name": null,
+                        "renditionName": "pt-BR--forced--",
+                        "trackType": "FORCED"
+                    },
+                    {
+                        "language": "pt-PT",
+                        "name": null,
+                        "renditionName": "Portugu\u00eas",
+                        "trackType": "NORMAL"
+                    },
+                    {
+                        "language": "es-ES",
+                        "name": null,
+                        "renditionName": "es-ES--forced--",
+                        "trackType": "FORCED"
+                    },
+                    {
+                        "language": "sk",
+                        "name": null,
+                        "renditionName": "sk--forced--",
+                        "trackType": "FORCED"
+                    },
+                    {
+                        "language": "ro",
+                        "name": null,
+                        "renditionName": "ro--forced--",
+                        "trackType": "FORCED"
+                    },
+                    {
+                        "language": "fr-CA",
+                        "name": null,
+                        "renditionName": "Fran\u00e7ais (Canadien)",
+                        "trackType": "NORMAL"
+                    },
+                    {
+                        "language": "en",
+                        "name": null,
+                        "renditionName": "English [CC]",
+                        "trackType": "SDH"
+                    },
+                    {
+                        "language": "sk",
+                        "name": null,
+                        "renditionName": "Sloven\u010dina",
+                        "trackType": "NORMAL"
+                    },
+                    {
+                        "language": "da",
+                        "name": null,
+                        "renditionName": "Dansk",
+                        "trackType": "NORMAL"
+                    },
+                    {
+                        "language": "pl",
+                        "name": null,
+                        "renditionName": "Polski",
+                        "trackType": "NORMAL"
+                    },
+                    {
+                        "language": "cmn",
+                        "name": null,
+                        "renditionName": "cmn--forced--",
+                        "trackType": "FORCED"
+                    },
+                    {
+                        "language": "fr-CA",
+                        "name": null,
+                        "renditionName": "fr-CA--forced--",
+                        "trackType": "FORCED"
+                    },
+                    {
+                        "language": "hu",
+                        "name": null,
+                        "renditionName": "hu--forced--",
+                        "trackType": "FORCED"
+                    },
+                    {
+                        "language": "ja",
+                        "name": null,
+                        "renditionName": "Japanese",
+                        "trackType": "NORMAL"
+                    },
+                    {
+                        "language": "ko",
+                        "name": null,
+                        "renditionName": "Korean",
+                        "trackType": "NORMAL"
+                    },
+                    {
+                        "language": "ro",
+                        "name": null,
+                        "renditionName": "Rom\u00e2n\u0103",
+                        "trackType": "NORMAL"
+                    },
+                    {
+                        "language": "el",
+                        "name": null,
+                        "renditionName": "Greek",
+                        "trackType": "NORMAL"
+                    },
+                    {
+                        "language": "fi",
+                        "name": null,
+                        "renditionName": "Suomi",
+                        "trackType": "NORMAL"
+                    },
+                    {
+                        "language": "de",
+                        "name": null,
+                        "renditionName": "de--forced--",
+                        "trackType": "FORCED"
+                    },
+                    {
+                        "language": "pt-BR",
+                        "name": null,
+                        "renditionName": "Portugu\u00eas (Brasil) [CC]",
+                        "trackType": "SDH"
+                    },
+                    {
+                        "language": "nl",
+                        "name": null,
+                        "renditionName": "Nederlands",
+                        "trackType": "NORMAL"
+                    },
+                    {
+                        "language": "zh-Hant",
+                        "name": null,
+                        "renditionName": "Chinese (Traditional)",
+                        "trackType": "NORMAL"
+                    },
+                    {
+                        "language": "es-419",
+                        "name": null,
+                        "renditionName": "Espa\u00f1ol (Latinoamericano)",
+                        "trackType": "NORMAL"
+                    },
+                    {
+                        "language": "cs",
+                        "name": null,
+                        "renditionName": "\u010ce\u0161tina",
+                        "trackType": "NORMAL"
+                    },
+                    {
+                        "language": "es-ES",
+                        "name": null,
+                        "renditionName": "Espa\u00f1ol",
+                        "trackType": "NORMAL"
+                    },
+                    {
+                        "language": "hu",
+                        "name": null,
+                        "renditionName": "Magyar",
+                        "trackType": "NORMAL"
+                    },
+                    {
+                        "language": "fr-FR",
+                        "name": null,
+                        "renditionName": "Fran\u00e7ais",
+                        "trackType": "NORMAL"
+                    },
+                    {
+                        "language": "ko",
+                        "name": null,
+                        "renditionName": "ko--forced--",
+                        "trackType": "FORCED"
+                    },
+                    {
+                        "language": "sv",
+                        "name": null,
+                        "renditionName": "Svenska",
+                        "trackType": "NORMAL"
+                    },
+                    {
+                        "language": "tr",
+                        "name": null,
+                        "renditionName": "T\u00fcrk\u00e7e",
+                        "trackType": "NORMAL"
+                    },
+                    {
+                        "language": "ja",
+                        "name": null,
+                        "renditionName": "ja--forced--",
+                        "trackType": "FORCED"
+                    },
+                    {
+                        "language": "pl",
+                        "name": null,
+                        "renditionName": "pl--forced--",
+                        "trackType": "FORCED"
+                    },
+                    {
+                        "language": "no",
+                        "name": null,
+                        "renditionName": "Norsk",
+                        "trackType": "NORMAL"
+                    },
+                    {
+                        "language": "it",
+                        "name": null,
+                        "renditionName": "Italiano",
+                        "trackType": "NORMAL"
+                    },
+                    {
+                        "language": "tr",
+                        "name": null,
+                        "renditionName": "tr--forced--",
+                        "trackType": "FORCED"
+                    },
+                    {
+                        "language": "zh-Hans",
+                        "name": null,
+                        "renditionName": "Chinese (Simplified)",
+                        "trackType": "NORMAL"
+                    },
+                    {
+                        "language": "it",
+                        "name": null,
+                        "renditionName": "it--forced--",
+                        "trackType": "FORCED"
+                    },
+                    {
+                        "language": "fr-FR",
+                        "name": null,
+                        "renditionName": "fr-FR--forced--",
+                        "trackType": "FORCED"
+                    },
+                    {
+                        "language": "es-419",
+                        "name": null,
+                        "renditionName": "Espa\u00f1ol (Latinoamericano) [CC]",
+                        "trackType": "SDH"
+                    },
+                    {
+                        "language": "es-419",
+                        "name": null,
+                        "renditionName": "es-419--forced--",
+                        "trackType": "FORCED"
+                    },
+                    {
+                        "language": "zh-HK",
+                        "name": null,
+                        "renditionName": "Chinese (Hong Kong)",
+                        "trackType": "NORMAL"
+                    },
+                    {
+                        "language": "cs",
+                        "name": null,
+                        "renditionName": "cs--forced--",
+                        "trackType": "FORCED"
+                    }
+                ],
+                "facets": [
+                    {
+                        "activeAspectRatio": 1.78,
+                        "label": "default"
+                    }
+                ],
+                "features": [
+                    "sdr",
+                    "hdr_10",
+                    "hdr",
+                    "dolby_vision"
+                ],
+                "format": "UHD",
+                "mediaId": "c9ab1931-758f-4458-97c4-7842ed37aa95",
+                "phase": "active",
+                "playbackUrls": [
+                    {
+                        "rel": "video",
+                        "href": "https://disney.playback.edge.bamgrid.com/media/c9ab1931-758f-4458-97c4-7842ed37aa95/scenarios/{scenario}",
+                        "templated": true,
+                        "params": [
+                            {
+                                "name": "scenario",
+                                "description": "Playback scenario"
+                            }
+                        ]
+                    }
+                ],
+                "productType": "VOD",
+                "runtimeMillis": 331000,
+                "state": "ON",
+                "type": "VIDEO"
+            },
+            "meta": null,
+            "mediaRights": {
+                "violations": [],
+                "downloadBlocked": false,
+                "pconBlocked": false,
+                "rewind": true
+            },
+            "milestone": {
+                "FFEC": [
+                    {
+                        "id": "a2b8b75d-a690-4aee-a86d-c5e25a454c30",
+                        "milestoneTime": [
+                            {
+                                "startMillis": 200917,
+                                "type": "offset"
+                            }
+                        ]
+                    }
+                ],
+                "up_next": [
+                    {
+                        "id": "c5a31d17-6f76-4d03-8271-95af2bec46bb",
+                        "milestoneTime": [
+                            {
+                                "startMillis": 207833,
+                                "type": "offset"
+                            }
+                        ]
+                    }
+                ],
+                "LFEC": [
+                    {
+                        "id": "e6f6f415-019a-476f-86cd-b52f01fdf47a",
+                        "milestoneTime": [
+                            {
+                                "startMillis": 230875,
+                                "type": "offset"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "originalLanguage": "en",
+            "participant": {
+                "director": [
+                    {
+                        "characterDetails": null,
+                        "displayName": "Kirsten Lepore",
+                        "order": 1,
+                        "participantId": "110143536",
+                        "sortName": "Lepore, Kirsten"
+                    }
+                ]
+            },
+            "programId": "81ae2d14-98f0-480e-b104-0b175f22d23f",
+            "programType": "episode",
+            "ratings": [
+                {
+                    "advisories": [
+                        "V"
+                    ],
+                    "description": null,
+                    "filingNumber": null,
+                    "system": "AI",
+                    "value": "7+"
+                }
+            ],
+            "releases": [
+                {
+                    "releaseDate": "2022-08-10",
+                    "releaseOrg": null,
+                    "releaseType": "original",
+                    "releaseYear": 2022,
+                    "territory": null
+                }
+            ],
+            "seasonId": "48886ce0-ef37-4268-9b54-46efa32e0de6",
+            "seasonSequenceNumber": 1,
+            "seriesId": "e28fb81e-4d5b-40d4-8e50-a95f20547920",
+            "seriesType": "standard",
+            "sport": null,
+            "tags": [
+                {
+                    "displayName": null,
+                    "type": "disneyPlusOriginal",
+                    "value": "true"
+                },
+                {
+                    "displayName": null,
+                    "type": "titleEidr",
+                    "value": "FB89-0F52-0FC7-80FC-4446-C"
+                }
+            ],
+            "targetLanguage": "en",
+            "text": {
+                "title": {
+                    "full": {
+                        "program": {
+                            "default": {
+                                "content": "The Little Guy",
+                                "language": "tr",
+                                "sourceEntity": "program"
+                            }
+                        },
+                        "series": {
+                            "default": {
+                                "content": "I am Groot",
+                                "language": "tr",
+                                "sourceEntity": "series"
+                            }
+                        }
+                    },
+                    "slug": {
+                        "series": {
+                            "default": {
+                                "content": "i-am-groot",
+                                "language": "tr",
+                                "sourceEntity": "series"
+                            }
+                        },
+                        "program": {
+                            "default": {
+                                "content": "the-little-guy",
+                                "language": "tr",
+                                "sourceEntity": "program"
+                            }
+                        }
+                    },
+                    "brief": {
+                        "program": {
+                            "default": {
+                                "content": "The Little Guy",
+                                "language": "tr",
+                                "sourceEntity": "program"
+                            }
+                        },
+                        "series": {
+                            "default": {
+                                "content": "I am Groot",
+                                "language": "tr",
+                                "sourceEntity": "series"
+                            }
+                        }
+                    }
+                },
+                "description": {
+                    "medium": {
+                        "series": {
+                            "default": {
+                                "content": "Sorun \u00e7\u0131karan a\u011fa\u00e7 dal\u0131, \"I Am Groot\"un ikinci sezonunda yaramazl\u0131k yapmak i\u00e7in d\u00f6n\u00fcyor. Bebek Groot bu sefer Koruyucular'\u0131n uzay gemilerinde kainat\u0131 ve daha \u00f6tesini ke\u015ffeder, yeni ve renkli mek\u00e2nlarla ve yarat\u0131klarla y\u00fcz y\u00fcze ya da burun buruna gelir.",
+                                "language": "tr",
+                                "sourceEntity": "series"
+                            }
+                        },
+                        "program": {
+                            "default": {
+                                "content": "Groot, minyat\u00fcr bir uygarl\u0131k bulur, ancak bu uygarl\u0131k kendilerine g\u00f6re b\u00fcy\u00fck olan yavru a\u011fac\u0131n uzun zamand\u0131r bekledikleri kahraman oldu\u011funa inan\u0131r.",
+                                "language": "tr",
+                                "sourceEntity": "program"
+                            }
+                        }
+                    },
+                    "brief": {
+                        "series": {
+                            "default": {
+                                "content": "Sorun \u00e7\u0131karan a\u011fa\u00e7 dal\u0131, Koruyucular'\u0131n uzay gemilerinde kainat\u0131 ve \u00f6tesini ke\u015ffeder.",
+                                "language": "tr",
+                                "sourceEntity": "series"
+                            }
+                        },
+                        "program": {
+                            "default": {
+                                "content": "Groot, minyat\u00fcr bir uygarl\u0131k bulur ve onlar Groot'u uzun zamand\u0131r bekledikleri kahraman zanneder.",
+                                "language": "tr",
+                                "sourceEntity": "program"
+                            }
+                        }
+                    },
+                    "full": {
+                        "program": {
+                            "default": {
+                                "content": "Groot, minyat\u00fcr bir uygarl\u0131k bulur, ancak bu uygarl\u0131k kendilerine g\u00f6re b\u00fcy\u00fck olan yavru a\u011fac\u0131n uzun zamand\u0131r bekledikleri kahraman oldu\u011funa inan\u0131r.",
+                                "language": "tr",
+                                "sourceEntity": "program"
+                            }
+                        },
+                        "series": {
+                            "default": {
+                                "content": "Sorun \u00e7\u0131karan a\u011fa\u00e7 dal\u0131, \"I Am Groot\"un ikinci sezonunda yaramazl\u0131k yapmak i\u00e7in geri d\u00f6n\u00fcyor. Bebek Groot bu sefer Koruyucular'\u0131n uzay gemilerinde kainat\u0131 ve daha \u00f6tesini ke\u015ffeder, yeni ve renkli mek\u00e2nlarla ve yarat\u0131klarla y\u00fcz y\u00fcze ya da burun buruna gelir. Kirsten Lepore'nin yaz\u0131p y\u00f6netti\u011fi yepyeni be\u015f k\u0131sa b\u00f6l\u00fcml\u00fck dizide, Groot'u seslendiren Vin Diesel galaksiye geri d\u00f6n\u00fcyor.",
+                                "language": "tr",
+                                "sourceEntity": "series"
+                            }
+                        }
+                    }
+                }
+            },
+            "type": "DmcVideo",
+            "typedGenres": [
+                {
+                    "name": "Science Fiction",
+                    "partnerId": "300067",
+                    "type": "BOLT"
+                },
+                {
+                    "name": "Comedy",
+                    "partnerId": "300054",
+                    "type": "BOLT"
+                },
+                {
+                    "name": "Animation",
+                    "partnerId": "300001",
+                    "type": "BOLT"
+                }
+            ],
+            "videoArt": [],
+            "videoId": "e4df2711-6a40-4a09-b96d-20428a68a845"
+        },
+        {
+            "badging": "disneyplusoriginal",
+            "callToAction": null,
+            "channel": null,
+            "contentId": "cec6ec41-d4e9-4c96-9977-bc6b4025db7c",
+            "contentType": "full",
+            "currentAvailability": {
+                "region": "TR",
+                "kidsMode": null
+            },
+            "event": null,
+            "encodedSeriesId": "3FfVmffm1ijj",
+            "episodeNumber": "3",
+            "episodeSequenceNumber": 3,
+            "episodeSeriesSequenceNumber": 3,
+            "family": {
+                "encodedFamilyId": "3Fw3hJGaV2KP",
+                "familyId": "ZGlzbmV5b3JnOmRpc25leS5jb206cmFkYXI6NDQ0MjU3",
+                "parent": true,
+                "parentRef": {
+                    "encodedSeriesId": "3FfVmffm1ijj",
+                    "programId": "4c179849-0d4c-4600-b752-942d8f1119de",
+                    "seasonId": "48886ce0-ef37-4268-9b54-46efa32e0de6",
+                    "seriesId": "e28fb81e-4d5b-40d4-8e50-a95f20547920"
+                },
+                "sequenceNumber": null
+            },
+            "groups": [
+                {
+                    "name": "Marvel",
+                    "partnerGroupId": "377146",
+                    "type": "disneyPlusStorefrontBrand"
+                }
+            ],
+            "internalTitle": "I Am Groot - s1e3 - cec6ec41-d4e9-4c96-9977-bc6b4025db7c",
+            "image": {
+                "tile": {
+                    "1.33": {
+                        "series": {
+                            "default": {
+                                "masterId": "45C5073572D533ED0165E152821528B5B8A0EC4E85CCC4FBC3FBD680C0C05821",
+                                "masterWidth": 2880,
+                                "masterHeight": 2160,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/45C5073572D533ED0165E152821528B5B8A0EC4E85CCC4FBC3FBD680C0C05821"
+                            }
+                        }
+                    },
+                    "0.71": {
+                        "series": {
+                            "default": {
+                                "masterId": "471DAF7F17EF23F20C0D267CF2AB775D2CA645DA9718406A3B2DC6B8564D0AC8",
+                                "masterWidth": 2000,
+                                "masterHeight": 2818,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/471DAF7F17EF23F20C0D267CF2AB775D2CA645DA9718406A3B2DC6B8564D0AC8"
+                            }
+                        }
+                    },
+                    "1.78": {
+                        "series": {
+                            "default": {
+                                "masterId": "F5845A95BEAA5153FA1A1D77D39A4B261F9440B06424B7217AFAA33BB999AAA9",
+                                "masterWidth": 3840,
+                                "masterHeight": 2160,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/F5845A95BEAA5153FA1A1D77D39A4B261F9440B06424B7217AFAA33BB999AAA9"
+                            }
+                        }
+                    }
+                },
+                "title_treatment": {
+                    "1.78": {
+                        "series": {
+                            "default": {
+                                "masterId": "8749A7EC131173CF0C24103768BAD4DDE40FE74789723045AF9D6D651A5CFF61",
+                                "masterWidth": 1920,
+                                "masterHeight": 1080,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/8749A7EC131173CF0C24103768BAD4DDE40FE74789723045AF9D6D651A5CFF61"
+                            }
+                        }
+                    }
+                },
+                "background_details": {
+                    "1.78": {
+                        "series": {
+                            "default": {
+                                "masterId": "06D6ABC402F523B8EC801AF13EA23D0573DD237E2F9DA0ED6951D41F146CCD49",
+                                "masterWidth": 3840,
+                                "masterHeight": 2160,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/06D6ABC402F523B8EC801AF13EA23D0573DD237E2F9DA0ED6951D41F146CCD49"
+                            }
+                        }
+                    },
+                    "1.33": {
+                        "series": {
+                            "default": {
+                                "masterId": "5D8E6AF1820CCC3F7DBE968115866927D2D3B43E0AE41FA9596C41016BC82A05",
+                                "masterWidth": 2880,
+                                "masterHeight": 2160,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/5D8E6AF1820CCC3F7DBE968115866927D2D3B43E0AE41FA9596C41016BC82A05"
+                            }
+                        }
+                    }
+                },
+                "background_up_next": {
+                    "1.78": {
+                        "program": {
+                            "default": {
+                                "masterId": "54F4D6530726348BC03787D5579661748880BA65EAC0218E576ACB703EB3BDE2",
+                                "masterWidth": 3840,
+                                "masterHeight": 2160,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/54F4D6530726348BC03787D5579661748880BA65EAC0218E576ACB703EB3BDE2"
+                            }
+                        },
+                        "series": {
+                            "default": {
+                                "masterId": "697A28AED5D743C018BFB122A62F3A318D61779F6887DDEF6F0EEA87F523C90A",
+                                "masterWidth": 3840,
+                                "masterHeight": 2160,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/697A28AED5D743C018BFB122A62F3A318D61779F6887DDEF6F0EEA87F523C90A"
+                            }
+                        }
+                    }
+                },
+                "thumbnail": {
+                    "1.78": {
+                        "program": {
+                            "default": {
+                                "masterId": "AD25C4B706B1FF6C237EA074BE65F7442C17DA054989DC48D482D5B587C43768",
+                                "masterWidth": 3840,
+                                "masterHeight": 2160,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/AD25C4B706B1FF6C237EA074BE65F7442C17DA054989DC48D482D5B587C43768"
+                            }
+                        }
+                    }
+                }
+            },
+            "labels": [],
+            "league": null,
+            "mediaMetadata": {
+                "activeAspectRatio": 1.78,
+                "audioTracks": [
+                    {
+                        "features": [
+                            "dolby_51",
+                            "dolby_20"
+                        ],
+                        "language": "es-419",
+                        "name": null,
+                        "renditionName": "Espa\u00f1ol (Latinoamericano)",
+                        "trackType": "PRIMARY"
+                    },
+                    {
+                        "features": [
+                            "dolby_51",
+                            "dolby_20"
+                        ],
+                        "language": "sk",
+                        "name": null,
+                        "renditionName": "Sloven\u010dina",
+                        "trackType": "PRIMARY"
+                    },
+                    {
+                        "features": [
+                            "dolby_51",
+                            "dolby_20"
+                        ],
+                        "language": "hu",
+                        "name": null,
+                        "renditionName": "Magyar",
+                        "trackType": "PRIMARY"
+                    },
+                    {
+                        "features": [
+                            "dolby_51",
+                            "dolby_20"
+                        ],
+                        "language": "de",
+                        "name": null,
+                        "renditionName": "Deutsch",
+                        "trackType": "PRIMARY"
+                    },
+                    {
+                        "features": [
+                            "dolby_51",
+                            "dolby_20"
+                        ],
+                        "language": "fr-CA",
+                        "name": null,
+                        "renditionName": "Fran\u00e7ais (Canadien)",
+                        "trackType": "PRIMARY"
+                    },
+                    {
+                        "features": [
+                            "dolby_51",
+                            "dolby_20"
+                        ],
+                        "language": "cmn",
+                        "name": null,
+                        "renditionName": "Mandarin",
+                        "trackType": "PRIMARY"
+                    },
+                    {
+                        "features": [
+                            "dolby_51",
+                            "dolby_20",
+                            "dolby_atmos"
+                        ],
+                        "language": "en",
+                        "name": null,
+                        "renditionName": "English",
+                        "trackType": "PRIMARY"
+                    },
+                    {
+                        "features": [
+                            "dolby_51",
+                            "dolby_20"
+                        ],
+                        "language": "fr-FR",
+                        "name": null,
+                        "renditionName": "Fran\u00e7ais",
+                        "trackType": "PRIMARY"
+                    },
+                    {
+                        "features": [
+                            "dolby_51",
+                            "dolby_20"
+                        ],
+                        "language": "ja",
+                        "name": null,
+                        "renditionName": "Japanese",
+                        "trackType": "PRIMARY"
+                    },
+                    {
+                        "features": [
+                            "dolby_51",
+                            "dolby_20"
+                        ],
+                        "language": "ko",
+                        "name": null,
+                        "renditionName": "Korean",
+                        "trackType": "PRIMARY"
+                    },
+                    {
+                        "features": [
+                            "dolby_51",
+                            "dolby_20"
+                        ],
+                        "language": "ro",
+                        "name": null,
+                        "renditionName": "Rom\u00e2n\u0103",
+                        "trackType": "PRIMARY"
+                    },
+                    {
+                        "features": [
+                            "dolby_51",
+                            "dolby_20"
+                        ],
+                        "language": "pt-BR",
+                        "name": null,
+                        "renditionName": "Portugu\u00eas (Brasil)",
+                        "trackType": "PRIMARY"
+                    },
+                    {
+                        "features": [
+                            "dolby_20"
+                        ],
+                        "language": "es-419",
+                        "name": null,
+                        "renditionName": "Espa\u00f1ol (Latinoamericano) [Audio descriptivo]",
+                        "trackType": "NARRATION"
+                    },
+                    {
+                        "features": [
+                            "dolby_20"
+                        ],
+                        "language": "pt-BR",
+                        "name": null,
+                        "renditionName": "Portugu\u00eas (Brasil) [Descri\u00e7\u00e3o Do \u00c1udio]",
+                        "trackType": "NARRATION"
+                    },
+                    {
+                        "features": [
+                            "dolby_51",
+                            "dolby_20"
+                        ],
+                        "language": "tr",
+                        "name": null,
+                        "renditionName": "T\u00fcrk\u00e7e",
+                        "trackType": "PRIMARY"
+                    },
+                    {
+                        "features": [
+                            "dolby_51",
+                            "dolby_20"
+                        ],
+                        "language": "it",
+                        "name": null,
+                        "renditionName": "Italiano",
+                        "trackType": "PRIMARY"
+                    },
+                    {
+                        "features": [
+                            "dolby_51",
+                            "dolby_20"
+                        ],
+                        "language": "pl",
+                        "name": null,
+                        "renditionName": "Polski",
+                        "trackType": "PRIMARY"
+                    },
+                    {
+                        "features": [
+                            "dolby_51",
+                            "dolby_20"
+                        ],
+                        "language": "cs",
+                        "name": null,
+                        "renditionName": "\u010ce\u0161tina",
+                        "trackType": "PRIMARY"
+                    },
+                    {
+                        "features": [
+                            "dolby_51",
+                            "dolby_20"
+                        ],
+                        "language": "es-ES",
+                        "name": null,
+                        "renditionName": "Espa\u00f1ol",
+                        "trackType": "PRIMARY"
+                    },
+                    {
+                        "features": [
+                            "dolby_20"
+                        ],
+                        "language": "en",
+                        "name": null,
+                        "renditionName": "English [Audio Description]",
+                        "trackType": "NARRATION"
+                    }
+                ],
+                "captions": [
+                    {
+                        "language": "de",
+                        "name": null,
+                        "renditionName": "Deutsch",
+                        "trackType": "NORMAL"
+                    },
+                    {
+                        "language": "pt-BR",
+                        "name": null,
+                        "renditionName": "Portugu\u00eas (Brasil)",
+                        "trackType": "NORMAL"
+                    },
+                    {
+                        "language": "pt-BR",
+                        "name": null,
+                        "renditionName": "pt-BR--forced--",
+                        "trackType": "FORCED"
+                    },
+                    {
+                        "language": "pt-PT",
+                        "name": null,
+                        "renditionName": "Portugu\u00eas",
+                        "trackType": "NORMAL"
+                    },
+                    {
+                        "language": "es-ES",
+                        "name": null,
+                        "renditionName": "es-ES--forced--",
+                        "trackType": "FORCED"
+                    },
+                    {
+                        "language": "sk",
+                        "name": null,
+                        "renditionName": "sk--forced--",
+                        "trackType": "FORCED"
+                    },
+                    {
+                        "language": "ro",
+                        "name": null,
+                        "renditionName": "ro--forced--",
+                        "trackType": "FORCED"
+                    },
+                    {
+                        "language": "fr-CA",
+                        "name": null,
+                        "renditionName": "Fran\u00e7ais (Canadien)",
+                        "trackType": "NORMAL"
+                    },
+                    {
+                        "language": "en",
+                        "name": null,
+                        "renditionName": "English [CC]",
+                        "trackType": "SDH"
+                    },
+                    {
+                        "language": "sk",
+                        "name": null,
+                        "renditionName": "Sloven\u010dina",
+                        "trackType": "NORMAL"
+                    },
+                    {
+                        "language": "da",
+                        "name": null,
+                        "renditionName": "Dansk",
+                        "trackType": "NORMAL"
+                    },
+                    {
+                        "language": "pl",
+                        "name": null,
+                        "renditionName": "Polski",
+                        "trackType": "NORMAL"
+                    },
+                    {
+                        "language": "cmn",
+                        "name": null,
+                        "renditionName": "cmn--forced--",
+                        "trackType": "FORCED"
+                    },
+                    {
+                        "language": "fr-CA",
+                        "name": null,
+                        "renditionName": "fr-CA--forced--",
+                        "trackType": "FORCED"
+                    },
+                    {
+                        "language": "hu",
+                        "name": null,
+                        "renditionName": "hu--forced--",
+                        "trackType": "FORCED"
+                    },
+                    {
+                        "language": "ja",
+                        "name": null,
+                        "renditionName": "Japanese",
+                        "trackType": "NORMAL"
+                    },
+                    {
+                        "language": "ko",
+                        "name": null,
+                        "renditionName": "Korean",
+                        "trackType": "NORMAL"
+                    },
+                    {
+                        "language": "ro",
+                        "name": null,
+                        "renditionName": "Rom\u00e2n\u0103",
+                        "trackType": "NORMAL"
+                    },
+                    {
+                        "language": "el",
+                        "name": null,
+                        "renditionName": "Greek",
+                        "trackType": "NORMAL"
+                    },
+                    {
+                        "language": "fi",
+                        "name": null,
+                        "renditionName": "Suomi",
+                        "trackType": "NORMAL"
+                    },
+                    {
+                        "language": "de",
+                        "name": null,
+                        "renditionName": "de--forced--",
+                        "trackType": "FORCED"
+                    },
+                    {
+                        "language": "pt-BR",
+                        "name": null,
+                        "renditionName": "Portugu\u00eas (Brasil) [CC]",
+                        "trackType": "SDH"
+                    },
+                    {
+                        "language": "nl",
+                        "name": null,
+                        "renditionName": "Nederlands",
+                        "trackType": "NORMAL"
+                    },
+                    {
+                        "language": "zh-Hant",
+                        "name": null,
+                        "renditionName": "Chinese (Traditional)",
+                        "trackType": "NORMAL"
+                    },
+                    {
+                        "language": "es-419",
+                        "name": null,
+                        "renditionName": "Espa\u00f1ol (Latinoamericano)",
+                        "trackType": "NORMAL"
+                    },
+                    {
+                        "language": "cs",
+                        "name": null,
+                        "renditionName": "\u010ce\u0161tina",
+                        "trackType": "NORMAL"
+                    },
+                    {
+                        "language": "es-ES",
+                        "name": null,
+                        "renditionName": "Espa\u00f1ol",
+                        "trackType": "NORMAL"
+                    },
+                    {
+                        "language": "hu",
+                        "name": null,
+                        "renditionName": "Magyar",
+                        "trackType": "NORMAL"
+                    },
+                    {
+                        "language": "fr-FR",
+                        "name": null,
+                        "renditionName": "Fran\u00e7ais",
+                        "trackType": "NORMAL"
+                    },
+                    {
+                        "language": "ko",
+                        "name": null,
+                        "renditionName": "ko--forced--",
+                        "trackType": "FORCED"
+                    },
+                    {
+                        "language": "sv",
+                        "name": null,
+                        "renditionName": "Svenska",
+                        "trackType": "NORMAL"
+                    },
+                    {
+                        "language": "tr",
+                        "name": null,
+                        "renditionName": "T\u00fcrk\u00e7e",
+                        "trackType": "NORMAL"
+                    },
+                    {
+                        "language": "ja",
+                        "name": null,
+                        "renditionName": "ja--forced--",
+                        "trackType": "FORCED"
+                    },
+                    {
+                        "language": "pl",
+                        "name": null,
+                        "renditionName": "pl--forced--",
+                        "trackType": "FORCED"
+                    },
+                    {
+                        "language": "no",
+                        "name": null,
+                        "renditionName": "Norsk",
+                        "trackType": "NORMAL"
+                    },
+                    {
+                        "language": "it",
+                        "name": null,
+                        "renditionName": "Italiano",
+                        "trackType": "NORMAL"
+                    },
+                    {
+                        "language": "zh-Hans",
+                        "name": null,
+                        "renditionName": "Chinese (Simplified)",
+                        "trackType": "NORMAL"
+                    },
+                    {
+                        "language": "fr-FR",
+                        "name": null,
+                        "renditionName": "fr-FR--forced--",
+                        "trackType": "FORCED"
+                    },
+                    {
+                        "language": "es-419",
+                        "name": null,
+                        "renditionName": "Espa\u00f1ol (Latinoamericano) [CC]",
+                        "trackType": "SDH"
+                    },
+                    {
+                        "language": "es-419",
+                        "name": null,
+                        "renditionName": "es-419--forced--",
+                        "trackType": "FORCED"
+                    },
+                    {
+                        "language": "zh-HK",
+                        "name": null,
+                        "renditionName": "Chinese (Hong Kong)",
+                        "trackType": "NORMAL"
+                    },
+                    {
+                        "language": "cs",
+                        "name": null,
+                        "renditionName": "cs--forced--",
+                        "trackType": "FORCED"
+                    }
+                ],
+                "facets": [
+                    {
+                        "activeAspectRatio": 1.78,
+                        "label": "default"
+                    }
+                ],
+                "features": [
+                    "sdr",
+                    "hdr_10",
+                    "hdr",
+                    "dolby_vision"
+                ],
+                "format": "UHD",
+                "mediaId": "eefe2f94-b18a-4d8d-a3d5-a7cb875ad9fe",
+                "phase": "active",
+                "playbackUrls": [
+                    {
+                        "rel": "video",
+                        "href": "https://disney.playback.edge.bamgrid.com/media/eefe2f94-b18a-4d8d-a3d5-a7cb875ad9fe/scenarios/{scenario}",
+                        "templated": true,
+                        "params": [
+                            {
+                                "name": "scenario",
+                                "description": "Playback scenario"
+                            }
+                        ]
+                    }
+                ],
+                "productType": "VOD",
+                "runtimeMillis": 340000,
+                "state": "ON",
+                "type": "VIDEO"
+            },
+            "meta": null,
+            "mediaRights": {
+                "violations": [],
+                "downloadBlocked": false,
+                "pconBlocked": false,
+                "rewind": true
+            },
+            "milestone": {
+                "FFEC": [
+                    {
+                        "id": "531e652e-596f-4371-aefb-1ad2a175a73c",
+                        "milestoneTime": [
+                            {
+                                "startMillis": 207917,
+                                "type": "offset"
+                            }
+                        ]
+                    }
+                ],
+                "up_next": [
+                    {
+                        "id": "f684b41e-23b1-47f2-8e69-e4dd0adc0c7a",
+                        "milestoneTime": [
+                            {
+                                "startMillis": 214833,
+                                "type": "offset"
+                            }
+                        ]
+                    }
+                ],
+                "LFEC": [
+                    {
+                        "id": "c0d72a5e-bcf3-40cd-b68b-6fa70b50155f",
+                        "milestoneTime": [
+                            {
+                                "startMillis": 237875,
+                                "type": "offset"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "originalLanguage": "en",
+            "participant": {
+                "director": [
+                    {
+                        "characterDetails": null,
+                        "displayName": "Kirsten Lepore",
+                        "order": 1,
+                        "participantId": "110143536",
+                        "sortName": "Lepore, Kirsten"
+                    }
+                ]
+            },
+            "programId": "4c179849-0d4c-4600-b752-942d8f1119de",
+            "programType": "episode",
+            "ratings": [
+                {
+                    "advisories": [
+                        "V"
+                    ],
+                    "description": null,
+                    "filingNumber": null,
+                    "system": "AI",
+                    "value": "7+"
+                }
+            ],
+            "releases": [
+                {
+                    "releaseDate": "2022-08-10",
+                    "releaseOrg": null,
+                    "releaseType": "original",
+                    "releaseYear": 2022,
+                    "territory": null
+                }
+            ],
+            "seasonId": "48886ce0-ef37-4268-9b54-46efa32e0de6",
+            "seasonSequenceNumber": 1,
+            "seriesId": "e28fb81e-4d5b-40d4-8e50-a95f20547920",
+            "seriesType": "standard",
+            "sport": null,
+            "tags": [
+                {
+                    "displayName": null,
+                    "type": "disneyPlusOriginal",
+                    "value": "true"
+                },
+                {
+                    "displayName": null,
+                    "type": "titleEidr",
+                    "value": "C781-09BA-F3DB-B3B4-568A-I"
+                }
+            ],
+            "targetLanguage": "en",
+            "text": {
+                "description": {
+                    "medium": {
+                        "series": {
+                            "default": {
+                                "content": "Sorun \u00e7\u0131karan a\u011fa\u00e7 dal\u0131, \"I Am Groot\"un ikinci sezonunda yaramazl\u0131k yapmak i\u00e7in d\u00f6n\u00fcyor. Bebek Groot bu sefer Koruyucular'\u0131n uzay gemilerinde kainat\u0131 ve daha \u00f6tesini ke\u015ffeder, yeni ve renkli mek\u00e2nlarla ve yarat\u0131klarla y\u00fcz y\u00fcze ya da burun buruna gelir.",
+                                "language": "tr",
+                                "sourceEntity": "series"
+                            }
+                        },
+                        "program": {
+                            "default": {
+                                "content": "Groot, Kuadrant'a dadanan \u00fcrk\u00fcn\u00e7 bir sesi ara\u015ft\u0131r\u0131r, ama sonunda bunun g\u00fcr\u00fclt\u00fcl\u00fc bir dans yar\u0131\u015fmas\u0131 oldu\u011funu anlar.",
+                                "language": "tr",
+                                "sourceEntity": "program"
+                            }
+                        }
+                    },
+                    "brief": {
+                        "series": {
+                            "default": {
+                                "content": "Sorun \u00e7\u0131karan a\u011fa\u00e7 dal\u0131, Koruyucular'\u0131n uzay gemilerinde kainat\u0131 ve \u00f6tesini ke\u015ffeder.",
+                                "language": "tr",
+                                "sourceEntity": "series"
+                            }
+                        },
+                        "program": {
+                            "default": {
+                                "content": "Groot, Kuadrant'a dadanan \u00fcrk\u00fcn\u00e7 bir sesi ara\u015ft\u0131r\u0131r, sonra bunun bir dans yar\u0131\u015fmas\u0131 oldu\u011funu anlar.",
+                                "language": "tr",
+                                "sourceEntity": "program"
+                            }
+                        }
+                    },
+                    "full": {
+                        "program": {
+                            "default": {
+                                "content": "Groot, Kuadrant'a dadanan \u00fcrk\u00fcn\u00e7 bir sesi ara\u015ft\u0131r\u0131r, ama sonunda bunun g\u00fcr\u00fclt\u00fcl\u00fc bir dans yar\u0131\u015fmas\u0131 oldu\u011funu anlar.",
+                                "language": "tr",
+                                "sourceEntity": "program"
+                            }
+                        },
+                        "series": {
+                            "default": {
+                                "content": "Sorun \u00e7\u0131karan a\u011fa\u00e7 dal\u0131, \"I Am Groot\"un ikinci sezonunda yaramazl\u0131k yapmak i\u00e7in geri d\u00f6n\u00fcyor. Bebek Groot bu sefer Koruyucular'\u0131n uzay gemilerinde kainat\u0131 ve daha \u00f6tesini ke\u015ffeder, yeni ve renkli mek\u00e2nlarla ve yarat\u0131klarla y\u00fcz y\u00fcze ya da burun buruna gelir. Kirsten Lepore'nin yaz\u0131p y\u00f6netti\u011fi yepyeni be\u015f k\u0131sa b\u00f6l\u00fcml\u00fck dizide, Groot'u seslendiren Vin Diesel galaksiye geri d\u00f6n\u00fcyor.",
+                                "language": "tr",
+                                "sourceEntity": "series"
+                            }
+                        }
+                    }
+                },
+                "title": {
+                    "full": {
+                        "series": {
+                            "default": {
+                                "content": "I am Groot",
+                                "language": "tr",
+                                "sourceEntity": "series"
+                            }
+                        },
+                        "program": {
+                            "default": {
+                                "content": "Groot's Pursuit",
+                                "language": "tr",
+                                "sourceEntity": "program"
+                            }
+                        }
+                    },
+                    "slug": {
+                        "series": {
+                            "default": {
+                                "content": "i-am-groot",
+                                "language": "tr",
+                                "sourceEntity": "series"
+                            }
+                        },
+                        "program": {
+                            "default": {
+                                "content": "groots-pursuit",
+                                "language": "tr",
+                                "sourceEntity": "program"
+                            }
+                        }
+                    },
+                    "brief": {
+                        "series": {
+                            "default": {
+                                "content": "I am Groot",
+                                "language": "tr",
+                                "sourceEntity": "series"
+                            }
+                        },
+                        "program": {
+                            "default": {
+                                "content": "Groot's Pursuit",
+                                "language": "tr",
+                                "sourceEntity": "program"
+                            }
+                        }
+                    }
+                }
+            },
+            "type": "DmcVideo",
+            "typedGenres": [
+                {
+                    "name": "Science Fiction",
+                    "partnerId": "300067",
+                    "type": "BOLT"
+                },
+                {
+                    "name": "Comedy",
+                    "partnerId": "300054",
+                    "type": "BOLT"
+                },
+                {
+                    "name": "Animation",
+                    "partnerId": "300001",
+                    "type": "BOLT"
+                }
+            ],
+            "videoArt": [],
+            "videoId": "2251e2b4-5290-4807-a469-9901055610c1"
+        },
+        {
+            "badging": "disneyplusoriginal",
+            "callToAction": null,
+            "channel": null,
+            "contentId": "1652ac5b-f6c4-430d-94c3-ffe6da014ec5",
+            "contentType": "full",
+            "currentAvailability": {
+                "region": "TR",
+                "kidsMode": null
+            },
+            "event": null,
+            "encodedSeriesId": "3FfVmffm1ijj",
+            "episodeNumber": "4",
+            "episodeSequenceNumber": 4,
+            "episodeSeriesSequenceNumber": 4,
+            "family": {
+                "encodedFamilyId": "4wgw3OoHuIPX",
+                "familyId": "ZGlzbmV5b3JnOmRpc25leS5jb206cmFkYXI6NDQ0MjU4",
+                "parent": true,
+                "parentRef": {
+                    "encodedSeriesId": "3FfVmffm1ijj",
+                    "programId": "746b4a5f-7fd2-4705-a817-f3a8b8013545",
+                    "seasonId": "48886ce0-ef37-4268-9b54-46efa32e0de6",
+                    "seriesId": "e28fb81e-4d5b-40d4-8e50-a95f20547920"
+                },
+                "sequenceNumber": null
+            },
+            "groups": [
+                {
+                    "name": "Marvel",
+                    "partnerGroupId": "377146",
+                    "type": "disneyPlusStorefrontBrand"
+                }
+            ],
+            "internalTitle": "I Am Groot - s1e4 - 1652ac5b-f6c4-430d-94c3-ffe6da014ec5",
+            "image": {
+                "tile": {
+                    "1.33": {
+                        "series": {
+                            "default": {
+                                "masterId": "45C5073572D533ED0165E152821528B5B8A0EC4E85CCC4FBC3FBD680C0C05821",
+                                "masterWidth": 2880,
+                                "masterHeight": 2160,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/45C5073572D533ED0165E152821528B5B8A0EC4E85CCC4FBC3FBD680C0C05821"
+                            }
+                        }
+                    },
+                    "0.71": {
+                        "series": {
+                            "default": {
+                                "masterId": "471DAF7F17EF23F20C0D267CF2AB775D2CA645DA9718406A3B2DC6B8564D0AC8",
+                                "masterWidth": 2000,
+                                "masterHeight": 2818,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/471DAF7F17EF23F20C0D267CF2AB775D2CA645DA9718406A3B2DC6B8564D0AC8"
+                            }
+                        }
+                    },
+                    "1.78": {
+                        "series": {
+                            "default": {
+                                "masterId": "F5845A95BEAA5153FA1A1D77D39A4B261F9440B06424B7217AFAA33BB999AAA9",
+                                "masterWidth": 3840,
+                                "masterHeight": 2160,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/F5845A95BEAA5153FA1A1D77D39A4B261F9440B06424B7217AFAA33BB999AAA9"
+                            }
+                        }
+                    }
+                },
+                "title_treatment": {
+                    "1.78": {
+                        "series": {
+                            "default": {
+                                "masterId": "8749A7EC131173CF0C24103768BAD4DDE40FE74789723045AF9D6D651A5CFF61",
+                                "masterWidth": 1920,
+                                "masterHeight": 1080,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/8749A7EC131173CF0C24103768BAD4DDE40FE74789723045AF9D6D651A5CFF61"
+                            }
+                        }
+                    }
+                },
+                "background_details": {
+                    "1.78": {
+                        "series": {
+                            "default": {
+                                "masterId": "06D6ABC402F523B8EC801AF13EA23D0573DD237E2F9DA0ED6951D41F146CCD49",
+                                "masterWidth": 3840,
+                                "masterHeight": 2160,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/06D6ABC402F523B8EC801AF13EA23D0573DD237E2F9DA0ED6951D41F146CCD49"
+                            }
+                        }
+                    },
+                    "1.33": {
+                        "series": {
+                            "default": {
+                                "masterId": "5D8E6AF1820CCC3F7DBE968115866927D2D3B43E0AE41FA9596C41016BC82A05",
+                                "masterWidth": 2880,
+                                "masterHeight": 2160,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/5D8E6AF1820CCC3F7DBE968115866927D2D3B43E0AE41FA9596C41016BC82A05"
+                            }
+                        }
+                    }
+                },
+                "background_up_next": {
+                    "1.78": {
+                        "program": {
+                            "default": {
+                                "masterId": "FFC9F0EAC4622545DD365AE247B1E7BF1172601396C96385FD1817E5911D6F2F",
+                                "masterWidth": 3840,
+                                "masterHeight": 2160,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/FFC9F0EAC4622545DD365AE247B1E7BF1172601396C96385FD1817E5911D6F2F"
+                            }
+                        },
+                        "series": {
+                            "default": {
+                                "masterId": "697A28AED5D743C018BFB122A62F3A318D61779F6887DDEF6F0EEA87F523C90A",
+                                "masterWidth": 3840,
+                                "masterHeight": 2160,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/697A28AED5D743C018BFB122A62F3A318D61779F6887DDEF6F0EEA87F523C90A"
+                            }
+                        }
+                    }
+                },
+                "thumbnail": {
+                    "1.78": {
+                        "program": {
+                            "default": {
+                                "masterId": "AFBEA216972728A5BFA2DA8089D961C27331AB3A0559439783C49A0EDEE8D5A7",
+                                "masterWidth": 3840,
+                                "masterHeight": 2160,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/AFBEA216972728A5BFA2DA8089D961C27331AB3A0559439783C49A0EDEE8D5A7"
+                            }
+                        }
+                    }
+                }
+            },
+            "labels": [],
+            "league": null,
+            "mediaMetadata": {
+                "activeAspectRatio": 1.78,
+                "audioTracks": [
+                    {
+                        "features": [
+                            "dolby_51",
+                            "dolby_20"
+                        ],
+                        "language": "es-419",
+                        "name": null,
+                        "renditionName": "Espa\u00f1ol (Latinoamericano)",
+                        "trackType": "PRIMARY"
+                    },
+                    {
+                        "features": [
+                            "dolby_51",
+                            "dolby_20"
+                        ],
+                        "language": "sk",
+                        "name": null,
+                        "renditionName": "Sloven\u010dina",
+                        "trackType": "PRIMARY"
+                    },
+                    {
+                        "features": [
+                            "dolby_51",
+                            "dolby_20"
+                        ],
+                        "language": "hu",
+                        "name": null,
+                        "renditionName": "Magyar",
+                        "trackType": "PRIMARY"
+                    },
+                    {
+                        "features": [
+                            "dolby_51",
+                            "dolby_20"
+                        ],
+                        "language": "de",
+                        "name": null,
+                        "renditionName": "Deutsch",
+                        "trackType": "PRIMARY"
+                    },
+                    {
+                        "features": [
+                            "dolby_51",
+                            "dolby_20"
+                        ],
+                        "language": "fr-CA",
+                        "name": null,
+                        "renditionName": "Fran\u00e7ais (Canadien)",
+                        "trackType": "PRIMARY"
+                    },
+                    {
+                        "features": [
+                            "dolby_51",
+                            "dolby_20"
+                        ],
+                        "language": "cmn",
+                        "name": null,
+                        "renditionName": "Mandarin",
+                        "trackType": "PRIMARY"
+                    },
+                    {
+                        "features": [
+                            "dolby_51",
+                            "dolby_20",
+                            "dolby_atmos"
+                        ],
+                        "language": "en",
+                        "name": null,
+                        "renditionName": "English",
+                        "trackType": "PRIMARY"
+                    },
+                    {
+                        "features": [
+                            "dolby_51",
+                            "dolby_20"
+                        ],
+                        "language": "fr-FR",
+                        "name": null,
+                        "renditionName": "Fran\u00e7ais",
+                        "trackType": "PRIMARY"
+                    },
+                    {
+                        "features": [
+                            "dolby_51",
+                            "dolby_20"
+                        ],
+                        "language": "ja",
+                        "name": null,
+                        "renditionName": "Japanese",
+                        "trackType": "PRIMARY"
+                    },
+                    {
+                        "features": [
+                            "dolby_51",
+                            "dolby_20"
+                        ],
+                        "language": "ko",
+                        "name": null,
+                        "renditionName": "Korean",
+                        "trackType": "PRIMARY"
+                    },
+                    {
+                        "features": [
+                            "dolby_51",
+                            "dolby_20"
+                        ],
+                        "language": "ro",
+                        "name": null,
+                        "renditionName": "Rom\u00e2n\u0103",
+                        "trackType": "PRIMARY"
+                    },
+                    {
+                        "features": [
+                            "dolby_51",
+                            "dolby_20"
+                        ],
+                        "language": "pt-BR",
+                        "name": null,
+                        "renditionName": "Portugu\u00eas (Brasil)",
+                        "trackType": "PRIMARY"
+                    },
+                    {
+                        "features": [
+                            "dolby_20"
+                        ],
+                        "language": "es-419",
+                        "name": null,
+                        "renditionName": "Espa\u00f1ol (Latinoamericano) [Audio descriptivo]",
+                        "trackType": "NARRATION"
+                    },
+                    {
+                        "features": [
+                            "dolby_20"
+                        ],
+                        "language": "pt-BR",
+                        "name": null,
+                        "renditionName": "Portugu\u00eas (Brasil) [Descri\u00e7\u00e3o Do \u00c1udio]",
+                        "trackType": "NARRATION"
+                    },
+                    {
+                        "features": [
+                            "dolby_51",
+                            "dolby_20"
+                        ],
+                        "language": "tr",
+                        "name": null,
+                        "renditionName": "T\u00fcrk\u00e7e",
+                        "trackType": "PRIMARY"
+                    },
+                    {
+                        "features": [
+                            "dolby_51",
+                            "dolby_20"
+                        ],
+                        "language": "it",
+                        "name": null,
+                        "renditionName": "Italiano",
+                        "trackType": "PRIMARY"
+                    },
+                    {
+                        "features": [
+                            "dolby_51",
+                            "dolby_20"
+                        ],
+                        "language": "pl",
+                        "name": null,
+                        "renditionName": "Polski",
+                        "trackType": "PRIMARY"
+                    },
+                    {
+                        "features": [
+                            "dolby_51",
+                            "dolby_20"
+                        ],
+                        "language": "cs",
+                        "name": null,
+                        "renditionName": "\u010ce\u0161tina",
+                        "trackType": "PRIMARY"
+                    },
+                    {
+                        "features": [
+                            "dolby_51",
+                            "dolby_20"
+                        ],
+                        "language": "es-ES",
+                        "name": null,
+                        "renditionName": "Espa\u00f1ol",
+                        "trackType": "PRIMARY"
+                    },
+                    {
+                        "features": [
+                            "dolby_20"
+                        ],
+                        "language": "en",
+                        "name": null,
+                        "renditionName": "English [Audio Description]",
+                        "trackType": "NARRATION"
+                    }
+                ],
+                "captions": [
+                    {
+                        "language": "de",
+                        "name": null,
+                        "renditionName": "Deutsch",
+                        "trackType": "NORMAL"
+                    },
+                    {
+                        "language": "pt-BR",
+                        "name": null,
+                        "renditionName": "Portugu\u00eas (Brasil)",
+                        "trackType": "NORMAL"
+                    },
+                    {
+                        "language": "pt-BR",
+                        "name": null,
+                        "renditionName": "pt-BR--forced--",
+                        "trackType": "FORCED"
+                    },
+                    {
+                        "language": "pt-PT",
+                        "name": null,
+                        "renditionName": "Portugu\u00eas",
+                        "trackType": "NORMAL"
+                    },
+                    {
+                        "language": "es-ES",
+                        "name": null,
+                        "renditionName": "es-ES--forced--",
+                        "trackType": "FORCED"
+                    },
+                    {
+                        "language": "sk",
+                        "name": null,
+                        "renditionName": "sk--forced--",
+                        "trackType": "FORCED"
+                    },
+                    {
+                        "language": "ro",
+                        "name": null,
+                        "renditionName": "ro--forced--",
+                        "trackType": "FORCED"
+                    },
+                    {
+                        "language": "fr-CA",
+                        "name": null,
+                        "renditionName": "Fran\u00e7ais (Canadien)",
+                        "trackType": "NORMAL"
+                    },
+                    {
+                        "language": "en",
+                        "name": null,
+                        "renditionName": "English [CC]",
+                        "trackType": "SDH"
+                    },
+                    {
+                        "language": "sk",
+                        "name": null,
+                        "renditionName": "Sloven\u010dina",
+                        "trackType": "NORMAL"
+                    },
+                    {
+                        "language": "da",
+                        "name": null,
+                        "renditionName": "Dansk",
+                        "trackType": "NORMAL"
+                    },
+                    {
+                        "language": "pl",
+                        "name": null,
+                        "renditionName": "Polski",
+                        "trackType": "NORMAL"
+                    },
+                    {
+                        "language": "cmn",
+                        "name": null,
+                        "renditionName": "cmn--forced--",
+                        "trackType": "FORCED"
+                    },
+                    {
+                        "language": "fr-CA",
+                        "name": null,
+                        "renditionName": "fr-CA--forced--",
+                        "trackType": "FORCED"
+                    },
+                    {
+                        "language": "hu",
+                        "name": null,
+                        "renditionName": "hu--forced--",
+                        "trackType": "FORCED"
+                    },
+                    {
+                        "language": "ja",
+                        "name": null,
+                        "renditionName": "Japanese",
+                        "trackType": "NORMAL"
+                    },
+                    {
+                        "language": "ko",
+                        "name": null,
+                        "renditionName": "Korean",
+                        "trackType": "NORMAL"
+                    },
+                    {
+                        "language": "ro",
+                        "name": null,
+                        "renditionName": "Rom\u00e2n\u0103",
+                        "trackType": "NORMAL"
+                    },
+                    {
+                        "language": "el",
+                        "name": null,
+                        "renditionName": "Greek",
+                        "trackType": "NORMAL"
+                    },
+                    {
+                        "language": "fi",
+                        "name": null,
+                        "renditionName": "Suomi",
+                        "trackType": "NORMAL"
+                    },
+                    {
+                        "language": "de",
+                        "name": null,
+                        "renditionName": "de--forced--",
+                        "trackType": "FORCED"
+                    },
+                    {
+                        "language": "pt-BR",
+                        "name": null,
+                        "renditionName": "Portugu\u00eas (Brasil) [CC]",
+                        "trackType": "SDH"
+                    },
+                    {
+                        "language": "nl",
+                        "name": null,
+                        "renditionName": "Nederlands",
+                        "trackType": "NORMAL"
+                    },
+                    {
+                        "language": "zh-Hant",
+                        "name": null,
+                        "renditionName": "Chinese (Traditional)",
+                        "trackType": "NORMAL"
+                    },
+                    {
+                        "language": "es-419",
+                        "name": null,
+                        "renditionName": "Espa\u00f1ol (Latinoamericano)",
+                        "trackType": "NORMAL"
+                    },
+                    {
+                        "language": "cs",
+                        "name": null,
+                        "renditionName": "\u010ce\u0161tina",
+                        "trackType": "NORMAL"
+                    },
+                    {
+                        "language": "es-ES",
+                        "name": null,
+                        "renditionName": "Espa\u00f1ol",
+                        "trackType": "NORMAL"
+                    },
+                    {
+                        "language": "hu",
+                        "name": null,
+                        "renditionName": "Magyar",
+                        "trackType": "NORMAL"
+                    },
+                    {
+                        "language": "fr-FR",
+                        "name": null,
+                        "renditionName": "Fran\u00e7ais",
+                        "trackType": "NORMAL"
+                    },
+                    {
+                        "language": "ko",
+                        "name": null,
+                        "renditionName": "ko--forced--",
+                        "trackType": "FORCED"
+                    },
+                    {
+                        "language": "sv",
+                        "name": null,
+                        "renditionName": "Svenska",
+                        "trackType": "NORMAL"
+                    },
+                    {
+                        "language": "tr",
+                        "name": null,
+                        "renditionName": "T\u00fcrk\u00e7e",
+                        "trackType": "NORMAL"
+                    },
+                    {
+                        "language": "ja",
+                        "name": null,
+                        "renditionName": "ja--forced--",
+                        "trackType": "FORCED"
+                    },
+                    {
+                        "language": "pl",
+                        "name": null,
+                        "renditionName": "pl--forced--",
+                        "trackType": "FORCED"
+                    },
+                    {
+                        "language": "no",
+                        "name": null,
+                        "renditionName": "Norsk",
+                        "trackType": "NORMAL"
+                    },
+                    {
+                        "language": "it",
+                        "name": null,
+                        "renditionName": "Italiano",
+                        "trackType": "NORMAL"
+                    },
+                    {
+                        "language": "zh-Hans",
+                        "name": null,
+                        "renditionName": "Chinese (Simplified)",
+                        "trackType": "NORMAL"
+                    },
+                    {
+                        "language": "fr-FR",
+                        "name": null,
+                        "renditionName": "fr-FR--forced--",
+                        "trackType": "FORCED"
+                    },
+                    {
+                        "language": "es-419",
+                        "name": null,
+                        "renditionName": "Espa\u00f1ol (Latinoamericano) [CC]",
+                        "trackType": "SDH"
+                    },
+                    {
+                        "language": "es-419",
+                        "name": null,
+                        "renditionName": "es-419--forced--",
+                        "trackType": "FORCED"
+                    },
+                    {
+                        "language": "zh-HK",
+                        "name": null,
+                        "renditionName": "Chinese (Hong Kong)",
+                        "trackType": "NORMAL"
+                    },
+                    {
+                        "language": "cs",
+                        "name": null,
+                        "renditionName": "cs--forced--",
+                        "trackType": "FORCED"
+                    }
+                ],
+                "facets": [
+                    {
+                        "activeAspectRatio": 1.78,
+                        "label": "default"
+                    }
+                ],
+                "features": [
+                    "sdr",
+                    "hdr_10",
+                    "hdr",
+                    "dolby_vision"
+                ],
+                "format": "UHD",
+                "mediaId": "034fbf5c-6c26-4a22-837d-7a7087ab1597",
+                "phase": "active",
+                "playbackUrls": [
+                    {
+                        "rel": "video",
+                        "href": "https://disney.playback.edge.bamgrid.com/media/034fbf5c-6c26-4a22-837d-7a7087ab1597/scenarios/{scenario}",
+                        "templated": true,
+                        "params": [
+                            {
+                                "name": "scenario",
+                                "description": "Playback scenario"
+                            }
+                        ]
+                    }
+                ],
+                "productType": "VOD",
+                "runtimeMillis": 345000,
+                "state": "ON",
+                "type": "VIDEO"
+            },
+            "meta": null,
+            "mediaRights": {
+                "violations": [],
+                "downloadBlocked": false,
+                "pconBlocked": false,
+                "rewind": true
+            },
+            "milestone": {
+                "FFEC": [
+                    {
+                        "id": "4f51304a-2caa-49f6-8ef6-9d5d25579b0c",
+                        "milestoneTime": [
+                            {
+                                "startMillis": 214792,
+                                "type": "offset"
+                            }
+                        ]
+                    }
+                ],
+                "up_next": [
+                    {
+                        "id": "1a59bd67-7d31-4157-8281-edb46172e672",
+                        "milestoneTime": [
+                            {
+                                "startMillis": 221708,
+                                "type": "offset"
+                            }
+                        ]
+                    }
+                ],
+                "LFEC": [
+                    {
+                        "id": "f17c8d1b-e509-47d0-bfa3-ffd94500ae81",
+                        "milestoneTime": [
+                            {
+                                "startMillis": 244792,
+                                "type": "offset"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "originalLanguage": "en",
+            "participant": {
+                "director": [
+                    {
+                        "characterDetails": null,
+                        "displayName": "Kirsten Lepore",
+                        "order": 1,
+                        "participantId": "110143536",
+                        "sortName": "Lepore, Kirsten"
+                    }
+                ]
+            },
+            "programId": "746b4a5f-7fd2-4705-a817-f3a8b8013545",
+            "programType": "episode",
+            "ratings": [
+                {
+                    "advisories": [
+                        "V"
+                    ],
+                    "description": null,
+                    "filingNumber": null,
+                    "system": "AI",
+                    "value": "7+"
+                }
+            ],
+            "releases": [
+                {
+                    "releaseDate": "2022-08-10",
+                    "releaseOrg": null,
+                    "releaseType": "original",
+                    "releaseYear": 2022,
+                    "territory": null
+                }
+            ],
+            "seasonId": "48886ce0-ef37-4268-9b54-46efa32e0de6",
+            "seasonSequenceNumber": 1,
+            "seriesId": "e28fb81e-4d5b-40d4-8e50-a95f20547920",
+            "seriesType": "standard",
+            "sport": null,
+            "tags": [
+                {
+                    "displayName": null,
+                    "type": "disneyPlusOriginal",
+                    "value": "true"
+                },
+                {
+                    "displayName": null,
+                    "type": "titleEidr",
+                    "value": "78CF-CB57-BA12-755A-9D6B-3"
+                }
+            ],
+            "targetLanguage": "en",
+            "text": {
+                "description": {
+                    "medium": {
+                        "series": {
+                            "default": {
+                                "content": "Sorun \u00e7\u0131karan a\u011fa\u00e7 dal\u0131, \"I Am Groot\"un ikinci sezonunda yaramazl\u0131k yapmak i\u00e7in d\u00f6n\u00fcyor. Bebek Groot bu sefer Koruyucular'\u0131n uzay gemilerinde kainat\u0131 ve daha \u00f6tesini ke\u015ffeder, yeni ve renkli mek\u00e2nlarla ve yarat\u0131klarla y\u00fcz y\u00fcze ya da burun buruna gelir.",
+                                "language": "tr",
+                                "sourceEntity": "series"
+                            }
+                        },
+                        "program": {
+                            "default": {
+                                "content": "Herkesin rahatlamak ve temizlenmek i\u00e7in biraz tek ba\u015f\u0131na zaman ge\u00e7irmesi gerekir, ancak k\u00fc\u00e7\u00fck bir Flora Colossi i\u00e7in i\u015fler \u00e7ok farkl\u0131 ilerler. Groot banyodaki oyuncaklar\u0131, mumlar\u0131 ve k\u00f6p\u00fckleri kullanmak isteyince devasa bir yaprak karga\u015fas\u0131na yol a\u00e7ar. Sonra bu yapraklar b\u00fcy\u00fcmeye ba\u015flay\u0131nca Groot sa\u00e7lar\u0131n\u0131 kesmeye ve biraz yarat\u0131c\u0131 bir yeni sa\u00e7 modeli yapmaya karar verir.",
+                                "language": "tr",
+                                "sourceEntity": "program"
+                            }
+                        }
+                    },
+                    "brief": {
+                        "series": {
+                            "default": {
+                                "content": "Sorun \u00e7\u0131karan a\u011fa\u00e7 dal\u0131, Koruyucular'\u0131n uzay gemilerinde kainat\u0131 ve \u00f6tesini ke\u015ffeder.",
+                                "language": "tr",
+                                "sourceEntity": "series"
+                            }
+                        },
+                        "program": {
+                            "default": {
+                                "content": "Herkesin banyo yapmas\u0131 gerekir, ancak k\u00fc\u00e7\u00fck bir Flora Colossi i\u00e7in i\u015fler \u00e7ok farkl\u0131 olur.",
+                                "language": "tr",
+                                "sourceEntity": "program"
+                            }
+                        }
+                    },
+                    "full": {
+                        "program": {
+                            "default": {
+                                "content": "Herkesin rahatlamak ve temizlenmek i\u00e7in biraz tek ba\u015f\u0131na zaman ge\u00e7irmesi gerekir, ancak k\u00fc\u00e7\u00fck bir Flora Colossi i\u00e7in i\u015fler \u00e7ok farkl\u0131 ilerler. Groot banyodaki oyuncaklar\u0131, mumlar\u0131 ve k\u00f6p\u00fckleri kullanmak isteyince devasa bir yaprak karga\u015fas\u0131na yol a\u00e7ar. Sonra bu yapraklar b\u00fcy\u00fcmeye ba\u015flay\u0131nca Groot sa\u00e7lar\u0131n\u0131 kesmeye ve biraz yarat\u0131c\u0131 bir yeni sa\u00e7 modeli yapmaya karar verir.",
+                                "language": "tr",
+                                "sourceEntity": "program"
+                            }
+                        },
+                        "series": {
+                            "default": {
+                                "content": "Sorun \u00e7\u0131karan a\u011fa\u00e7 dal\u0131, \"I Am Groot\"un ikinci sezonunda yaramazl\u0131k yapmak i\u00e7in geri d\u00f6n\u00fcyor. Bebek Groot bu sefer Koruyucular'\u0131n uzay gemilerinde kainat\u0131 ve daha \u00f6tesini ke\u015ffeder, yeni ve renkli mek\u00e2nlarla ve yarat\u0131klarla y\u00fcz y\u00fcze ya da burun buruna gelir. Kirsten Lepore'nin yaz\u0131p y\u00f6netti\u011fi yepyeni be\u015f k\u0131sa b\u00f6l\u00fcml\u00fck dizide, Groot'u seslendiren Vin Diesel galaksiye geri d\u00f6n\u00fcyor.",
+                                "language": "tr",
+                                "sourceEntity": "series"
+                            }
+                        }
+                    }
+                },
+                "title": {
+                    "slug": {
+                        "series": {
+                            "default": {
+                                "content": "i-am-groot",
+                                "language": "tr",
+                                "sourceEntity": "series"
+                            }
+                        },
+                        "program": {
+                            "default": {
+                                "content": "groot-takes-a-bath",
+                                "language": "tr",
+                                "sourceEntity": "program"
+                            }
+                        }
+                    },
+                    "full": {
+                        "series": {
+                            "default": {
+                                "content": "I am Groot",
+                                "language": "tr",
+                                "sourceEntity": "series"
+                            }
+                        },
+                        "program": {
+                            "default": {
+                                "content": "Groot Takes a Bath",
+                                "language": "tr",
+                                "sourceEntity": "program"
+                            }
+                        }
+                    },
+                    "brief": {
+                        "program": {
+                            "default": {
+                                "content": "Groot Takes a Bath",
+                                "language": "tr",
+                                "sourceEntity": "program"
+                            }
+                        },
+                        "series": {
+                            "default": {
+                                "content": "I am Groot",
+                                "language": "tr",
+                                "sourceEntity": "series"
+                            }
+                        }
+                    }
+                }
+            },
+            "type": "DmcVideo",
+            "typedGenres": [
+                {
+                    "name": "Science Fiction",
+                    "partnerId": "300067",
+                    "type": "BOLT"
+                },
+                {
+                    "name": "Comedy",
+                    "partnerId": "300054",
+                    "type": "BOLT"
+                },
+                {
+                    "name": "Animation",
+                    "partnerId": "300001",
+                    "type": "BOLT"
+                }
+            ],
+            "videoArt": [],
+            "videoId": "9babb39f-cb9f-423b-b0e2-3106fa09d424"
+        },
+        {
+            "badging": "disneyplusoriginal",
+            "callToAction": null,
+            "channel": null,
+            "contentId": "ab1e8499-84c7-4f23-87cd-4649d9cc4489",
+            "contentType": "full",
+            "currentAvailability": {
+                "region": "TR",
+                "kidsMode": null
+            },
+            "event": null,
+            "encodedSeriesId": "3FfVmffm1ijj",
+            "episodeNumber": "5",
+            "episodeSequenceNumber": 5,
+            "episodeSeriesSequenceNumber": 5,
+            "family": {
+                "encodedFamilyId": "5jaymda0g6dk",
+                "familyId": "ZGlzbmV5b3JnOmRpc25leS5jb206cmFkYXI6NDQ0MjU5",
+                "parent": true,
+                "parentRef": {
+                    "encodedSeriesId": "3FfVmffm1ijj",
+                    "programId": "a6c563a2-2405-4afe-83e8-047501effa4f",
+                    "seasonId": "48886ce0-ef37-4268-9b54-46efa32e0de6",
+                    "seriesId": "e28fb81e-4d5b-40d4-8e50-a95f20547920"
+                },
+                "sequenceNumber": null
+            },
+            "groups": [
+                {
+                    "name": "Marvel",
+                    "partnerGroupId": "377146",
+                    "type": "disneyPlusStorefrontBrand"
+                }
+            ],
+            "internalTitle": "I Am Groot - s1e5 - ab1e8499-84c7-4f23-87cd-4649d9cc4489",
+            "image": {
+                "tile": {
+                    "1.33": {
+                        "series": {
+                            "default": {
+                                "masterId": "45C5073572D533ED0165E152821528B5B8A0EC4E85CCC4FBC3FBD680C0C05821",
+                                "masterWidth": 2880,
+                                "masterHeight": 2160,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/45C5073572D533ED0165E152821528B5B8A0EC4E85CCC4FBC3FBD680C0C05821"
+                            }
+                        }
+                    },
+                    "0.71": {
+                        "series": {
+                            "default": {
+                                "masterId": "471DAF7F17EF23F20C0D267CF2AB775D2CA645DA9718406A3B2DC6B8564D0AC8",
+                                "masterWidth": 2000,
+                                "masterHeight": 2818,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/471DAF7F17EF23F20C0D267CF2AB775D2CA645DA9718406A3B2DC6B8564D0AC8"
+                            }
+                        }
+                    },
+                    "1.78": {
+                        "series": {
+                            "default": {
+                                "masterId": "F5845A95BEAA5153FA1A1D77D39A4B261F9440B06424B7217AFAA33BB999AAA9",
+                                "masterWidth": 3840,
+                                "masterHeight": 2160,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/F5845A95BEAA5153FA1A1D77D39A4B261F9440B06424B7217AFAA33BB999AAA9"
+                            }
+                        }
+                    }
+                },
+                "title_treatment": {
+                    "1.78": {
+                        "series": {
+                            "default": {
+                                "masterId": "8749A7EC131173CF0C24103768BAD4DDE40FE74789723045AF9D6D651A5CFF61",
+                                "masterWidth": 1920,
+                                "masterHeight": 1080,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/8749A7EC131173CF0C24103768BAD4DDE40FE74789723045AF9D6D651A5CFF61"
+                            }
+                        },
+                        "program": {
+                            "default": {
+                                "masterId": "3BD79753C4B2433B24FF4172625D894BA9CCB1234B10041CDE4A9820701FD2C9",
+                                "masterWidth": 1920,
+                                "masterHeight": 1080,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/3BD79753C4B2433B24FF4172625D894BA9CCB1234B10041CDE4A9820701FD2C9"
+                            }
+                        }
+                    }
+                },
+                "background_details": {
+                    "1.78": {
+                        "series": {
+                            "default": {
+                                "masterId": "06D6ABC402F523B8EC801AF13EA23D0573DD237E2F9DA0ED6951D41F146CCD49",
+                                "masterWidth": 3840,
+                                "masterHeight": 2160,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/06D6ABC402F523B8EC801AF13EA23D0573DD237E2F9DA0ED6951D41F146CCD49"
+                            }
+                        }
+                    },
+                    "1.33": {
+                        "series": {
+                            "default": {
+                                "masterId": "5D8E6AF1820CCC3F7DBE968115866927D2D3B43E0AE41FA9596C41016BC82A05",
+                                "masterWidth": 2880,
+                                "masterHeight": 2160,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/5D8E6AF1820CCC3F7DBE968115866927D2D3B43E0AE41FA9596C41016BC82A05"
+                            }
+                        }
+                    }
+                },
+                "background_up_next": {
+                    "1.78": {
+                        "program": {
+                            "default": {
+                                "masterId": "2999A6D5A0369C11948E1CB590E910D928229F081CBB070C76228FC93D057CF6",
+                                "masterWidth": 3840,
+                                "masterHeight": 2160,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/2999A6D5A0369C11948E1CB590E910D928229F081CBB070C76228FC93D057CF6"
+                            }
+                        },
+                        "series": {
+                            "default": {
+                                "masterId": "697A28AED5D743C018BFB122A62F3A318D61779F6887DDEF6F0EEA87F523C90A",
+                                "masterWidth": 3840,
+                                "masterHeight": 2160,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/697A28AED5D743C018BFB122A62F3A318D61779F6887DDEF6F0EEA87F523C90A"
+                            }
+                        }
+                    }
+                },
+                "thumbnail": {
+                    "1.78": {
+                        "program": {
+                            "default": {
+                                "masterId": "41C97EA69D61835092FBB2C9E98767643B61325A493C8F24EBFD41141C5CA5D2",
+                                "masterWidth": 3840,
+                                "masterHeight": 2160,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/41C97EA69D61835092FBB2C9E98767643B61325A493C8F24EBFD41141C5CA5D2"
+                            }
+                        }
+                    }
+                }
+            },
+            "labels": [],
+            "league": null,
+            "mediaMetadata": {
+                "activeAspectRatio": 1.78,
+                "audioTracks": [
+                    {
+                        "features": [
+                            "dolby_51",
+                            "dolby_20"
+                        ],
+                        "language": "es-419",
+                        "name": null,
+                        "renditionName": "Espa\u00f1ol (Latinoamericano)",
+                        "trackType": "PRIMARY"
+                    },
+                    {
+                        "features": [
+                            "dolby_51",
+                            "dolby_20"
+                        ],
+                        "language": "sk",
+                        "name": null,
+                        "renditionName": "Sloven\u010dina",
+                        "trackType": "PRIMARY"
+                    },
+                    {
+                        "features": [
+                            "dolby_51",
+                            "dolby_20"
+                        ],
+                        "language": "hu",
+                        "name": null,
+                        "renditionName": "Magyar",
+                        "trackType": "PRIMARY"
+                    },
+                    {
+                        "features": [
+                            "dolby_51",
+                            "dolby_20"
+                        ],
+                        "language": "de",
+                        "name": null,
+                        "renditionName": "Deutsch",
+                        "trackType": "PRIMARY"
+                    },
+                    {
+                        "features": [
+                            "dolby_51",
+                            "dolby_20"
+                        ],
+                        "language": "fr-CA",
+                        "name": null,
+                        "renditionName": "Fran\u00e7ais (Canadien)",
+                        "trackType": "PRIMARY"
+                    },
+                    {
+                        "features": [
+                            "dolby_51",
+                            "dolby_20"
+                        ],
+                        "language": "cmn",
+                        "name": null,
+                        "renditionName": "Mandarin",
+                        "trackType": "PRIMARY"
+                    },
+                    {
+                        "features": [
+                            "dolby_51",
+                            "dolby_20",
+                            "dolby_atmos"
+                        ],
+                        "language": "en",
+                        "name": null,
+                        "renditionName": "English",
+                        "trackType": "PRIMARY"
+                    },
+                    {
+                        "features": [
+                            "dolby_51",
+                            "dolby_20"
+                        ],
+                        "language": "fr-FR",
+                        "name": null,
+                        "renditionName": "Fran\u00e7ais",
+                        "trackType": "PRIMARY"
+                    },
+                    {
+                        "features": [
+                            "dolby_51",
+                            "dolby_20"
+                        ],
+                        "language": "ja",
+                        "name": null,
+                        "renditionName": "Japanese",
+                        "trackType": "PRIMARY"
+                    },
+                    {
+                        "features": [
+                            "dolby_51",
+                            "dolby_20"
+                        ],
+                        "language": "ko",
+                        "name": null,
+                        "renditionName": "Korean",
+                        "trackType": "PRIMARY"
+                    },
+                    {
+                        "features": [
+                            "dolby_51",
+                            "dolby_20"
+                        ],
+                        "language": "ro",
+                        "name": null,
+                        "renditionName": "Rom\u00e2n\u0103",
+                        "trackType": "PRIMARY"
+                    },
+                    {
+                        "features": [
+                            "dolby_51",
+                            "dolby_20"
+                        ],
+                        "language": "pt-BR",
+                        "name": null,
+                        "renditionName": "Portugu\u00eas (Brasil)",
+                        "trackType": "PRIMARY"
+                    },
+                    {
+                        "features": [
+                            "dolby_20"
+                        ],
+                        "language": "es-419",
+                        "name": null,
+                        "renditionName": "Espa\u00f1ol (Latinoamericano) [Audio descriptivo]",
+                        "trackType": "NARRATION"
+                    },
+                    {
+                        "features": [
+                            "dolby_20"
+                        ],
+                        "language": "pt-BR",
+                        "name": null,
+                        "renditionName": "Portugu\u00eas (Brasil) [Descri\u00e7\u00e3o Do \u00c1udio]",
+                        "trackType": "NARRATION"
+                    },
+                    {
+                        "features": [
+                            "dolby_51",
+                            "dolby_20"
+                        ],
+                        "language": "tr",
+                        "name": null,
+                        "renditionName": "T\u00fcrk\u00e7e",
+                        "trackType": "PRIMARY"
+                    },
+                    {
+                        "features": [
+                            "dolby_51",
+                            "dolby_20"
+                        ],
+                        "language": "it",
+                        "name": null,
+                        "renditionName": "Italiano",
+                        "trackType": "PRIMARY"
+                    },
+                    {
+                        "features": [
+                            "dolby_51",
+                            "dolby_20"
+                        ],
+                        "language": "pl",
+                        "name": null,
+                        "renditionName": "Polski",
+                        "trackType": "PRIMARY"
+                    },
+                    {
+                        "features": [
+                            "dolby_51",
+                            "dolby_20"
+                        ],
+                        "language": "cs",
+                        "name": null,
+                        "renditionName": "\u010ce\u0161tina",
+                        "trackType": "PRIMARY"
+                    },
+                    {
+                        "features": [
+                            "dolby_51",
+                            "dolby_20"
+                        ],
+                        "language": "es-ES",
+                        "name": null,
+                        "renditionName": "Espa\u00f1ol",
+                        "trackType": "PRIMARY"
+                    },
+                    {
+                        "features": [
+                            "dolby_20"
+                        ],
+                        "language": "en",
+                        "name": null,
+                        "renditionName": "English [Audio Description]",
+                        "trackType": "NARRATION"
+                    }
+                ],
+                "captions": [
+                    {
+                        "language": "de",
+                        "name": null,
+                        "renditionName": "Deutsch",
+                        "trackType": "NORMAL"
+                    },
+                    {
+                        "language": "pt-BR",
+                        "name": null,
+                        "renditionName": "Portugu\u00eas (Brasil)",
+                        "trackType": "NORMAL"
+                    },
+                    {
+                        "language": "pt-BR",
+                        "name": null,
+                        "renditionName": "pt-BR--forced--",
+                        "trackType": "FORCED"
+                    },
+                    {
+                        "language": "pt-PT",
+                        "name": null,
+                        "renditionName": "Portugu\u00eas",
+                        "trackType": "NORMAL"
+                    },
+                    {
+                        "language": "es-ES",
+                        "name": null,
+                        "renditionName": "es-ES--forced--",
+                        "trackType": "FORCED"
+                    },
+                    {
+                        "language": "sk",
+                        "name": null,
+                        "renditionName": "sk--forced--",
+                        "trackType": "FORCED"
+                    },
+                    {
+                        "language": "ro",
+                        "name": null,
+                        "renditionName": "ro--forced--",
+                        "trackType": "FORCED"
+                    },
+                    {
+                        "language": "fr-CA",
+                        "name": null,
+                        "renditionName": "Fran\u00e7ais (Canadien)",
+                        "trackType": "NORMAL"
+                    },
+                    {
+                        "language": "en",
+                        "name": null,
+                        "renditionName": "English [CC]",
+                        "trackType": "SDH"
+                    },
+                    {
+                        "language": "sk",
+                        "name": null,
+                        "renditionName": "Sloven\u010dina",
+                        "trackType": "NORMAL"
+                    },
+                    {
+                        "language": "da",
+                        "name": null,
+                        "renditionName": "Dansk",
+                        "trackType": "NORMAL"
+                    },
+                    {
+                        "language": "pl",
+                        "name": null,
+                        "renditionName": "Polski",
+                        "trackType": "NORMAL"
+                    },
+                    {
+                        "language": "cmn",
+                        "name": null,
+                        "renditionName": "cmn--forced--",
+                        "trackType": "FORCED"
+                    },
+                    {
+                        "language": "fr-CA",
+                        "name": null,
+                        "renditionName": "fr-CA--forced--",
+                        "trackType": "FORCED"
+                    },
+                    {
+                        "language": "hu",
+                        "name": null,
+                        "renditionName": "hu--forced--",
+                        "trackType": "FORCED"
+                    },
+                    {
+                        "language": "ja",
+                        "name": null,
+                        "renditionName": "Japanese",
+                        "trackType": "NORMAL"
+                    },
+                    {
+                        "language": "ko",
+                        "name": null,
+                        "renditionName": "Korean",
+                        "trackType": "NORMAL"
+                    },
+                    {
+                        "language": "ro",
+                        "name": null,
+                        "renditionName": "Rom\u00e2n\u0103",
+                        "trackType": "NORMAL"
+                    },
+                    {
+                        "language": "el",
+                        "name": null,
+                        "renditionName": "Greek",
+                        "trackType": "NORMAL"
+                    },
+                    {
+                        "language": "fi",
+                        "name": null,
+                        "renditionName": "Suomi",
+                        "trackType": "NORMAL"
+                    },
+                    {
+                        "language": "de",
+                        "name": null,
+                        "renditionName": "de--forced--",
+                        "trackType": "FORCED"
+                    },
+                    {
+                        "language": "pt-BR",
+                        "name": null,
+                        "renditionName": "Portugu\u00eas (Brasil) [CC]",
+                        "trackType": "SDH"
+                    },
+                    {
+                        "language": "nl",
+                        "name": null,
+                        "renditionName": "Nederlands",
+                        "trackType": "NORMAL"
+                    },
+                    {
+                        "language": "zh-Hant",
+                        "name": null,
+                        "renditionName": "Chinese (Traditional)",
+                        "trackType": "NORMAL"
+                    },
+                    {
+                        "language": "es-419",
+                        "name": null,
+                        "renditionName": "Espa\u00f1ol (Latinoamericano)",
+                        "trackType": "NORMAL"
+                    },
+                    {
+                        "language": "cs",
+                        "name": null,
+                        "renditionName": "\u010ce\u0161tina",
+                        "trackType": "NORMAL"
+                    },
+                    {
+                        "language": "es-ES",
+                        "name": null,
+                        "renditionName": "Espa\u00f1ol",
+                        "trackType": "NORMAL"
+                    },
+                    {
+                        "language": "hu",
+                        "name": null,
+                        "renditionName": "Magyar",
+                        "trackType": "NORMAL"
+                    },
+                    {
+                        "language": "fr-FR",
+                        "name": null,
+                        "renditionName": "Fran\u00e7ais",
+                        "trackType": "NORMAL"
+                    },
+                    {
+                        "language": "ko",
+                        "name": null,
+                        "renditionName": "ko--forced--",
+                        "trackType": "FORCED"
+                    },
+                    {
+                        "language": "sv",
+                        "name": null,
+                        "renditionName": "Svenska",
+                        "trackType": "NORMAL"
+                    },
+                    {
+                        "language": "tr",
+                        "name": null,
+                        "renditionName": "T\u00fcrk\u00e7e",
+                        "trackType": "NORMAL"
+                    },
+                    {
+                        "language": "ja",
+                        "name": null,
+                        "renditionName": "ja--forced--",
+                        "trackType": "FORCED"
+                    },
+                    {
+                        "language": "pl",
+                        "name": null,
+                        "renditionName": "pl--forced--",
+                        "trackType": "FORCED"
+                    },
+                    {
+                        "language": "no",
+                        "name": null,
+                        "renditionName": "Norsk",
+                        "trackType": "NORMAL"
+                    },
+                    {
+                        "language": "it",
+                        "name": null,
+                        "renditionName": "Italiano",
+                        "trackType": "NORMAL"
+                    },
+                    {
+                        "language": "zh-Hans",
+                        "name": null,
+                        "renditionName": "Chinese (Simplified)",
+                        "trackType": "NORMAL"
+                    },
+                    {
+                        "language": "fr-FR",
+                        "name": null,
+                        "renditionName": "fr-FR--forced--",
+                        "trackType": "FORCED"
+                    },
+                    {
+                        "language": "es-419",
+                        "name": null,
+                        "renditionName": "Espa\u00f1ol (Latinoamericano) [CC]",
+                        "trackType": "SDH"
+                    },
+                    {
+                        "language": "es-419",
+                        "name": null,
+                        "renditionName": "es-419--forced--",
+                        "trackType": "FORCED"
+                    },
+                    {
+                        "language": "zh-HK",
+                        "name": null,
+                        "renditionName": "Chinese (Hong Kong)",
+                        "trackType": "NORMAL"
+                    },
+                    {
+                        "language": "cs",
+                        "name": null,
+                        "renditionName": "cs--forced--",
+                        "trackType": "FORCED"
+                    }
+                ],
+                "facets": [
+                    {
+                        "activeAspectRatio": 1.78,
+                        "label": "default"
+                    }
+                ],
+                "features": [
+                    "sdr",
+                    "hdr_10",
+                    "hdr",
+                    "dolby_vision"
+                ],
+                "format": "UHD",
+                "mediaId": "3ac21315-cacf-49c1-be44-88e005d5e0fa",
+                "phase": "active",
+                "playbackUrls": [
+                    {
+                        "rel": "video",
+                        "href": "https://disney.playback.edge.bamgrid.com/media/3ac21315-cacf-49c1-be44-88e005d5e0fa/scenarios/{scenario}",
+                        "templated": true,
+                        "params": [
+                            {
+                                "name": "scenario",
+                                "description": "Playback scenario"
+                            }
+                        ]
+                    }
+                ],
+                "productType": "VOD",
+                "runtimeMillis": 329000,
+                "state": "ON",
+                "type": "VIDEO"
+            },
+            "meta": null,
+            "mediaRights": {
+                "violations": [],
+                "downloadBlocked": false,
+                "pconBlocked": false,
+                "rewind": true
+            },
+            "milestone": {
+                "FFEC": [
+                    {
+                        "id": "d4f6f881-eb12-4d81-9898-fe4559e087b6",
+                        "milestoneTime": [
+                            {
+                                "startMillis": 190958,
+                                "type": "offset"
+                            }
+                        ]
+                    }
+                ],
+                "up_next": [
+                    {
+                        "id": "62a73f25-18e3-4c7c-8625-5001f4ddb285",
+                        "milestoneTime": [
+                            {
+                                "startMillis": 203708,
+                                "type": "offset"
+                            }
+                        ]
+                    }
+                ],
+                "tag_start": [
+                    {
+                        "id": "6dde935c-f3db-4f85-9ac3-883a3c0c3a6e",
+                        "milestoneTime": [
+                            {
+                                "startMillis": 220917,
+                                "type": "offset"
+                            }
+                        ]
+                    }
+                ],
+                "tag_end": [
+                    {
+                        "id": "304c4721-b178-4bec-95d8-32e26e2d416b",
+                        "milestoneTime": [
+                            {
+                                "startMillis": 228417,
+                                "type": "offset"
+                            }
+                        ]
+                    }
+                ],
+                "LFEC": [
+                    {
+                        "id": "03128490-eea8-4472-9846-b0451fc324f4",
+                        "milestoneTime": [
+                            {
+                                "startMillis": 232417,
+                                "type": "offset"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "originalLanguage": "en",
+            "participant": {
+                "director": [
+                    {
+                        "characterDetails": null,
+                        "displayName": "Kirsten Lepore",
+                        "order": 1,
+                        "participantId": "110143536",
+                        "sortName": "Lepore, Kirsten"
+                    }
+                ]
+            },
+            "programId": "a6c563a2-2405-4afe-83e8-047501effa4f",
+            "programType": "episode",
+            "ratings": [
+                {
+                    "advisories": [
+                        "V"
+                    ],
+                    "description": null,
+                    "filingNumber": null,
+                    "system": "AI",
+                    "value": "7+"
+                }
+            ],
+            "releases": [
+                {
+                    "releaseDate": "2022-08-10",
+                    "releaseOrg": null,
+                    "releaseType": "original",
+                    "releaseYear": 2022,
+                    "territory": null
+                }
+            ],
+            "seasonId": "48886ce0-ef37-4268-9b54-46efa32e0de6",
+            "seasonSequenceNumber": 1,
+            "seriesId": "e28fb81e-4d5b-40d4-8e50-a95f20547920",
+            "seriesType": "standard",
+            "sport": null,
+            "tags": [
+                {
+                    "displayName": null,
+                    "type": "titleEidr",
+                    "value": "61CD-1529-3CAE-4F58-D578-H"
+                },
+                {
+                    "displayName": null,
+                    "type": "disneyPlusOriginal",
+                    "value": "true"
+                }
+            ],
+            "targetLanguage": "en",
+            "text": {
+                "title": {
+                    "full": {
+                        "program": {
+                            "default": {
+                                "content": "Magnum Opus",
+                                "language": "tr",
+                                "sourceEntity": "program"
+                            }
+                        },
+                        "series": {
+                            "default": {
+                                "content": "I am Groot",
+                                "language": "tr",
+                                "sourceEntity": "series"
+                            }
+                        }
+                    },
+                    "slug": {
+                        "series": {
+                            "default": {
+                                "content": "i-am-groot",
+                                "language": "tr",
+                                "sourceEntity": "series"
+                            }
+                        },
+                        "program": {
+                            "default": {
+                                "content": "magnum-opus",
+                                "language": "tr",
+                                "sourceEntity": "program"
+                            }
+                        }
+                    },
+                    "brief": {
+                        "series": {
+                            "default": {
+                                "content": "I am Groot",
+                                "language": "tr",
+                                "sourceEntity": "series"
+                            }
+                        },
+                        "program": {
+                            "default": {
+                                "content": "Magnum Opus",
+                                "language": "tr",
+                                "sourceEntity": "program"
+                            }
+                        }
+                    }
+                },
+                "description": {
+                    "medium": {
+                        "series": {
+                            "default": {
+                                "content": "Sorun \u00e7\u0131karan a\u011fa\u00e7 dal\u0131, \"I Am Groot\"un ikinci sezonunda yaramazl\u0131k yapmak i\u00e7in d\u00f6n\u00fcyor. Bebek Groot bu sefer Koruyucular'\u0131n uzay gemilerinde kainat\u0131 ve daha \u00f6tesini ke\u015ffeder, yeni ve renkli mek\u00e2nlarla ve yarat\u0131klarla y\u00fcz y\u00fcze ya da burun buruna gelir.",
+                                "language": "tr",
+                                "sourceEntity": "series"
+                            }
+                        },
+                        "program": {
+                            "default": {
+                                "content": "Groot kendinin ve Koruyucular'\u0131n oldu\u011fu bir aile portresi \u00e7izer, ama bu s\u0131rada resim yapman\u0131n ne kadar zor ve kar\u0131\u015f\u0131k oldu\u011funu anlar.",
+                                "language": "tr",
+                                "sourceEntity": "program"
+                            }
+                        }
+                    },
+                    "full": {
+                        "program": {
+                            "default": {
+                                "content": "Groot kendinin ve Koruyucular'\u0131n oldu\u011fu bir aile portresi \u00e7izer, ama bu s\u0131rada resim yapman\u0131n ne kadar zor ve kar\u0131\u015f\u0131k oldu\u011funu anlar.",
+                                "language": "tr",
+                                "sourceEntity": "program"
+                            }
+                        },
+                        "series": {
+                            "default": {
+                                "content": "Sorun \u00e7\u0131karan a\u011fa\u00e7 dal\u0131, \"I Am Groot\"un ikinci sezonunda yaramazl\u0131k yapmak i\u00e7in geri d\u00f6n\u00fcyor. Bebek Groot bu sefer Koruyucular'\u0131n uzay gemilerinde kainat\u0131 ve daha \u00f6tesini ke\u015ffeder, yeni ve renkli mek\u00e2nlarla ve yarat\u0131klarla y\u00fcz y\u00fcze ya da burun buruna gelir. Kirsten Lepore'nin yaz\u0131p y\u00f6netti\u011fi yepyeni be\u015f k\u0131sa b\u00f6l\u00fcml\u00fck dizide, Groot'u seslendiren Vin Diesel galaksiye geri d\u00f6n\u00fcyor.",
+                                "language": "tr",
+                                "sourceEntity": "series"
+                            }
+                        }
+                    },
+                    "brief": {
+                        "series": {
+                            "default": {
+                                "content": "Sorun \u00e7\u0131karan a\u011fa\u00e7 dal\u0131, Koruyucular'\u0131n uzay gemilerinde kainat\u0131 ve \u00f6tesini ke\u015ffeder.",
+                                "language": "tr",
+                                "sourceEntity": "series"
+                            }
+                        },
+                        "program": {
+                            "default": {
+                                "content": "Groot kendinin ve Koruyucular'\u0131n portresini \u00e7izer, ama yaparken ne kadar zor oldu\u011funu anlar.",
+                                "language": "tr",
+                                "sourceEntity": "program"
+                            }
+                        }
+                    }
+                }
+            },
+            "type": "DmcVideo",
+            "typedGenres": [
+                {
+                    "name": "Science Fiction",
+                    "partnerId": "300067",
+                    "type": "BOLT"
+                },
+                {
+                    "name": "Comedy",
+                    "partnerId": "300054",
+                    "type": "BOLT"
+                },
+                {
+                    "name": "Animation",
+                    "partnerId": "300001",
+                    "type": "BOLT"
+                }
+            ],
+            "videoArt": [],
+            "videoId": "35ca10d0-47e9-4143-8ba4-cc13d08d3c11"
+        }
+    ]
+}

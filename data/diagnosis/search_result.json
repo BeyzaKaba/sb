@@ -1,0 +1,2629 @@
+{
+    "disneyplus": [
+        {
+            "childOf": [],
+            "contentId": "e28fb81e-4d5b-40d4-8e50-a95f20547920",
+            "contentSource": "disney",
+            "currentAvailability": {
+                "appears": "",
+                "kidsMode": null,
+                "minPromotionalStartDate": "2023-08-07T13:00:00Z",
+                "region": "TR"
+            },
+            "encodedSeriesId": "3FfVmffm1ijj",
+            "family": {
+                "familyId": "ZGlzbmV5b3JnOmRpc25leS5jb206cmFkYXI6MzY2NjY0",
+                "encodedFamilyId": "1O4DKgbGGLlr",
+                "parent": true,
+                "parentRef": null,
+                "partnerFamilyId": "org:disney.com:radar:366664",
+                "encodedPartnerFamilyId": "25V2FHTxv7lT",
+                "sequenceNumber": null
+            },
+            "mediaMetadata": {
+                "format": "",
+                "mediaId": "",
+                "phase": "",
+                "playbackUrls": [],
+                "productType": "",
+                "runtimeMillis": 0,
+                "state": "",
+                "type": ""
+            },
+            "meta": null,
+            "partnerSeriesId": "3F70-D06C-F062-10CA-4355-3",
+            "ratings": [
+                {
+                    "advisories": [
+                        "V"
+                    ],
+                    "description": null,
+                    "system": "AI",
+                    "value": "7+",
+                    "impliedMaturityValue": 750
+                }
+            ],
+            "releases": [
+                {
+                    "releaseDate": "2022-08-10",
+                    "releaseType": "original",
+                    "releaseYear": 2022,
+                    "territory": null,
+                    "releaseOrg": null
+                }
+            ],
+            "seasonsMaxYear": null,
+            "seasonsMinYear": null,
+            "seriesId": "e28fb81e-4d5b-40d4-8e50-a95f20547920",
+            "tags": [
+                {
+                    "displayName": null,
+                    "type": "disneyPlusOriginal",
+                    "value": "true"
+                }
+            ],
+            "textExperienceId": "6a5b9d79-ff97-435c-b6ac-d77be6f99712",
+            "videoArt": [
+                {
+                    "mediaMetadata": {
+                        "urls": null
+                    },
+                    "purpose": "full_bleed"
+                }
+            ],
+            "encodedTextExperienceId": "3EC7uHlze2GW",
+            "parentOf": null,
+            "mediaRights": {
+                "downloadBlocked": false,
+                "rewind": true,
+                "violations": []
+            },
+            "image": {
+                "background": {
+                    "2.89": {
+                        "series": {
+                            "default": {
+                                "masterId": "37FEFB331567A0430FABAEB30FE2D790202DE8F804560D241A389F94BFF080D3",
+                                "masterHeight": 1330,
+                                "masterWidth": 3840,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/37FEFB331567A0430FABAEB30FE2D790202DE8F804560D241A389F94BFF080D3"
+                            }
+                        }
+                    }
+                },
+                "background_details": {
+                    "1.78": {
+                        "series": {
+                            "default": {
+                                "masterId": "06D6ABC402F523B8EC801AF13EA23D0573DD237E2F9DA0ED6951D41F146CCD49",
+                                "masterHeight": 2160,
+                                "masterWidth": 3840,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/06D6ABC402F523B8EC801AF13EA23D0573DD237E2F9DA0ED6951D41F146CCD49"
+                            }
+                        }
+                    },
+                    "1.33": {
+                        "series": {
+                            "default": {
+                                "masterId": "5D8E6AF1820CCC3F7DBE968115866927D2D3B43E0AE41FA9596C41016BC82A05",
+                                "masterHeight": 2160,
+                                "masterWidth": 2880,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/5D8E6AF1820CCC3F7DBE968115866927D2D3B43E0AE41FA9596C41016BC82A05"
+                            }
+                        }
+                    }
+                },
+                "tile": {
+                    "1.0": {
+                        "series": {
+                            "default": {
+                                "masterId": "FC3A88CFEC65B2FC5177219AC70398BEA6C32BEF79B15C2251F734E8DF1E5BC8",
+                                "masterHeight": 3000,
+                                "masterWidth": 3000,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/FC3A88CFEC65B2FC5177219AC70398BEA6C32BEF79B15C2251F734E8DF1E5BC8"
+                            }
+                        }
+                    },
+                    "1.33": {
+                        "series": {
+                            "default": {
+                                "masterId": "45C5073572D533ED0165E152821528B5B8A0EC4E85CCC4FBC3FBD680C0C05821",
+                                "masterHeight": 2160,
+                                "masterWidth": 2880,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/45C5073572D533ED0165E152821528B5B8A0EC4E85CCC4FBC3FBD680C0C05821"
+                            }
+                        }
+                    },
+                    "0.75": {
+                        "series": {
+                            "default": {
+                                "masterId": "6607DD93ADD0A4F3CA99768270AD200621E789B55212296514CBB0F55DF6C3F6",
+                                "masterHeight": 2880,
+                                "masterWidth": 2160,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/6607DD93ADD0A4F3CA99768270AD200621E789B55212296514CBB0F55DF6C3F6"
+                            }
+                        }
+                    },
+                    "0.71": {
+                        "series": {
+                            "default": {
+                                "masterId": "471DAF7F17EF23F20C0D267CF2AB775D2CA645DA9718406A3B2DC6B8564D0AC8",
+                                "masterHeight": 2818,
+                                "masterWidth": 2000,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/471DAF7F17EF23F20C0D267CF2AB775D2CA645DA9718406A3B2DC6B8564D0AC8"
+                            }
+                        }
+                    },
+                    "1.78": {
+                        "series": {
+                            "default": {
+                                "masterId": "F5845A95BEAA5153FA1A1D77D39A4B261F9440B06424B7217AFAA33BB999AAA9",
+                                "masterHeight": 2160,
+                                "masterWidth": 3840,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/F5845A95BEAA5153FA1A1D77D39A4B261F9440B06424B7217AFAA33BB999AAA9"
+                            }
+                        }
+                    },
+                    "0.67": {
+                        "series": {
+                            "default": {
+                                "masterId": "0B70E09700CD7C72209E068FB5021B3EA69D2F1AB1E3DE0CB5D18AEC0B703610",
+                                "masterHeight": 3000,
+                                "masterWidth": 2000,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/0B70E09700CD7C72209E068FB5021B3EA69D2F1AB1E3DE0CB5D18AEC0B703610"
+                            }
+                        }
+                    },
+                    "2.29": {
+                        "series": {
+                            "default": {
+                                "masterId": "AD9030DFAB86C9D7E3820EF626385C9E81331F3A2B71A26E88EDB525C5C10406",
+                                "masterHeight": 1680,
+                                "masterWidth": 3840,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/AD9030DFAB86C9D7E3820EF626385C9E81331F3A2B71A26E88EDB525C5C10406"
+                            }
+                        }
+                    }
+                }
+            },
+            "text": {
+                "title": {
+                    "brief": {
+                        "series": {
+                            "default": {
+                                "content": "I am Groot",
+                                "sourceEntity": "series",
+                                "language": "tr"
+                            }
+                        }
+                    },
+                    "full": {
+                        "series": {
+                            "default": {
+                                "content": "I am Groot",
+                                "sourceEntity": "series",
+                                "language": "tr"
+                            }
+                        }
+                    },
+                    "slug": {
+                        "series": {
+                            "default": {
+                                "content": "i-am-groot",
+                                "sourceEntity": "series",
+                                "language": "tr"
+                            }
+                        }
+                    }
+                }
+            },
+            "badging": "disneyplusoriginal",
+            "seriesType": "standard",
+            "type": "DmcSeries",
+            "region": "TR"
+        },
+        {
+            "childOf": [],
+            "contentId": "9bd63b67-7d52-466a-bc8b-0ea94e30c40d",
+            "contentSource": "disney",
+            "currentAvailability": {
+                "appears": "",
+                "kidsMode": null,
+                "minPromotionalStartDate": "2022-06-11T21:00:00Z",
+                "region": "TR"
+            },
+            "encodedSeriesId": "7Wavz99zpF7x",
+            "family": {
+                "familyId": "ZGlzbmV5b3JnOmRpc25leS5jb206cmFkYXI6MTY0ODY2",
+                "encodedFamilyId": "KzalejnosVEU",
+                "parent": true,
+                "parentRef": null,
+                "partnerFamilyId": "org:disney.com:radar:164866",
+                "encodedPartnerFamilyId": "2gmYrfVM5lFq",
+                "sequenceNumber": null
+            },
+            "mediaMetadata": {
+                "format": "",
+                "mediaId": "",
+                "phase": "",
+                "playbackUrls": [],
+                "productType": "",
+                "runtimeMillis": 0,
+                "state": "",
+                "type": ""
+            },
+            "meta": null,
+            "partnerSeriesId": "6335-589E-2011-69E2-872B-P",
+            "ratings": [
+                {
+                    "advisories": [
+                        "V"
+                    ],
+                    "description": null,
+                    "system": "AI",
+                    "value": "7+",
+                    "impliedMaturityValue": 750
+                }
+            ],
+            "releases": [
+                {
+                    "releaseDate": "2017-04-10",
+                    "releaseType": "original",
+                    "releaseYear": 2017,
+                    "territory": null,
+                    "releaseOrg": null
+                }
+            ],
+            "seasonsMaxYear": null,
+            "seasonsMinYear": null,
+            "seriesId": "9bd63b67-7d52-466a-bc8b-0ea94e30c40d",
+            "tags": [
+                {
+                    "displayName": null,
+                    "type": "disneyPlusOriginal",
+                    "value": "false"
+                }
+            ],
+            "textExperienceId": "5646050e-3a7f-437b-8c8c-bd7ce067dd6d",
+            "videoArt": [],
+            "encodedTextExperienceId": "36vJyvnaFe54",
+            "parentOf": null,
+            "mediaRights": {
+                "downloadBlocked": false,
+                "rewind": true,
+                "violations": []
+            },
+            "image": {
+                "background_details": {
+                    "1.78": {
+                        "series": {
+                            "default": {
+                                "masterId": "3C01DB7F63969B9093D9BAB0D190C56D50C93A3C527F61F9E950EABC60488833",
+                                "masterHeight": 1080,
+                                "masterWidth": 1920,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/3C01DB7F63969B9093D9BAB0D190C56D50C93A3C527F61F9E950EABC60488833"
+                            }
+                        }
+                    },
+                    "1.33": {
+                        "series": {
+                            "default": {
+                                "masterId": "E23EE585E31A49F16669493BDACC5E21D40F18C20504CFB5DBCB0C7516FA21A1",
+                                "masterHeight": 1080,
+                                "masterWidth": 1440,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/E23EE585E31A49F16669493BDACC5E21D40F18C20504CFB5DBCB0C7516FA21A1"
+                            }
+                        }
+                    }
+                },
+                "tile": {
+                    "0.75": {
+                        "series": {
+                            "default": {
+                                "masterId": "31A3F97F08BCF38D38F630A4C0D24F176B97BF14D234066A61CF78D93760B399",
+                                "masterHeight": 800,
+                                "masterWidth": 600,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/31A3F97F08BCF38D38F630A4C0D24F176B97BF14D234066A61CF78D93760B399"
+                            }
+                        }
+                    },
+                    "0.71": {
+                        "series": {
+                            "default": {
+                                "masterId": "B332CDD42FEFA33980C9F6379504A66E869B8135E66C8DB9539EF0A1DC935E90",
+                                "masterHeight": 1080,
+                                "masterWidth": 767,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/B332CDD42FEFA33980C9F6379504A66E869B8135E66C8DB9539EF0A1DC935E90"
+                            }
+                        }
+                    },
+                    "1.0": {
+                        "series": {
+                            "default": {
+                                "masterId": "A3108BD42AEE408FF23DB7F250C8232C81101BABE46E1CC65C3B0C0A8503BECD",
+                                "masterHeight": 3000,
+                                "masterWidth": 3000,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/A3108BD42AEE408FF23DB7F250C8232C81101BABE46E1CC65C3B0C0A8503BECD"
+                            }
+                        }
+                    },
+                    "0.67": {
+                        "series": {
+                            "default": {
+                                "masterId": "069C55F2C8EC56C7C702805E2FD64F784BCD0F1B002B1F805A506D9204D73D7C",
+                                "masterHeight": 3000,
+                                "masterWidth": 2000,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/069C55F2C8EC56C7C702805E2FD64F784BCD0F1B002B1F805A506D9204D73D7C"
+                            }
+                        }
+                    },
+                    "1.33": {
+                        "series": {
+                            "default": {
+                                "masterId": "EC43E725F4A88528CF5A0CF3DB8C2B414FAB7C54724A07F114BA9E93C80F7BAE",
+                                "masterHeight": 1080,
+                                "masterWidth": 1440,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/EC43E725F4A88528CF5A0CF3DB8C2B414FAB7C54724A07F114BA9E93C80F7BAE"
+                            }
+                        }
+                    },
+                    "1.78": {
+                        "series": {
+                            "default": {
+                                "masterId": "5EF47AA38727F5B875FA5F6FDCE09382BEB3AE0571749B7A4261EDD791436C18",
+                                "masterHeight": 1080,
+                                "masterWidth": 1920,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/5EF47AA38727F5B875FA5F6FDCE09382BEB3AE0571749B7A4261EDD791436C18"
+                            }
+                        }
+                    }
+                }
+            },
+            "text": {
+                "title": {
+                    "full": {
+                        "series": {
+                            "default": {
+                                "content": "Marvel's Rocket & Groot (Shorts)",
+                                "sourceEntity": "series",
+                                "language": "tr"
+                            }
+                        }
+                    },
+                    "slug": {
+                        "series": {
+                            "default": {
+                                "content": "marvels-rocket-groot-shorts",
+                                "sourceEntity": "series",
+                                "language": "tr"
+                            }
+                        }
+                    }
+                }
+            },
+            "badging": null,
+            "seriesType": "standard",
+            "type": "DmcSeries",
+            "region": "TR"
+        },
+        {
+            "childOf": [],
+            "contentId": "f8d1be96-05a5-428d-8e64-eabe0b88abcf",
+            "contentSource": "disney",
+            "currentAvailability": {
+                "appears": "",
+                "kidsMode": false,
+                "minPromotionalStartDate": "2022-09-21T07:00:00Z",
+                "region": "TR"
+            },
+            "encodedSeriesId": "24DDOYpwxdEu",
+            "family": {
+                "familyId": "ZGlzbmV5b3JnOmRpc25leS5jb206cmFkYXI6MzAyNjE4",
+                "encodedFamilyId": "Y7W8WHxo18Sv",
+                "parent": true,
+                "parentRef": null,
+                "partnerFamilyId": "org:disney.com:radar:302618",
+                "encodedPartnerFamilyId": "4tXeuxOwu6O0",
+                "sequenceNumber": null
+            },
+            "mediaMetadata": {
+                "format": "",
+                "mediaId": "",
+                "phase": "",
+                "playbackUrls": [],
+                "productType": "",
+                "runtimeMillis": 0,
+                "state": "",
+                "type": ""
+            },
+            "meta": null,
+            "partnerSeriesId": "6A86-2FF4-D4A9-37DA-D554-J",
+            "ratings": [
+                {
+                    "advisories": [
+                        "V"
+                    ],
+                    "description": null,
+                    "system": "AI",
+                    "value": "7+",
+                    "impliedMaturityValue": 750
+                }
+            ],
+            "releases": [
+                {
+                    "releaseDate": "2020-06-21",
+                    "releaseType": "original",
+                    "releaseYear": 2020,
+                    "territory": null,
+                    "releaseOrg": null
+                }
+            ],
+            "seasonsMaxYear": null,
+            "seasonsMinYear": null,
+            "seriesId": "f8d1be96-05a5-428d-8e64-eabe0b88abcf",
+            "tags": [
+                {
+                    "displayName": null,
+                    "type": "disneyPlusOriginal",
+                    "value": "false"
+                }
+            ],
+            "textExperienceId": "d53412d3-a18f-4751-88df-93e79dca19b2",
+            "videoArt": [],
+            "encodedTextExperienceId": "13ynnOLWmpJu",
+            "parentOf": null,
+            "mediaRights": {
+                "downloadBlocked": false,
+                "rewind": true,
+                "violations": []
+            },
+            "image": {
+                "background_details": {
+                    "1.33": {
+                        "series": {
+                            "default": {
+                                "masterId": "B36F96CBFDFE81064A549BAF4C0C2AC194B2464FE2C3FBC11AEDA5667764BC9A",
+                                "masterHeight": 2160,
+                                "masterWidth": 2880,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/B36F96CBFDFE81064A549BAF4C0C2AC194B2464FE2C3FBC11AEDA5667764BC9A"
+                            }
+                        }
+                    },
+                    "1.78": {
+                        "series": {
+                            "default": {
+                                "masterId": "985F1A5DA822097B3BF84E9A69564120EB0FE3F2A4A3D1A5E77CE6C9F1D78062",
+                                "masterHeight": 2160,
+                                "masterWidth": 3840,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/985F1A5DA822097B3BF84E9A69564120EB0FE3F2A4A3D1A5E77CE6C9F1D78062"
+                            }
+                        }
+                    }
+                },
+                "tile": {
+                    "1.0": {
+                        "series": {
+                            "default": {
+                                "masterId": "754A8BA1DAFCC967E3016167837BE7D20A5E88A19941B258ACCF4FC9D529D8B1",
+                                "masterHeight": 3000,
+                                "masterWidth": 3000,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/754A8BA1DAFCC967E3016167837BE7D20A5E88A19941B258ACCF4FC9D529D8B1"
+                            }
+                        }
+                    },
+                    "1.33": {
+                        "series": {
+                            "default": {
+                                "masterId": "1BDE95B89D4D65C081AFCAF0C5D3DD29DAF6A6771A3161ACB810472EAC944818",
+                                "masterHeight": 1080,
+                                "masterWidth": 1440,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/1BDE95B89D4D65C081AFCAF0C5D3DD29DAF6A6771A3161ACB810472EAC944818"
+                            }
+                        }
+                    },
+                    "1.78": {
+                        "series": {
+                            "default": {
+                                "masterId": "408479E776001F7023CC08F3CBC993B7AEF42AC394A013BE57691678A2D2F5BB",
+                                "masterHeight": 2160,
+                                "masterWidth": 3840,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/408479E776001F7023CC08F3CBC993B7AEF42AC394A013BE57691678A2D2F5BB"
+                            }
+                        }
+                    },
+                    "0.67": {
+                        "series": {
+                            "default": {
+                                "masterId": "01A19A91B9653C8D0B7CF55201011BFB5F7A1B5E5A9DDFA82421C8B60AE8C395",
+                                "masterHeight": 3000,
+                                "masterWidth": 2000,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/01A19A91B9653C8D0B7CF55201011BFB5F7A1B5E5A9DDFA82421C8B60AE8C395"
+                            }
+                        }
+                    },
+                    "0.71": {
+                        "series": {
+                            "default": {
+                                "masterId": "2ECAB6EE5DF6EA0FD756C7BAB7C851F63340E35853AEF6FA0D776E5D988C83B0",
+                                "masterHeight": 2818,
+                                "masterWidth": 2000,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/2ECAB6EE5DF6EA0FD756C7BAB7C851F63340E35853AEF6FA0D776E5D988C83B0"
+                            }
+                        }
+                    },
+                    "0.75": {
+                        "series": {
+                            "default": {
+                                "masterId": "70F4F9E2559CC77A409DDD76A122E0D35FC62FB9D16D1627E700B462D81E1C50",
+                                "masterHeight": 1440,
+                                "masterWidth": 1080,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/70F4F9E2559CC77A409DDD76A122E0D35FC62FB9D16D1627E700B462D81E1C50"
+                            }
+                        }
+                    }
+                }
+            },
+            "text": {
+                "title": {
+                    "brief": {
+                        "series": {
+                            "default": {
+                                "content": "Marvel Battleworld: Mystery of the Thanostones",
+                                "sourceEntity": "series",
+                                "language": "tr"
+                            }
+                        }
+                    },
+                    "full": {
+                        "series": {
+                            "default": {
+                                "content": "Marvel Battleworld: Mystery of the Thanostones",
+                                "sourceEntity": "series",
+                                "language": "tr"
+                            }
+                        }
+                    },
+                    "slug": {
+                        "series": {
+                            "default": {
+                                "content": "marvel-battleworld-mystery-of-the-thanostones",
+                                "sourceEntity": "series",
+                                "language": "tr"
+                            }
+                        }
+                    }
+                }
+            },
+            "badging": null,
+            "seriesType": "standard",
+            "type": "DmcSeries",
+            "region": "TR"
+        },
+        {
+            "childOf": [],
+            "contentId": "8651bc2a-8963-44eb-b604-5861a5535f59",
+            "contentSource": "disney",
+            "currentAvailability": {
+                "appears": "",
+                "kidsMode": false,
+                "minPromotionalStartDate": "2023-02-08T08:00:00Z",
+                "region": "TR"
+            },
+            "encodedSeriesId": "3sjcQHg9IIHD",
+            "family": {
+                "familyId": "ZGlzbmV5b3JnOmRpc25leS5jb206cmFkYXI6NDc4ODU3",
+                "encodedFamilyId": "41CMHd0wsj5B",
+                "parent": true,
+                "parentRef": null,
+                "partnerFamilyId": "org:disney.com:radar:478857",
+                "encodedPartnerFamilyId": "5hqn6gibNz9A",
+                "sequenceNumber": null
+            },
+            "mediaMetadata": {
+                "format": "",
+                "mediaId": "",
+                "phase": "",
+                "playbackUrls": [],
+                "productType": "",
+                "runtimeMillis": 0,
+                "state": "",
+                "type": ""
+            },
+            "meta": null,
+            "partnerSeriesId": "728D-2BD9-744D-B8C7-67EC-J",
+            "ratings": [
+                {
+                    "advisories": [
+                        "S",
+                        "N"
+                    ],
+                    "description": null,
+                    "system": "AI",
+                    "value": "18+",
+                    "impliedMaturityValue": 1850
+                }
+            ],
+            "releases": [
+                {
+                    "releaseDate": "2022-12-05",
+                    "releaseType": "original",
+                    "releaseYear": 2022,
+                    "territory": null,
+                    "releaseOrg": null
+                }
+            ],
+            "seasonsMaxYear": null,
+            "seasonsMinYear": null,
+            "seriesId": "8651bc2a-8963-44eb-b604-5861a5535f59",
+            "tags": [
+                {
+                    "displayName": null,
+                    "type": "disneyPlusOriginal",
+                    "value": "false"
+                }
+            ],
+            "textExperienceId": "d34bc666-19ea-41fc-b964-a6516c893bf7",
+            "videoArt": [],
+            "encodedTextExperienceId": "110kTTjHFZQW",
+            "parentOf": null,
+            "mediaRights": {
+                "downloadBlocked": false,
+                "rewind": true,
+                "violations": []
+            },
+            "image": {
+                "background_details": {
+                    "1.33": {
+                        "series": {
+                            "default": {
+                                "masterId": "D01D8A4CAEC505A77DF0109B180EE536D4D89AE82E9818F60166CFAD37FDCCD4",
+                                "masterHeight": 2160,
+                                "masterWidth": 2880,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/D01D8A4CAEC505A77DF0109B180EE536D4D89AE82E9818F60166CFAD37FDCCD4"
+                            }
+                        }
+                    },
+                    "1.78": {
+                        "series": {
+                            "default": {
+                                "masterId": "BE823F5336AE575F5AAAE1AA1A79123ACFB39AC35377FA425815D08C7ADEED12",
+                                "masterHeight": 2160,
+                                "masterWidth": 3840,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/BE823F5336AE575F5AAAE1AA1A79123ACFB39AC35377FA425815D08C7ADEED12"
+                            }
+                        }
+                    }
+                },
+                "tile": {
+                    "1.0": {
+                        "series": {
+                            "default": {
+                                "masterId": "9EDAA26423D9E48758697FE400F6E4E38EF44CAF1E4D7397F65F4353A8D6ADBE",
+                                "masterHeight": 3000,
+                                "masterWidth": 3000,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/9EDAA26423D9E48758697FE400F6E4E38EF44CAF1E4D7397F65F4353A8D6ADBE"
+                            }
+                        }
+                    },
+                    "0.75": {
+                        "series": {
+                            "default": {
+                                "masterId": "3E0692CA19C10FA5DF2DF3836EB9B8FAD713E6F7035CF48964670868237711AC",
+                                "masterHeight": 2880,
+                                "masterWidth": 2160,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/3E0692CA19C10FA5DF2DF3836EB9B8FAD713E6F7035CF48964670868237711AC"
+                            }
+                        }
+                    },
+                    "0.71": {
+                        "series": {
+                            "default": {
+                                "masterId": "F21C7A8A8C3C2ABBD56265B81ADBCAA434C7188FE3796FFD6D200EA229353439",
+                                "masterHeight": 2818,
+                                "masterWidth": 2000,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/F21C7A8A8C3C2ABBD56265B81ADBCAA434C7188FE3796FFD6D200EA229353439"
+                            }
+                        }
+                    },
+                    "1.78": {
+                        "series": {
+                            "default": {
+                                "masterId": "6EAB2B4D048DBA1770859344135132516CC690F42A918EC073E41C2F866B955D",
+                                "masterHeight": 2160,
+                                "masterWidth": 3840,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/6EAB2B4D048DBA1770859344135132516CC690F42A918EC073E41C2F866B955D"
+                            }
+                        }
+                    },
+                    "1.33": {
+                        "series": {
+                            "default": {
+                                "masterId": "8792816C6A738F76BF1DAF11E46FCB768F667080507E881E0BEA726BC895265C",
+                                "masterHeight": 2160,
+                                "masterWidth": 2880,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/8792816C6A738F76BF1DAF11E46FCB768F667080507E881E0BEA726BC895265C"
+                            }
+                        }
+                    },
+                    "0.67": {
+                        "series": {
+                            "default": {
+                                "masterId": "7F79D98AAD5627EA129F9E90E43E08A904C8507CB7D4B9C5A65BA6A11A5FBB80",
+                                "masterHeight": 3000,
+                                "masterWidth": 2000,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/7F79D98AAD5627EA129F9E90E43E08A904C8507CB7D4B9C5A65BA6A11A5FBB80"
+                            }
+                        }
+                    }
+                }
+            },
+            "text": {
+                "title": {
+                    "brief": {
+                        "series": {
+                            "default": {
+                                "content": "Back in the Groove",
+                                "sourceEntity": "series",
+                                "language": "tr"
+                            }
+                        }
+                    },
+                    "full": {
+                        "series": {
+                            "default": {
+                                "content": "Back in the Groove",
+                                "sourceEntity": "series",
+                                "language": "tr"
+                            }
+                        }
+                    },
+                    "slug": {
+                        "series": {
+                            "default": {
+                                "content": "back-in-the-groove",
+                                "sourceEntity": "series",
+                                "language": "tr"
+                            }
+                        }
+                    }
+                }
+            },
+            "badging": null,
+            "seriesType": "standard",
+            "type": "DmcSeries",
+            "region": "TR"
+        },
+        {
+            "childOf": [],
+            "contentId": "1f36054c-1c22-4c19-ae06-aafedbbae03a",
+            "contentSource": "disney",
+            "currentAvailability": {
+                "appears": "",
+                "kidsMode": false,
+                "minPromotionalStartDate": "2024-10-16T07:00:00Z",
+                "region": "TR"
+            },
+            "encodedSeriesId": "5V1MsY3PEvSs",
+            "family": {
+                "familyId": "ZGlzbmV5b3JnOmRpc25leS5jb206cmFkYXI6NTM0NTg1",
+                "encodedFamilyId": "4BCQiP2OmQ1a",
+                "parent": true,
+                "parentRef": null,
+                "partnerFamilyId": "org:disney.com:radar:534585",
+                "encodedPartnerFamilyId": "3HcSPXPQzXvw",
+                "sequenceNumber": null
+            },
+            "mediaMetadata": {
+                "format": "",
+                "mediaId": "",
+                "phase": "",
+                "playbackUrls": [],
+                "productType": "",
+                "runtimeMillis": 0,
+                "state": "",
+                "type": ""
+            },
+            "meta": null,
+            "partnerSeriesId": "F6DA-0FA9-538D-4E1D-0AB2-O",
+            "ratings": [
+                {
+                    "advisories": [
+                        "S",
+                        "V",
+                        "N"
+                    ],
+                    "description": null,
+                    "system": "AI",
+                    "value": "18+",
+                    "impliedMaturityValue": 1850
+                }
+            ],
+            "releases": [
+                {
+                    "releaseDate": "2024-09-25",
+                    "releaseType": "original",
+                    "releaseYear": 2024,
+                    "territory": null,
+                    "releaseOrg": null
+                }
+            ],
+            "seasonsMaxYear": null,
+            "seasonsMinYear": null,
+            "seriesId": "1f36054c-1c22-4c19-ae06-aafedbbae03a",
+            "tags": [
+                {
+                    "displayName": null,
+                    "type": "disneyPlusOriginal",
+                    "value": "false"
+                }
+            ],
+            "textExperienceId": "d2040aba-37b1-4a79-985e-a84a07daa2ac",
+            "videoArt": [],
+            "encodedTextExperienceId": "SXvqZvFPAgbf",
+            "parentOf": null,
+            "mediaRights": {
+                "downloadBlocked": false,
+                "rewind": true,
+                "violations": []
+            },
+            "image": {
+                "background": {
+                    "2.89": {
+                        "series": {
+                            "default": {
+                                "masterId": "F9E9997F6107D5C3EB860AEBD34B2BF728D86E21C03FE53CE9BAFA441A29FCA1",
+                                "masterHeight": 1330,
+                                "masterWidth": 3840,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/F9E9997F6107D5C3EB860AEBD34B2BF728D86E21C03FE53CE9BAFA441A29FCA1"
+                            }
+                        }
+                    }
+                },
+                "background_details": {
+                    "1.78": {
+                        "series": {
+                            "default": {
+                                "masterId": "9F0F7F27153CA23D18DAC8B93D45E8DC253FCA11904EB709DC6A6A2F5E9B5852",
+                                "masterHeight": 2160,
+                                "masterWidth": 3840,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/9F0F7F27153CA23D18DAC8B93D45E8DC253FCA11904EB709DC6A6A2F5E9B5852"
+                            }
+                        }
+                    },
+                    "1.33": {
+                        "series": {
+                            "default": {
+                                "masterId": "A7F69447E218897B49291C9180DEBCBD24DC7D3382F7F36F01365E7B290CA8C3",
+                                "masterHeight": 2160,
+                                "masterWidth": 2880,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/A7F69447E218897B49291C9180DEBCBD24DC7D3382F7F36F01365E7B290CA8C3"
+                            }
+                        }
+                    }
+                },
+                "tile": {
+                    "0.75": {
+                        "series": {
+                            "default": {
+                                "masterId": "46CDBA420DBD9073501C2F2BDACC998C77AB1705B8356C660F07AE879435F3C1",
+                                "masterHeight": 2880,
+                                "masterWidth": 2160,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/46CDBA420DBD9073501C2F2BDACC998C77AB1705B8356C660F07AE879435F3C1"
+                            }
+                        }
+                    },
+                    "1.78": {
+                        "series": {
+                            "default": {
+                                "masterId": "357EE2D6EA4FB012DB8C37F9FD7AD89760BF3C44B937810F200912366270A8D1",
+                                "masterHeight": 2160,
+                                "masterWidth": 3840,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/357EE2D6EA4FB012DB8C37F9FD7AD89760BF3C44B937810F200912366270A8D1"
+                            }
+                        }
+                    },
+                    "0.67": {
+                        "series": {
+                            "default": {
+                                "masterId": "FF22FA99AB7F6FAA187D35106B4B3F14BA65C0A2682E8B61AB1F83D67EBFE322",
+                                "masterHeight": 3000,
+                                "masterWidth": 2000,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/FF22FA99AB7F6FAA187D35106B4B3F14BA65C0A2682E8B61AB1F83D67EBFE322"
+                            }
+                        }
+                    },
+                    "1.33": {
+                        "series": {
+                            "default": {
+                                "masterId": "A2C937A2EB4AF17CFF941365F8B6D4DB52168D7D273313D2E6AD450FCF9F91E6",
+                                "masterHeight": 2160,
+                                "masterWidth": 2880,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/A2C937A2EB4AF17CFF941365F8B6D4DB52168D7D273313D2E6AD450FCF9F91E6"
+                            }
+                        }
+                    },
+                    "1.0": {
+                        "series": {
+                            "default": {
+                                "masterId": "5787213E89371CE803C588A1E59849A51C4E05143DC24F29D09288F23628B695",
+                                "masterHeight": 3000,
+                                "masterWidth": 3000,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/5787213E89371CE803C588A1E59849A51C4E05143DC24F29D09288F23628B695"
+                            }
+                        }
+                    },
+                    "0.71": {
+                        "series": {
+                            "default": {
+                                "masterId": "449DD9ABD60AE97F5AA89F65954759468B83FF528C834AD0E110615E2DB4DBF6",
+                                "masterHeight": 2818,
+                                "masterWidth": 2000,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/449DD9ABD60AE97F5AA89F65954759468B83FF528C834AD0E110615E2DB4DBF6"
+                            }
+                        }
+                    }
+                }
+            },
+            "text": {
+                "title": {
+                    "brief": {
+                        "series": {
+                            "default": {
+                                "content": "Grotesquerie",
+                                "sourceEntity": "series",
+                                "language": "tr"
+                            }
+                        }
+                    },
+                    "full": {
+                        "series": {
+                            "default": {
+                                "content": "Grotesquerie",
+                                "sourceEntity": "series",
+                                "language": "tr"
+                            }
+                        }
+                    },
+                    "slug": {
+                        "series": {
+                            "default": {
+                                "content": "grotesquerie",
+                                "sourceEntity": "series",
+                                "language": "tr"
+                            }
+                        }
+                    }
+                }
+            },
+            "badging": null,
+            "seriesType": "standard",
+            "type": "DmcSeries",
+            "region": "TR"
+        },
+        {
+            "mediaMetadata": {
+                "format": "UHD",
+                "mediaId": "9445e21b-c137-4d40-b816-7cbee3987232",
+                "phase": "active",
+                "playbackUrls": [
+                    {
+                        "href": "https://disney.playback.edge.bamgrid.com/media/9445e21b-c137-4d40-b816-7cbee3987232/scenarios/{scenario}",
+                        "params": [
+                            {
+                                "description": "Playback scenario",
+                                "name": "scenario"
+                            }
+                        ],
+                        "rel": "video",
+                        "templated": true
+                    }
+                ],
+                "productType": "VOD",
+                "runtimeMillis": 7371000,
+                "state": "ON",
+                "type": "VIDEO"
+            },
+            "contentType": "full",
+            "childOf": [],
+            "contentId": "04667710-5866-4a77-be5d-a9f7265bdb5c",
+            "contentSource": "disney",
+            "distributionContext": "disney",
+            "episodeNumber": null,
+            "episodeSequenceNumber": null,
+            "episodeSeriesSequenceNumber": null,
+            "family": {
+                "familyId": "ZGlzbmV5b3JnOmRpc25leS5jb206cmFkYXI6MTMyNTU4",
+                "encodedFamilyId": "1S4WM9h3KRR6",
+                "parent": true,
+                "parentRef": {
+                    "programId": "80a07880-8aec-4ccd-a408-cc8d22501632",
+                    "seasonId": null,
+                    "seriesId": null,
+                    "encodedProgramId": "4U73ns0fEqoy",
+                    "encodedSeasonId": "",
+                    "encodedSeriesId": ""
+                },
+                "partnerFamilyId": "org:disney.com:radar:132558",
+                "encodedPartnerFamilyId": "5tpaIBvquPSH",
+                "sequenceNumber": null
+            },
+            "feedSubType": "",
+            "feedType": "primary",
+            "groupingId": null,
+            "groups": [
+                {
+                    "name": "Marvel",
+                    "partnerGroupId": "365225",
+                    "type": "disneyPlusStorefrontSubBrand"
+                },
+                {
+                    "name": "Guardians of the Galaxy",
+                    "partnerGroupId": "478411",
+                    "type": "disneyPlusFranchise"
+                },
+                {
+                    "name": "Marvel",
+                    "partnerGroupId": "377146",
+                    "type": "disneyPlusStorefrontBrand"
+                }
+            ],
+            "internalTitle": "Guardians of the Galaxy - movie - 04667710-5866-4a77-be5d-a9f7265bdb5c",
+            "labels": [
+                {
+                    "region": "TR",
+                    "value": "pse_disclaimer"
+                }
+            ],
+            "videoArt": [
+                {
+                    "mediaMetadata": {
+                        "urls": null
+                    },
+                    "purpose": "full_bleed"
+                }
+            ],
+            "tags": [
+                {
+                    "displayName": null,
+                    "type": "titleEidr",
+                    "value": "327D-78F8-6DE8-14F2-1D37-Q"
+                },
+                {
+                    "displayName": null,
+                    "type": "disneyPlusOriginal",
+                    "value": "false"
+                }
+            ],
+            "seriesId": null,
+            "seasonSequenceNumber": null,
+            "seasonId": null,
+            "runtimeMillis": 7371000,
+            "releases": [
+                {
+                    "releaseDate": "2014-07-31",
+                    "releaseType": "original",
+                    "releaseYear": 2014,
+                    "territory": null,
+                    "releaseOrg": null
+                }
+            ],
+            "ratings": [
+                {
+                    "advisories": [
+                        "V"
+                    ],
+                    "description": null,
+                    "system": "AI",
+                    "value": "13+",
+                    "impliedMaturityValue": 1350
+                }
+            ],
+            "programType": "movie",
+            "programId": "80a07880-8aec-4ccd-a408-cc8d22501632",
+            "partnerVideoId": "3E1C-FBC5-B8AA-2C4E-AC26-7",
+            "partnerSeriesId": null,
+            "partnerSeasonId": null,
+            "partnerProgramId": "md:cid:org:disney.com:radar:132558",
+            "partnerExclusions": [],
+            "partnerContentId": "3E1C-FBC5-B8AA-2C4E-AC26-7",
+            "parentOf": "ZGlzbmV5b3JnOmRpc25leS5jb206cmFkYXI6MTMyNTU4",
+            "originalLanguage": "en",
+            "meta": null,
+            "encodedSeriesId": "",
+            "encodedChildOf": "",
+            "encodedParentOf": "1S4WM9h3KRR6",
+            "currentAvailability": {
+                "appears": "",
+                "kidsMode": false,
+                "minPromotionalStartDate": "2022-06-11T21:00:00Z",
+                "region": "TR"
+            },
+            "mediaConfig": {
+                "productType": "VOD",
+                "state": "ON",
+                "type": "VIDEO"
+            },
+            "mediaFormat": "UHD",
+            "mediaRights": {
+                "downloadBlocked": false,
+                "rewind": true,
+                "violations": []
+            },
+            "mediaId": "9445e21b-c137-4d40-b816-7cbee3987232",
+            "playbackUrls": [
+                {
+                    "href": "https://disney.playback.edge.bamgrid.com/media/9445e21b-c137-4d40-b816-7cbee3987232/scenarios/{scenario}",
+                    "params": [
+                        {
+                            "description": "Playback scenario",
+                            "name": "scenario"
+                        }
+                    ],
+                    "rel": "video",
+                    "templated": true
+                }
+            ],
+            "image": {
+                "background_details": {
+                    "1.33": {
+                        "video": {
+                            "default": {
+                                "masterId": "CEAC260300E0AAD5DFC8FC1598DF8FD33880BA5CF094CE135FEC6B67D9DB47EC",
+                                "masterHeight": 2160,
+                                "masterWidth": 2880,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/CEAC260300E0AAD5DFC8FC1598DF8FD33880BA5CF094CE135FEC6B67D9DB47EC"
+                            }
+                        }
+                    },
+                    "1.78": {
+                        "video": {
+                            "default": {
+                                "masterId": "B48AD12C6A7A355A193D667F76B688662A9F9B07DDBADCA0ED775224B82E9B60",
+                                "masterHeight": 2160,
+                                "masterWidth": 3840,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/B48AD12C6A7A355A193D667F76B688662A9F9B07DDBADCA0ED775224B82E9B60"
+                            }
+                        }
+                    }
+                },
+                "tile": {
+                    "0.67": {
+                        "video": {
+                            "default": {
+                                "masterId": "A0A3EC8EEAF8EA0E3D58995BEF40174B8F258F1BE21064826BF7915C64B0DA1F",
+                                "masterHeight": 3000,
+                                "masterWidth": 2000,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/A0A3EC8EEAF8EA0E3D58995BEF40174B8F258F1BE21064826BF7915C64B0DA1F"
+                            }
+                        }
+                    },
+                    "1.33": {
+                        "video": {
+                            "default": {
+                                "masterId": "FEED3B170FC4BDD73F6F20AFA0FB576D80606095A697E475E3909AE802349F19",
+                                "masterHeight": 1080,
+                                "masterWidth": 1440,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/FEED3B170FC4BDD73F6F20AFA0FB576D80606095A697E475E3909AE802349F19"
+                            }
+                        }
+                    },
+                    "1.0": {
+                        "video": {
+                            "default": {
+                                "masterId": "2550B5C2CC2F77787B457216950D2C061C0C69977CC625DF9B3A62CFA6BA938A",
+                                "masterHeight": 1080,
+                                "masterWidth": 1080,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/2550B5C2CC2F77787B457216950D2C061C0C69977CC625DF9B3A62CFA6BA938A"
+                            }
+                        }
+                    },
+                    "0.71": {
+                        "video": {
+                            "default": {
+                                "masterId": "09E02B9AB57B2852456EBE1BAA58A26AC1993DE2F0FE7D21358063421B8E6908",
+                                "masterHeight": 2818,
+                                "masterWidth": 2000,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/09E02B9AB57B2852456EBE1BAA58A26AC1993DE2F0FE7D21358063421B8E6908"
+                            }
+                        }
+                    },
+                    "0.75": {
+                        "video": {
+                            "default": {
+                                "masterId": "35BF0665E5DC6C90CF2607005089E13D3A262655E1DB5ABF7A87884791534DFA",
+                                "masterHeight": 800,
+                                "masterWidth": 600,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/35BF0665E5DC6C90CF2607005089E13D3A262655E1DB5ABF7A87884791534DFA"
+                            }
+                        }
+                    },
+                    "1.78": {
+                        "video": {
+                            "default": {
+                                "masterId": "C1C0181ED7342217394E5AC940003A8653E3311B6016194749B29A0FE3F238EB",
+                                "masterHeight": 1080,
+                                "masterWidth": 1920,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/C1C0181ED7342217394E5AC940003A8653E3311B6016194749B29A0FE3F238EB"
+                            }
+                        }
+                    }
+                }
+            },
+            "text": {
+                "title": {
+                    "full": {
+                        "program": {
+                            "default": {
+                                "content": "Guardians of the Galaxy",
+                                "sourceEntity": "program",
+                                "language": "tr"
+                            }
+                        }
+                    },
+                    "slug": {
+                        "program": {
+                            "default": {
+                                "content": "guardians-of-the-galaxy",
+                                "sourceEntity": "program",
+                                "language": "tr"
+                            }
+                        }
+                    }
+                }
+            },
+            "badging": null,
+            "seriesType": null,
+            "event": null,
+            "channel": null,
+            "type": "DmcVideo",
+            "region": "TR"
+        },
+        {
+            "childOf": [],
+            "contentId": "9cb9dd47-05e3-4aa0-ae63-ce9e844679c0",
+            "contentSource": "disney",
+            "currentAvailability": {
+                "appears": "",
+                "kidsMode": false,
+                "minPromotionalStartDate": "2022-06-11T21:00:00Z",
+                "region": "TR"
+            },
+            "encodedSeriesId": "7h5oHWcZQWCG",
+            "family": {
+                "familyId": "ZGlzbmV5b3JnOmRpc25leS5jb206cmFkYXI6MTQ5MTI0",
+                "encodedFamilyId": "ODk0WIc0DY4s",
+                "parent": true,
+                "parentRef": null,
+                "partnerFamilyId": "org:disney.com:radar:149124",
+                "encodedPartnerFamilyId": "16Nt3fZwJ98H",
+                "sequenceNumber": null
+            },
+            "mediaMetadata": {
+                "format": "",
+                "mediaId": "",
+                "phase": "",
+                "playbackUrls": [],
+                "productType": "",
+                "runtimeMillis": 0,
+                "state": "",
+                "type": ""
+            },
+            "meta": null,
+            "partnerSeriesId": "F5DF-9D8F-8937-D48B-4D0C-1",
+            "ratings": [
+                {
+                    "advisories": [
+                        "V"
+                    ],
+                    "description": null,
+                    "system": "AI",
+                    "value": "7+",
+                    "impliedMaturityValue": 750
+                }
+            ],
+            "releases": [
+                {
+                    "releaseDate": "2015-09-05",
+                    "releaseType": "original",
+                    "releaseYear": 2015,
+                    "territory": null,
+                    "releaseOrg": null
+                }
+            ],
+            "seasonsMaxYear": null,
+            "seasonsMinYear": null,
+            "seriesId": "9cb9dd47-05e3-4aa0-ae63-ce9e844679c0",
+            "tags": [
+                {
+                    "displayName": null,
+                    "type": "disneyPlusOriginal",
+                    "value": "false"
+                }
+            ],
+            "textExperienceId": "3c58ba76-5865-496e-9cb7-a74bf55195c2",
+            "videoArt": [
+                {
+                    "mediaMetadata": {
+                        "urls": null
+                    },
+                    "purpose": "full_bleed"
+                }
+            ],
+            "encodedTextExperienceId": "2yLRb0wyy0Dx",
+            "parentOf": null,
+            "mediaRights": {
+                "downloadBlocked": false,
+                "rewind": true,
+                "violations": []
+            },
+            "image": {
+                "background_details": {
+                    "1.78": {
+                        "series": {
+                            "default": {
+                                "masterId": "CB4F16E50759CC215C16F9681CC428F33B259FE66A435504F6E00F3B95C01A15",
+                                "masterHeight": 2160,
+                                "masterWidth": 3840,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/CB4F16E50759CC215C16F9681CC428F33B259FE66A435504F6E00F3B95C01A15"
+                            }
+                        }
+                    },
+                    "1.33": {
+                        "series": {
+                            "default": {
+                                "masterId": "6106DFA67C6277FCED46283D541ED4FA9E252A851196AB35F3E7043C159E11A1",
+                                "masterHeight": 2160,
+                                "masterWidth": 2880,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/6106DFA67C6277FCED46283D541ED4FA9E252A851196AB35F3E7043C159E11A1"
+                            }
+                        }
+                    }
+                },
+                "tile": {
+                    "0.75": {
+                        "series": {
+                            "default": {
+                                "masterId": "853BF42A99419A38605DF952FAB4DCBD97DC5B0D7A549D69029CD5089F0A0564",
+                                "masterHeight": 800,
+                                "masterWidth": 600,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/853BF42A99419A38605DF952FAB4DCBD97DC5B0D7A549D69029CD5089F0A0564"
+                            }
+                        }
+                    },
+                    "1.0": {
+                        "series": {
+                            "default": {
+                                "masterId": "BE339987DA5797439CA4D4F44D69B3041871BB3FBFAA0A5E6F79647AE11563FA",
+                                "masterHeight": 3000,
+                                "masterWidth": 3000,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/BE339987DA5797439CA4D4F44D69B3041871BB3FBFAA0A5E6F79647AE11563FA"
+                            }
+                        }
+                    },
+                    "1.78": {
+                        "series": {
+                            "default": {
+                                "masterId": "17182DD812E20B5C5AFE535307F0E4EDD46A01AB198314881B2A9CABC1F715F5",
+                                "masterHeight": 1080,
+                                "masterWidth": 1920,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/17182DD812E20B5C5AFE535307F0E4EDD46A01AB198314881B2A9CABC1F715F5"
+                            }
+                        }
+                    },
+                    "0.71": {
+                        "series": {
+                            "default": {
+                                "masterId": "9CC927861ABCB008B821C3DE655B1ED529E853C1F1A349FC751B55C10CE7F7C5",
+                                "masterHeight": 1080,
+                                "masterWidth": 767,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/9CC927861ABCB008B821C3DE655B1ED529E853C1F1A349FC751B55C10CE7F7C5"
+                            }
+                        }
+                    },
+                    "0.67": {
+                        "series": {
+                            "default": {
+                                "masterId": "05B994BC80DC95F27000606E25BB394C207EAF038DB6D52F844EF1C593355CB4",
+                                "masterHeight": 3000,
+                                "masterWidth": 2000,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/05B994BC80DC95F27000606E25BB394C207EAF038DB6D52F844EF1C593355CB4"
+                            }
+                        }
+                    },
+                    "1.33": {
+                        "series": {
+                            "default": {
+                                "masterId": "B426A052D7E87938EFCE1F2B7BBB3C644F4CBAB06D6E8D1095FBF71B66706520",
+                                "masterHeight": 1080,
+                                "masterWidth": 1440,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/B426A052D7E87938EFCE1F2B7BBB3C644F4CBAB06D6E8D1095FBF71B66706520"
+                            }
+                        }
+                    }
+                }
+            },
+            "text": {
+                "title": {
+                    "full": {
+                        "series": {
+                            "default": {
+                                "content": "Guardians of the Galaxy",
+                                "sourceEntity": "series",
+                                "language": "tr"
+                            }
+                        }
+                    },
+                    "slug": {
+                        "series": {
+                            "default": {
+                                "content": "guardians-of-the-galaxy",
+                                "sourceEntity": "series",
+                                "language": "tr"
+                            }
+                        }
+                    }
+                }
+            },
+            "badging": null,
+            "seriesType": "standard",
+            "type": "DmcSeries",
+            "region": "TR"
+        },
+        {
+            "mediaMetadata": {
+                "format": "UHD",
+                "mediaId": "5b4bff50-7342-4eaf-9eaa-8a6887c8d96f",
+                "phase": "active",
+                "playbackUrls": [
+                    {
+                        "href": "https://disney.playback.edge.bamgrid.com/media/5b4bff50-7342-4eaf-9eaa-8a6887c8d96f/scenarios/{scenario}",
+                        "params": [
+                            {
+                                "description": "Playback scenario",
+                                "name": "scenario"
+                            }
+                        ],
+                        "rel": "video",
+                        "templated": true
+                    }
+                ],
+                "productType": "VOD",
+                "runtimeMillis": 8276000,
+                "state": "ON",
+                "type": "VIDEO"
+            },
+            "contentType": "full",
+            "childOf": [],
+            "contentId": "a2eedd10-4408-48ce-bda6-97cf3b54d986",
+            "contentSource": "disney",
+            "distributionContext": "disney",
+            "episodeNumber": null,
+            "episodeSequenceNumber": null,
+            "episodeSeriesSequenceNumber": null,
+            "family": {
+                "familyId": "ZGlzbmV5b3JnOmRpc25leS5jb206cmFkYXI6MTQ2ODgx",
+                "encodedFamilyId": "ZdRX4mMbp1gM",
+                "parent": true,
+                "parentRef": {
+                    "programId": "379471b4-6065-4272-8fe1-0b2ddbd561af",
+                    "seasonId": null,
+                    "seriesId": null,
+                    "encodedProgramId": "5BBX3mNu8vZg",
+                    "encodedSeasonId": "",
+                    "encodedSeriesId": ""
+                },
+                "partnerFamilyId": "org:disney.com:radar:146881",
+                "encodedPartnerFamilyId": "5Xe37slVb0eE",
+                "sequenceNumber": null
+            },
+            "feedSubType": "",
+            "feedType": "primary",
+            "groupingId": null,
+            "groups": [
+                {
+                    "name": "Marvel",
+                    "partnerGroupId": "365225",
+                    "type": "disneyPlusStorefrontSubBrand"
+                },
+                {
+                    "name": "Guardians of the Galaxy",
+                    "partnerGroupId": "478411",
+                    "type": "disneyPlusFranchise"
+                },
+                {
+                    "name": "Marvel",
+                    "partnerGroupId": "377146",
+                    "type": "disneyPlusStorefrontBrand"
+                }
+            ],
+            "internalTitle": "Guardians of the Galaxy Vol. 2 - movie - a2eedd10-4408-48ce-bda6-97cf3b54d986",
+            "labels": [
+                {
+                    "region": "TR",
+                    "value": "pse_disclaimer"
+                }
+            ],
+            "videoArt": [],
+            "tags": [
+                {
+                    "displayName": null,
+                    "type": "disneyPlusOriginal",
+                    "value": "false"
+                },
+                {
+                    "displayName": null,
+                    "type": "titleEidr",
+                    "value": "948B-1113-9474-BB48-2FC9-I"
+                }
+            ],
+            "seriesId": null,
+            "seasonSequenceNumber": null,
+            "seasonId": null,
+            "runtimeMillis": 8276000,
+            "releases": [
+                {
+                    "releaseDate": "2017-04-25",
+                    "releaseType": "original",
+                    "releaseYear": 2017,
+                    "territory": null,
+                    "releaseOrg": null
+                }
+            ],
+            "ratings": [
+                {
+                    "advisories": [
+                        "V"
+                    ],
+                    "description": null,
+                    "system": "AI",
+                    "value": "13+",
+                    "impliedMaturityValue": 1350
+                }
+            ],
+            "programType": "movie",
+            "programId": "379471b4-6065-4272-8fe1-0b2ddbd561af",
+            "partnerVideoId": "DCCB-85EE-46A3-5971-C113-C",
+            "partnerSeriesId": null,
+            "partnerSeasonId": null,
+            "partnerProgramId": "md:cid:org:disney.com:radar:146881",
+            "partnerExclusions": [],
+            "partnerContentId": "DCCB-85EE-46A3-5971-C113-C",
+            "parentOf": "ZGlzbmV5b3JnOmRpc25leS5jb206cmFkYXI6MTQ2ODgx",
+            "originalLanguage": "en",
+            "meta": null,
+            "encodedSeriesId": "",
+            "encodedChildOf": "",
+            "encodedParentOf": "ZdRX4mMbp1gM",
+            "currentAvailability": {
+                "appears": "",
+                "kidsMode": false,
+                "minPromotionalStartDate": "2022-06-11T21:00:00Z",
+                "region": "TR"
+            },
+            "mediaConfig": {
+                "productType": "VOD",
+                "state": "ON",
+                "type": "VIDEO"
+            },
+            "mediaFormat": "UHD",
+            "mediaRights": {
+                "downloadBlocked": false,
+                "rewind": true,
+                "violations": []
+            },
+            "mediaId": "5b4bff50-7342-4eaf-9eaa-8a6887c8d96f",
+            "playbackUrls": [
+                {
+                    "href": "https://disney.playback.edge.bamgrid.com/media/5b4bff50-7342-4eaf-9eaa-8a6887c8d96f/scenarios/{scenario}",
+                    "params": [
+                        {
+                            "description": "Playback scenario",
+                            "name": "scenario"
+                        }
+                    ],
+                    "rel": "video",
+                    "templated": true
+                }
+            ],
+            "image": {
+                "background": {
+                    "2.89": {
+                        "video": {
+                            "default": {
+                                "masterId": "4B8D2E18EA51261E939A7E00228C50B11BC76532B8BD9051EE0A09A03CEE2F7E",
+                                "masterHeight": 1330,
+                                "masterWidth": 3840,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/4B8D2E18EA51261E939A7E00228C50B11BC76532B8BD9051EE0A09A03CEE2F7E"
+                            }
+                        }
+                    }
+                },
+                "background_details": {
+                    "1.33": {
+                        "video": {
+                            "default": {
+                                "masterId": "4FA10550FA6E87E1ED07DDFE7F5FB149126A4DFE51B01BDB5AA9A7F6ECE0DEFD",
+                                "masterHeight": 2160,
+                                "masterWidth": 2880,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/4FA10550FA6E87E1ED07DDFE7F5FB149126A4DFE51B01BDB5AA9A7F6ECE0DEFD"
+                            }
+                        }
+                    },
+                    "1.78": {
+                        "video": {
+                            "default": {
+                                "masterId": "3487FB63C1ED07915CC6FCA9E8D23ACC7955FBB3A9EC6218B5A5290D312E4E1B",
+                                "masterHeight": 2160,
+                                "masterWidth": 3840,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/3487FB63C1ED07915CC6FCA9E8D23ACC7955FBB3A9EC6218B5A5290D312E4E1B"
+                            }
+                        }
+                    }
+                },
+                "tile": {
+                    "0.75": {
+                        "video": {
+                            "default": {
+                                "masterId": "4F553A1251454FDFB761FD57846D18EB4CA0DA9AEFB765955B0D838245F6FCD9",
+                                "masterHeight": 800,
+                                "masterWidth": 600,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/4F553A1251454FDFB761FD57846D18EB4CA0DA9AEFB765955B0D838245F6FCD9"
+                            }
+                        }
+                    },
+                    "0.71": {
+                        "video": {
+                            "default": {
+                                "masterId": "4A781F5ADF0081FE81ABC6E9D578F256AA30A31F129FBBBADEED14320E165DA0",
+                                "masterHeight": 2818,
+                                "masterWidth": 2000,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/4A781F5ADF0081FE81ABC6E9D578F256AA30A31F129FBBBADEED14320E165DA0"
+                            }
+                        }
+                    },
+                    "0.67": {
+                        "video": {
+                            "default": {
+                                "masterId": "1E10227761018B8213DC9BD420A00E3CBE9BB5BEC968E9BD16AE5AABA7E9C9C4",
+                                "masterHeight": 3000,
+                                "masterWidth": 2000,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/1E10227761018B8213DC9BD420A00E3CBE9BB5BEC968E9BD16AE5AABA7E9C9C4"
+                            }
+                        }
+                    },
+                    "1.33": {
+                        "video": {
+                            "default": {
+                                "masterId": "F252EACD3BA9EF2CAB319A8952EE16EF0EA2D30117C7F23B85894181ABDD93EB",
+                                "masterHeight": 1080,
+                                "masterWidth": 1440,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/F252EACD3BA9EF2CAB319A8952EE16EF0EA2D30117C7F23B85894181ABDD93EB"
+                            }
+                        }
+                    },
+                    "2.29": {
+                        "video": {
+                            "default": {
+                                "masterId": "C434F2A8E4BFA3C139DA54AE0FFFA59645DDE55BD5E2C8AD77C173F3069DB49C",
+                                "masterHeight": 1680,
+                                "masterWidth": 3840,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/C434F2A8E4BFA3C139DA54AE0FFFA59645DDE55BD5E2C8AD77C173F3069DB49C"
+                            }
+                        }
+                    },
+                    "1.0": {
+                        "video": {
+                            "default": {
+                                "masterId": "40D80C82CDC3C14BB5CFD6327766513614747A8683EF925A8922E864DC77D5CA",
+                                "masterHeight": 3000,
+                                "masterWidth": 3000,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/40D80C82CDC3C14BB5CFD6327766513614747A8683EF925A8922E864DC77D5CA"
+                            }
+                        }
+                    },
+                    "1.78": {
+                        "video": {
+                            "default": {
+                                "masterId": "03CCEC2989F88AB5B972E567D388E2825CDB665694F5B0D1F166308B16CD1E3B",
+                                "masterHeight": 1080,
+                                "masterWidth": 1920,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/03CCEC2989F88AB5B972E567D388E2825CDB665694F5B0D1F166308B16CD1E3B"
+                            }
+                        }
+                    }
+                }
+            },
+            "text": {
+                "title": {
+                    "full": {
+                        "program": {
+                            "default": {
+                                "content": "Guardians of the Galaxy Vol. 2",
+                                "sourceEntity": "program",
+                                "language": "tr"
+                            }
+                        }
+                    },
+                    "slug": {
+                        "program": {
+                            "default": {
+                                "content": "guardians-of-the-galaxy-vol-2",
+                                "sourceEntity": "program",
+                                "language": "tr"
+                            }
+                        }
+                    }
+                }
+            },
+            "badging": null,
+            "seriesType": null,
+            "event": null,
+            "channel": null,
+            "type": "DmcVideo",
+            "region": "TR"
+        },
+        {
+            "mediaMetadata": {
+                "format": "UHD",
+                "mediaId": "0e7ca35b-d0ae-40ca-b568-688a248ef93c",
+                "phase": "active",
+                "playbackUrls": [
+                    {
+                        "href": "https://disney.playback.edge.bamgrid.com/media/0e7ca35b-d0ae-40ca-b568-688a248ef93c/scenarios/{scenario}",
+                        "params": [
+                            {
+                                "description": "Playback scenario",
+                                "name": "scenario"
+                            }
+                        ],
+                        "rel": "video",
+                        "templated": true
+                    }
+                ],
+                "productType": "VOD",
+                "runtimeMillis": 9160000,
+                "state": "ON",
+                "type": "VIDEO"
+            },
+            "contentType": "full",
+            "childOf": [],
+            "contentId": "2bd7042a-59ee-4e2c-a479-1c9b713b0958",
+            "contentSource": "disney",
+            "distributionContext": "disney",
+            "episodeNumber": null,
+            "episodeSequenceNumber": null,
+            "episodeSeriesSequenceNumber": null,
+            "family": {
+                "familyId": "ZGlzbmV5b3JnOmRpc25leS5jb206cmFkYXI6MjQ2OTY4",
+                "encodedFamilyId": "1tmc3nPw04S2",
+                "parent": true,
+                "parentRef": {
+                    "programId": "652684cc-97dd-46d1-910e-86f0a7e15855",
+                    "seasonId": null,
+                    "seriesId": null,
+                    "encodedProgramId": "5qukJflDrPm4",
+                    "encodedSeasonId": "",
+                    "encodedSeriesId": ""
+                },
+                "partnerFamilyId": "org:disney.com:radar:246968",
+                "encodedPartnerFamilyId": "5wzmBIxaNU4V",
+                "sequenceNumber": null
+            },
+            "feedSubType": "",
+            "feedType": "primary",
+            "groupingId": null,
+            "groups": [
+                {
+                    "name": "Marvel",
+                    "partnerGroupId": "365225",
+                    "type": "disneyPlusStorefrontSubBrand"
+                },
+                {
+                    "name": "Guardians of the Galaxy",
+                    "partnerGroupId": "478411",
+                    "type": "disneyPlusFranchise"
+                },
+                {
+                    "name": "Marvel",
+                    "partnerGroupId": "377146",
+                    "type": "disneyPlusStorefrontBrand"
+                }
+            ],
+            "internalTitle": "Guardians of the Galaxy Vol. 3 - movie - 2bd7042a-59ee-4e2c-a479-1c9b713b0958",
+            "labels": [
+                {
+                    "region": "TR",
+                    "value": "pse_disclaimer"
+                }
+            ],
+            "videoArt": [
+                {
+                    "mediaMetadata": {
+                        "urls": null
+                    },
+                    "purpose": "full_bleed"
+                }
+            ],
+            "tags": [
+                {
+                    "displayName": null,
+                    "type": "titleEidr",
+                    "value": "EC9C-4096-FF7B-7166-1F67-V"
+                },
+                {
+                    "displayName": null,
+                    "type": "disneyPlusOriginal",
+                    "value": "false"
+                }
+            ],
+            "seriesId": null,
+            "seasonSequenceNumber": null,
+            "seasonId": null,
+            "runtimeMillis": 9160000,
+            "releases": [
+                {
+                    "releaseDate": "2023-05-03",
+                    "releaseType": "original",
+                    "releaseYear": 2023,
+                    "territory": null,
+                    "releaseOrg": null
+                }
+            ],
+            "ratings": [
+                {
+                    "advisories": [
+                        "V",
+                        "N"
+                    ],
+                    "description": null,
+                    "system": "AI",
+                    "value": "13+",
+                    "impliedMaturityValue": 1350
+                }
+            ],
+            "programType": "movie",
+            "programId": "652684cc-97dd-46d1-910e-86f0a7e15855",
+            "partnerVideoId": "C589-D012-D69E-83D8-47CE-Y",
+            "partnerSeriesId": null,
+            "partnerSeasonId": null,
+            "partnerProgramId": "md:cid:org:disney.com:radar:246968",
+            "partnerExclusions": [],
+            "partnerContentId": "C589-D012-D69E-83D8-47CE-Y",
+            "parentOf": "ZGlzbmV5b3JnOmRpc25leS5jb206cmFkYXI6MjQ2OTY4",
+            "originalLanguage": "en",
+            "meta": null,
+            "encodedSeriesId": "",
+            "encodedChildOf": "",
+            "encodedParentOf": "1tmc3nPw04S2",
+            "currentAvailability": {
+                "appears": "",
+                "kidsMode": false,
+                "minPromotionalStartDate": "2023-11-08T08:00:00Z",
+                "region": "TR"
+            },
+            "mediaConfig": {
+                "productType": "VOD",
+                "state": "ON",
+                "type": "VIDEO"
+            },
+            "mediaFormat": "UHD",
+            "mediaRights": {
+                "downloadBlocked": false,
+                "rewind": true,
+                "violations": []
+            },
+            "mediaId": "0e7ca35b-d0ae-40ca-b568-688a248ef93c",
+            "playbackUrls": [
+                {
+                    "href": "https://disney.playback.edge.bamgrid.com/media/0e7ca35b-d0ae-40ca-b568-688a248ef93c/scenarios/{scenario}",
+                    "params": [
+                        {
+                            "description": "Playback scenario",
+                            "name": "scenario"
+                        }
+                    ],
+                    "rel": "video",
+                    "templated": true
+                }
+            ],
+            "image": {
+                "background": {
+                    "2.89": {
+                        "video": {
+                            "default": {
+                                "masterId": "8B990451944AD598C1949BDF2A5FD6D3CF3D71649A60940F66D84B9309D9B01D",
+                                "masterHeight": 1330,
+                                "masterWidth": 3840,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/8B990451944AD598C1949BDF2A5FD6D3CF3D71649A60940F66D84B9309D9B01D"
+                            }
+                        }
+                    }
+                },
+                "background_details": {
+                    "1.78": {
+                        "video": {
+                            "default": {
+                                "masterId": "3BFF59C6EA462892C6BB0EB0C0180D56A96C1F7A66FFD55C2CDD536A596098E0",
+                                "masterHeight": 2160,
+                                "masterWidth": 3840,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/3BFF59C6EA462892C6BB0EB0C0180D56A96C1F7A66FFD55C2CDD536A596098E0"
+                            }
+                        }
+                    },
+                    "1.33": {
+                        "video": {
+                            "default": {
+                                "masterId": "D93C1AF1B2C32DA16C73FB7A897F9C2BB6AA107FBBC7C9674A30993CD8E4E628",
+                                "masterHeight": 2160,
+                                "masterWidth": 2880,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/D93C1AF1B2C32DA16C73FB7A897F9C2BB6AA107FBBC7C9674A30993CD8E4E628"
+                            }
+                        }
+                    }
+                },
+                "tile": {
+                    "0.75": {
+                        "video": {
+                            "default": {
+                                "masterId": "D67579238840F96DCA1FF17B024F53A2A157009FAAF91F01C47B662D615D1CD2",
+                                "masterHeight": 2880,
+                                "masterWidth": 2160,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/D67579238840F96DCA1FF17B024F53A2A157009FAAF91F01C47B662D615D1CD2"
+                            }
+                        }
+                    },
+                    "1.33": {
+                        "video": {
+                            "default": {
+                                "masterId": "BE20194EF100C5F75A1C992BE2D1AEB9C6775237D4E708BAA9445409054D66C4",
+                                "masterHeight": 2160,
+                                "masterWidth": 2880,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/BE20194EF100C5F75A1C992BE2D1AEB9C6775237D4E708BAA9445409054D66C4"
+                            }
+                        }
+                    },
+                    "1.0": {
+                        "video": {
+                            "default": {
+                                "masterId": "BFBD6024C9EF2893F50DA154205A89FFAFBF4D0911A96CCED39E3E3FD78C0B57",
+                                "masterHeight": 3000,
+                                "masterWidth": 3000,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/BFBD6024C9EF2893F50DA154205A89FFAFBF4D0911A96CCED39E3E3FD78C0B57"
+                            }
+                        }
+                    },
+                    "1.78": {
+                        "video": {
+                            "default": {
+                                "masterId": "08E3DD10C09615B51E2F79F19E726E2BFE1D1A25104BFB64FEFEE51FE0F69842",
+                                "masterHeight": 2160,
+                                "masterWidth": 3840,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/08E3DD10C09615B51E2F79F19E726E2BFE1D1A25104BFB64FEFEE51FE0F69842"
+                            }
+                        }
+                    },
+                    "0.67": {
+                        "video": {
+                            "default": {
+                                "masterId": "336237542C65A397F641363F22C77ECBECF6A4DD75F5748C3BA84D25735A15F3",
+                                "masterHeight": 3000,
+                                "masterWidth": 2000,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/336237542C65A397F641363F22C77ECBECF6A4DD75F5748C3BA84D25735A15F3"
+                            }
+                        }
+                    },
+                    "0.71": {
+                        "video": {
+                            "default": {
+                                "masterId": "3F50E568C3ACA291CA145A76E686038858F8F0A8DA23F23A77A238B277C9A1D8",
+                                "masterHeight": 2818,
+                                "masterWidth": 2000,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/3F50E568C3ACA291CA145A76E686038858F8F0A8DA23F23A77A238B277C9A1D8"
+                            }
+                        }
+                    }
+                }
+            },
+            "text": {
+                "title": {
+                    "full": {
+                        "program": {
+                            "default": {
+                                "content": "Guardians of the Galaxy Vol. 3",
+                                "sourceEntity": "program",
+                                "language": "tr"
+                            }
+                        }
+                    },
+                    "slug": {
+                        "program": {
+                            "default": {
+                                "content": "guardians-of-the-galaxy-vol-3",
+                                "sourceEntity": "program",
+                                "language": "tr"
+                            }
+                        }
+                    }
+                }
+            },
+            "badging": null,
+            "seriesType": null,
+            "event": null,
+            "channel": null,
+            "type": "DmcVideo",
+            "region": "TR"
+        },
+        {
+            "mediaMetadata": {
+                "format": "HD",
+                "mediaId": "8f49abd7-e813-4c67-bbc0-5b6e56232dda",
+                "phase": "active",
+                "playbackUrls": [
+                    {
+                        "href": "https://disney.playback.edge.bamgrid.com/media/8f49abd7-e813-4c67-bbc0-5b6e56232dda/scenarios/{scenario}",
+                        "params": [
+                            {
+                                "description": "Playback scenario",
+                                "name": "scenario"
+                            }
+                        ],
+                        "rel": "video",
+                        "templated": true
+                    }
+                ],
+                "productType": "VOD",
+                "runtimeMillis": 5596000,
+                "state": "ON",
+                "type": "VIDEO"
+            },
+            "contentType": "full",
+            "childOf": [],
+            "contentId": "e8167799-4953-47b9-81ab-92cb9b4e8f3e",
+            "contentSource": "disney",
+            "distributionContext": "disney",
+            "episodeNumber": null,
+            "episodeSequenceNumber": null,
+            "episodeSeriesSequenceNumber": null,
+            "family": {
+                "familyId": "ZGlzbmV5b3JnOmRpc25leS5jb206cmFkYXI6MjMxNzg",
+                "encodedFamilyId": "2emaVQ4AQ9Pd",
+                "parent": true,
+                "parentRef": {
+                    "programId": "c99c16d1-19e2-40b3-b8e8-7343c2228cf5",
+                    "seasonId": null,
+                    "seriesId": null,
+                    "encodedProgramId": "3kO6AyQAFv6z",
+                    "encodedSeasonId": "",
+                    "encodedSeriesId": ""
+                },
+                "partnerFamilyId": "org:disney.com:radar:23178",
+                "encodedPartnerFamilyId": "72N3yRxbwLen",
+                "sequenceNumber": null
+            },
+            "feedSubType": "",
+            "feedType": "primary",
+            "groupingId": null,
+            "groups": [
+                {
+                    "name": "Disney",
+                    "partnerGroupId": "377143",
+                    "type": "disneyPlusStorefrontBrand"
+                },
+                {
+                    "name": "Walt Disney Studios (Live Action)",
+                    "partnerGroupId": "531035",
+                    "type": "disneyPlusFranchise"
+                },
+                {
+                    "name": "Disney",
+                    "partnerGroupId": "427641",
+                    "type": "disneyPlusStorefrontSubBrand"
+                }
+            ],
+            "internalTitle": "George of the Jungle - movie - e8167799-4953-47b9-81ab-92cb9b4e8f3e",
+            "labels": [
+                {
+                    "region": "TR",
+                    "value": "smoking_disclaimer"
+                }
+            ],
+            "videoArt": [],
+            "tags": [
+                {
+                    "displayName": null,
+                    "type": "disneyPlusOriginal",
+                    "value": "false"
+                },
+                {
+                    "displayName": null,
+                    "type": "titleEidr",
+                    "value": "BCF7-5CD2-086D-5685-4D41-O"
+                }
+            ],
+            "seriesId": null,
+            "seasonSequenceNumber": null,
+            "seasonId": null,
+            "runtimeMillis": 5596000,
+            "releases": [
+                {
+                    "releaseDate": "1997-07-15",
+                    "releaseType": "original",
+                    "releaseYear": 1997,
+                    "territory": null,
+                    "releaseOrg": null
+                }
+            ],
+            "ratings": [
+                {
+                    "advisories": [
+                        "V"
+                    ],
+                    "description": null,
+                    "system": "AI",
+                    "value": "7+",
+                    "impliedMaturityValue": 750
+                }
+            ],
+            "programType": "movie",
+            "programId": "c99c16d1-19e2-40b3-b8e8-7343c2228cf5",
+            "partnerVideoId": "1214-A9D6-AEE8-A1D8-7088-J",
+            "partnerSeriesId": null,
+            "partnerSeasonId": null,
+            "partnerProgramId": "md:cid:org:disney.com:radar:23178",
+            "partnerExclusions": [],
+            "partnerContentId": "1214-A9D6-AEE8-A1D8-7088-J",
+            "parentOf": "ZGlzbmV5b3JnOmRpc25leS5jb206cmFkYXI6MjMxNzg",
+            "originalLanguage": "en",
+            "meta": null,
+            "encodedSeriesId": "",
+            "encodedChildOf": "",
+            "encodedParentOf": "2emaVQ4AQ9Pd",
+            "currentAvailability": {
+                "appears": "",
+                "kidsMode": false,
+                "minPromotionalStartDate": "2022-06-11T21:00:00Z",
+                "region": "TR"
+            },
+            "mediaConfig": {
+                "productType": "VOD",
+                "state": "ON",
+                "type": "VIDEO"
+            },
+            "mediaFormat": "HD",
+            "mediaRights": {
+                "downloadBlocked": false,
+                "rewind": true,
+                "violations": []
+            },
+            "mediaId": "8f49abd7-e813-4c67-bbc0-5b6e56232dda",
+            "playbackUrls": [
+                {
+                    "href": "https://disney.playback.edge.bamgrid.com/media/8f49abd7-e813-4c67-bbc0-5b6e56232dda/scenarios/{scenario}",
+                    "params": [
+                        {
+                            "description": "Playback scenario",
+                            "name": "scenario"
+                        }
+                    ],
+                    "rel": "video",
+                    "templated": true
+                }
+            ],
+            "image": {
+                "background": {
+                    "1.33": {
+                        "video": {
+                            "default": {
+                                "masterId": "1B404CC5761CD0AC4E50B0C33E0D5F0946A67D17074D9285620B64AA46E07770",
+                                "masterHeight": 1080,
+                                "masterWidth": 1440,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/1B404CC5761CD0AC4E50B0C33E0D5F0946A67D17074D9285620B64AA46E07770"
+                            }
+                        }
+                    },
+                    "1.78": {
+                        "video": {
+                            "default": {
+                                "masterId": "05E7D348763D0E1D9D1BF4C7C8AC49F48C719BA90BA15E167EC8D513846AB206",
+                                "masterHeight": 1080,
+                                "masterWidth": 1920,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/05E7D348763D0E1D9D1BF4C7C8AC49F48C719BA90BA15E167EC8D513846AB206"
+                            }
+                        }
+                    }
+                },
+                "tile": {
+                    "0.71": {
+                        "video": {
+                            "default": {
+                                "masterId": "3F350CA8A0C82AF56D1E9A69E4A0002CFA8A2E6DA1FD74394010365F5130EC5D",
+                                "masterHeight": 2818,
+                                "masterWidth": 2000,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/3F350CA8A0C82AF56D1E9A69E4A0002CFA8A2E6DA1FD74394010365F5130EC5D"
+                            }
+                        }
+                    },
+                    "1.78": {
+                        "video": {
+                            "default": {
+                                "masterId": "04735F06D8B93CD3574852CC814B795BB5FA5DEBE0DD1B7A51079F73B058D20F",
+                                "masterHeight": 2160,
+                                "masterWidth": 3840,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/04735F06D8B93CD3574852CC814B795BB5FA5DEBE0DD1B7A51079F73B058D20F"
+                            }
+                        }
+                    },
+                    "1.0": {
+                        "video": {
+                            "default": {
+                                "masterId": "A08F88A7B1E3D23D53A6E3220A52AE564D2878DD149474794010D0A4123AF0DA",
+                                "masterHeight": 3000,
+                                "masterWidth": 3000,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/A08F88A7B1E3D23D53A6E3220A52AE564D2878DD149474794010D0A4123AF0DA"
+                            }
+                        }
+                    },
+                    "0.75": {
+                        "video": {
+                            "default": {
+                                "masterId": "9554C0F1ADD359A652B0C240C4A3534638711212F1F06AAC50D232E7E7888865",
+                                "masterHeight": 1440,
+                                "masterWidth": 1080,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/9554C0F1ADD359A652B0C240C4A3534638711212F1F06AAC50D232E7E7888865"
+                            }
+                        }
+                    },
+                    "1.33": {
+                        "video": {
+                            "default": {
+                                "masterId": "90FF743BFC3DAE4D0B4040199328098B4F6E7197DC465F4F7A162A2929695E41",
+                                "masterHeight": 1080,
+                                "masterWidth": 1440,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/90FF743BFC3DAE4D0B4040199328098B4F6E7197DC465F4F7A162A2929695E41"
+                            }
+                        }
+                    },
+                    "0.67": {
+                        "video": {
+                            "default": {
+                                "masterId": "0E4E6B0E9975AE057C83CB2093B742BF440A97ADAC5A9DDC228E0195B2C6DE71",
+                                "masterHeight": 3000,
+                                "masterWidth": 2000,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/0E4E6B0E9975AE057C83CB2093B742BF440A97ADAC5A9DDC228E0195B2C6DE71"
+                            }
+                        }
+                    }
+                }
+            },
+            "text": {
+                "title": {
+                    "full": {
+                        "program": {
+                            "default": {
+                                "content": "Orman Ka\u00e7k\u0131n\u0131",
+                                "sourceEntity": "program",
+                                "language": "tr"
+                            }
+                        }
+                    },
+                    "slug": {
+                        "program": {
+                            "default": {
+                                "content": "orman-kackn",
+                                "sourceEntity": "program",
+                                "language": "tr"
+                            }
+                        }
+                    }
+                }
+            },
+            "badging": null,
+            "seriesType": null,
+            "event": null,
+            "channel": null,
+            "type": "DmcVideo",
+            "region": "TR"
+        },
+        {
+            "mediaMetadata": {
+                "format": "UHD",
+                "mediaId": "4cf93a75-6683-4d21-a853-bcd866f5fa1e",
+                "phase": "active",
+                "playbackUrls": [
+                    {
+                        "href": "https://disney.playback.edge.bamgrid.com/media/4cf93a75-6683-4d21-a853-bcd866f5fa1e/scenarios/{scenario}",
+                        "params": [
+                            {
+                                "description": "Playback scenario",
+                                "name": "scenario"
+                            }
+                        ],
+                        "rel": "video",
+                        "templated": true
+                    }
+                ],
+                "productType": "VOD",
+                "runtimeMillis": 2682000,
+                "state": "ON",
+                "type": "VIDEO"
+            },
+            "contentType": "full",
+            "childOf": [],
+            "contentId": "e6723fcd-bd6d-4c44-818f-dab2c7339d6d",
+            "contentSource": "disney",
+            "distributionContext": "disney",
+            "episodeNumber": null,
+            "episodeSequenceNumber": null,
+            "episodeSeriesSequenceNumber": null,
+            "family": {
+                "familyId": "ZGlzbmV5b3JnOmRpc25leS5jb206cmFkYXI6Mzg2ODY0",
+                "encodedFamilyId": "5HUc4iuAVplq",
+                "parent": true,
+                "parentRef": {
+                    "programId": "ee11d175-d284-4297-ac66-3c68fb387086",
+                    "seasonId": null,
+                    "seriesId": null,
+                    "encodedProgramId": "3IOR23a73MP5",
+                    "encodedSeasonId": "",
+                    "encodedSeriesId": ""
+                },
+                "partnerFamilyId": "org:disney.com:radar:386864",
+                "encodedPartnerFamilyId": "5dgEf0gB65qO",
+                "sequenceNumber": null
+            },
+            "feedSubType": "",
+            "feedType": "primary",
+            "groupingId": null,
+            "groups": [
+                {
+                    "name": "Marvel",
+                    "partnerGroupId": "365225",
+                    "type": "disneyPlusStorefrontSubBrand"
+                },
+                {
+                    "name": "Guardians of the Galaxy",
+                    "partnerGroupId": "478411",
+                    "type": "disneyPlusFranchise"
+                },
+                {
+                    "name": "Marvel",
+                    "partnerGroupId": "377146",
+                    "type": "disneyPlusStorefrontBrand"
+                }
+            ],
+            "internalTitle": "A Marvel Studios Special Presentation: The Guardians of the Galaxy Holiday Special - movie - e6723fcd-bd6d-4c44-818f-dab2c7339d6d",
+            "labels": [
+                {
+                    "region": "TR",
+                    "value": "pse_disclaimer"
+                }
+            ],
+            "videoArt": [
+                {
+                    "mediaMetadata": {
+                        "urls": null
+                    },
+                    "purpose": "full_bleed"
+                }
+            ],
+            "tags": [
+                {
+                    "displayName": null,
+                    "type": "titleEidr",
+                    "value": "2E5B-9F6C-E05C-E30E-645D-G"
+                },
+                {
+                    "displayName": null,
+                    "type": "disneyPlusOriginal",
+                    "value": "true"
+                }
+            ],
+            "seriesId": null,
+            "seasonSequenceNumber": null,
+            "seasonId": null,
+            "runtimeMillis": 2682000,
+            "releases": [
+                {
+                    "releaseDate": "2022-11-25",
+                    "releaseType": "original",
+                    "releaseYear": 2022,
+                    "territory": null,
+                    "releaseOrg": null
+                }
+            ],
+            "ratings": [
+                {
+                    "advisories": [
+                        "V",
+                        "N"
+                    ],
+                    "description": null,
+                    "system": "AI",
+                    "value": "13+",
+                    "impliedMaturityValue": 1350
+                }
+            ],
+            "programType": "movie",
+            "programId": "ee11d175-d284-4297-ac66-3c68fb387086",
+            "partnerVideoId": "B93C-6A8F-87A0-FF99-72ED-G",
+            "partnerSeriesId": null,
+            "partnerSeasonId": null,
+            "partnerProgramId": "md:cid:org:disney.com:radar:386864",
+            "partnerExclusions": [],
+            "partnerContentId": "B93C-6A8F-87A0-FF99-72ED-G",
+            "parentOf": "ZGlzbmV5b3JnOmRpc25leS5jb206cmFkYXI6Mzg2ODY0",
+            "originalLanguage": "en",
+            "meta": null,
+            "encodedSeriesId": "",
+            "encodedChildOf": "",
+            "encodedParentOf": "5HUc4iuAVplq",
+            "currentAvailability": {
+                "appears": "",
+                "kidsMode": false,
+                "minPromotionalStartDate": "2022-11-25T08:00:00Z",
+                "region": "TR"
+            },
+            "mediaConfig": {
+                "productType": "VOD",
+                "state": "ON",
+                "type": "VIDEO"
+            },
+            "mediaFormat": "UHD",
+            "mediaRights": {
+                "downloadBlocked": false,
+                "rewind": true,
+                "violations": []
+            },
+            "mediaId": "4cf93a75-6683-4d21-a853-bcd866f5fa1e",
+            "playbackUrls": [
+                {
+                    "href": "https://disney.playback.edge.bamgrid.com/media/4cf93a75-6683-4d21-a853-bcd866f5fa1e/scenarios/{scenario}",
+                    "params": [
+                        {
+                            "description": "Playback scenario",
+                            "name": "scenario"
+                        }
+                    ],
+                    "rel": "video",
+                    "templated": true
+                }
+            ],
+            "image": {
+                "background": {
+                    "2.89": {
+                        "video": {
+                            "default": {
+                                "masterId": "FE860EC775611D01A6959005758A30334BFC893BFFB4579CFDEE17491A485B36",
+                                "masterHeight": 1330,
+                                "masterWidth": 3840,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/FE860EC775611D01A6959005758A30334BFC893BFFB4579CFDEE17491A485B36"
+                            }
+                        }
+                    }
+                },
+                "background_details": {
+                    "1.33": {
+                        "video": {
+                            "default": {
+                                "masterId": "C535C438068F8D7CDA2490C98F463782D9E15C487977EAE0910DB73F46A3852D",
+                                "masterHeight": 2160,
+                                "masterWidth": 2880,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/C535C438068F8D7CDA2490C98F463782D9E15C487977EAE0910DB73F46A3852D"
+                            }
+                        }
+                    },
+                    "1.78": {
+                        "video": {
+                            "default": {
+                                "masterId": "F35E3E28AB316FE6A36E0D23604BDBA468F886E39F861BBB4CBC54D5BF9EEAD9",
+                                "masterHeight": 2160,
+                                "masterWidth": 3840,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/F35E3E28AB316FE6A36E0D23604BDBA468F886E39F861BBB4CBC54D5BF9EEAD9"
+                            }
+                        }
+                    }
+                },
+                "tile": {
+                    "1.33": {
+                        "video": {
+                            "default": {
+                                "masterId": "D6795B0C60926D662B89B49055244ED523398422FBB221BFEBC499F29A796381",
+                                "masterHeight": 2160,
+                                "masterWidth": 2880,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/D6795B0C60926D662B89B49055244ED523398422FBB221BFEBC499F29A796381"
+                            }
+                        }
+                    },
+                    "1.78": {
+                        "video": {
+                            "default": {
+                                "masterId": "F27639B5820DED2B01CEEA50B4AECB1A4E8CDFF9253886845E6457A4F388328F",
+                                "masterHeight": 2160,
+                                "masterWidth": 3840,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/F27639B5820DED2B01CEEA50B4AECB1A4E8CDFF9253886845E6457A4F388328F"
+                            }
+                        }
+                    },
+                    "0.71": {
+                        "video": {
+                            "default": {
+                                "masterId": "61B687735E3095A6599D7700D46F1B6C4D6B3CD5B34809C9448215C7DBD061BF",
+                                "masterHeight": 2818,
+                                "masterWidth": 2000,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/61B687735E3095A6599D7700D46F1B6C4D6B3CD5B34809C9448215C7DBD061BF"
+                            }
+                        }
+                    },
+                    "2.29": {
+                        "video": {
+                            "default": {
+                                "masterId": "EFF041428239EFF1A3AB879785434417A182C177BF8E89D442E16CBB31A79C05",
+                                "masterHeight": 1680,
+                                "masterWidth": 3840,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/EFF041428239EFF1A3AB879785434417A182C177BF8E89D442E16CBB31A79C05"
+                            }
+                        }
+                    },
+                    "0.67": {
+                        "video": {
+                            "default": {
+                                "masterId": "5644F02A937A322213E78802C363B71B890D900872A7238A0621E0A9EEE803F7",
+                                "masterHeight": 3000,
+                                "masterWidth": 2000,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/5644F02A937A322213E78802C363B71B890D900872A7238A0621E0A9EEE803F7"
+                            }
+                        }
+                    },
+                    "0.75": {
+                        "video": {
+                            "default": {
+                                "masterId": "DFDF45F4F132CEE970621527F0C796576D9CAD92C4C654C5A49E39359AB45F9D",
+                                "masterHeight": 2880,
+                                "masterWidth": 2160,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/DFDF45F4F132CEE970621527F0C796576D9CAD92C4C654C5A49E39359AB45F9D"
+                            }
+                        }
+                    },
+                    "1.0": {
+                        "video": {
+                            "default": {
+                                "masterId": "437EB62C0514541214D7735AD197F43BCFBE5E41D54EEA9D2A7E9275683A510C",
+                                "masterHeight": 3000,
+                                "masterWidth": 3000,
+                                "url": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/437EB62C0514541214D7735AD197F43BCFBE5E41D54EEA9D2A7E9275683A510C"
+                            }
+                        }
+                    }
+                }
+            },
+            "text": {
+                "title": {
+                    "full": {
+                        "program": {
+                            "default": {
+                                "content": "A Marvel Studios Special Presentation: The Guardians of the Galaxy Holiday Special",
+                                "sourceEntity": "program",
+                                "language": "tr"
+                            }
+                        }
+                    },
+                    "slug": {
+                        "program": {
+                            "default": {
+                                "content": "a-marvel-studios-special-presentation-the-guardians-of-the-galaxy-holiday-special",
+                                "sourceEntity": "program",
+                                "language": "tr"
+                            }
+                        }
+                    }
+                }
+            },
+            "badging": "disneyplusoriginal",
+            "seriesType": null,
+            "event": null,
+            "channel": null,
+            "type": "DmcVideo",
+            "region": "TR"
+        }
+    ]
+}

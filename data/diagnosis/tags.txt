@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<!DOCTYPE Tags SYSTEM "matroskatags.dtd">
+<Tags><Tag>
+<Targets>
+<TargetType>50</TargetType>
+</Targets>  <Simple>
+   <Name>GENRES</Name>
+   <String>Science Fiction, Comedy, Animation</String>
+   <TagLanguage>en</TagLanguage>
+  </Simple>
+  <Simple>
+   <Name>DATE_RECORDED</Name>
+   <String>2022-08-10</String>
+   <TagLanguage>en</TagLanguage>
+  </Simple>
+  <Simple>
+   <Name>COMMENT</Name>
+   <String>"Galaksinin Koruyucuları"nda olanların devamının ele alındığı bu bölümde, Bebek Groot sonunda ilk adımlarını atmaya hazırdır, ancak koşabilmek için yürümeyi öğrenmesi gerektiğini anlar.</String>
+   <TagLanguage>tr</TagLanguage>
+  </Simple>
+  <Simple>
+   <Name>COPYRIGHT</Name>
+   <String>Disney+</String>
+   <TagLanguage>en</TagLanguage>
+  </Simple>
+  <Simple>
+   <Name>DISTRIBUTED_BY</Name>
+   <String>QUT</String>
+   <TagLanguage>en</TagLanguage>
+  </Simple>
+ </Tag>
+</Tags>

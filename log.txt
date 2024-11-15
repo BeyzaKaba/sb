@@ -1,0 +1,559 @@
+2024-11-14 16:19:37,486 - pyrogram.session.auth - INFO - Start creating a new auth key on DC2
+2024-11-14 16:19:37,487 - pyrogram.connection.connection - INFO - Connecting...
+2024-11-14 16:19:37,549 - pyrogram.connection.connection - INFO - Connected! Production DC2 - IPv4
+2024-11-14 16:19:39,333 - pyrogram.session.auth - INFO - Done auth key exchange: DhGenOk
+2024-11-14 16:19:39,334 - pyrogram.connection.connection - INFO - Disconnected
+2024-11-14 16:19:39,367 - pyrogram.connection.connection - INFO - Connecting...
+2024-11-14 16:19:39,430 - pyrogram.connection.connection - INFO - Connected! Production DC2 - IPv4
+2024-11-14 16:19:39,431 - pyrogram.session.session - INFO - NetworkTask started
+2024-11-14 16:19:39,820 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2024-11-14 16:19:39,833 - pyrogram.session.session - INFO - Device: CPython 3.10.10 - Pyrogram 2.0.106
+2024-11-14 16:19:39,834 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2024-11-14 16:19:39,835 - pyrogram.session.session - INFO - Session started
+2024-11-14 16:19:39,838 - pyrogram.session.session - INFO - PingTask started
+2024-11-14 16:19:40,121 - pyrogram.session.session - INFO - PingTask stopped
+2024-11-14 16:19:40,122 - pyrogram.connection.connection - INFO - Disconnected
+2024-11-14 16:19:40,122 - pyrogram.session.session - INFO - NetworkTask stopped
+2024-11-14 16:19:40,123 - pyrogram.session.session - INFO - Session stopped
+2024-11-14 16:19:40,154 - pyrogram.session.auth - INFO - Start creating a new auth key on DC4
+2024-11-14 16:19:40,155 - pyrogram.connection.connection - INFO - Connecting...
+2024-11-14 16:19:40,219 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2024-11-14 16:19:42,093 - pyrogram.session.auth - INFO - Done auth key exchange: DhGenOk
+2024-11-14 16:19:42,095 - pyrogram.connection.connection - INFO - Disconnected
+2024-11-14 16:19:42,129 - pyrogram.connection.connection - INFO - Connecting...
+2024-11-14 16:19:42,193 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2024-11-14 16:19:42,193 - pyrogram.session.session - INFO - NetworkTask started
+2024-11-14 16:19:42,577 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2024-11-14 16:19:42,578 - pyrogram.session.session - INFO - Device: CPython 3.10.10 - Pyrogram 2.0.106
+2024-11-14 16:19:42,578 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2024-11-14 16:19:42,578 - pyrogram.session.session - INFO - Session started
+2024-11-14 16:19:42,580 - pyrogram.session.session - INFO - PingTask started
+2024-11-14 16:19:44,738 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("giris") in group 0 from "func.blumpd"
+2024-11-14 16:50:35,975 - pyrogram.connection.connection - INFO - Connecting...
+2024-11-14 16:50:36,068 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2024-11-14 16:50:36,068 - pyrogram.session.session - INFO - NetworkTask started
+2024-11-14 16:50:36,600 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2024-11-14 16:50:36,602 - pyrogram.session.session - INFO - Device: CPython 3.10.10 - Pyrogram 2.0.106
+2024-11-14 16:50:36,603 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2024-11-14 16:50:36,603 - pyrogram.session.session - INFO - Session started
+2024-11-14 16:50:36,610 - pyrogram.session.session - INFO - PingTask started
+2024-11-14 16:51:05,204 - pyrogram.connection.connection - INFO - Connecting...
+2024-11-14 16:51:05,296 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2024-11-14 16:51:05,297 - pyrogram.session.session - INFO - NetworkTask started
+2024-11-14 16:51:05,843 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2024-11-14 16:51:05,844 - pyrogram.session.session - INFO - Device: CPython 3.10.10 - Pyrogram 2.0.106
+2024-11-14 16:51:05,844 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2024-11-14 16:51:05,844 - pyrogram.session.session - INFO - Session started
+2024-11-14 16:51:05,849 - pyrogram.session.session - INFO - PingTask started
+2024-11-14 16:51:06,856 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("giris") in group 0 from "func.blumpd"
+2024-11-14 16:51:07,671 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("log_handler") in group 0 from "func.komutparser"
+2024-11-14 16:51:07,672 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("dl") in group 0 from "func.komutparser"
+2024-11-14 16:51:07,694 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("pinatasil") in group 0 from "func.pinata"
+2024-11-14 16:51:07,886 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("restart") in group 0 from "func.restart"
+2024-11-14 16:51:08,394 - __main__ - INFO - Tüm Platformlar with for Pyrogram v2.0.106 (Layer 158) started on tumunuindirbot. Premium False.
+2024-11-14 17:06:49,663 - pyrogram.session.auth - INFO - Start creating a new auth key on DC2
+2024-11-14 17:06:49,664 - pyrogram.connection.connection - INFO - Connecting...
+2024-11-14 17:06:49,733 - pyrogram.connection.connection - INFO - Connected! Production DC2 - IPv4
+2024-11-14 17:06:52,178 - pyrogram.session.auth - INFO - Done auth key exchange: DhGenOk
+2024-11-14 17:06:52,178 - pyrogram.connection.connection - INFO - Disconnected
+2024-11-14 17:06:52,215 - pyrogram.connection.connection - INFO - Connecting...
+2024-11-14 17:06:52,316 - pyrogram.connection.connection - INFO - Connected! Production DC2 - IPv4
+2024-11-14 17:06:52,318 - pyrogram.session.session - INFO - NetworkTask started
+2024-11-14 17:06:53,169 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2024-11-14 17:06:53,169 - pyrogram.session.session - INFO - Device: CPython 3.10.10 - Pyrogram 2.0.106
+2024-11-14 17:06:53,169 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2024-11-14 17:06:53,169 - pyrogram.session.session - INFO - Session started
+2024-11-14 17:06:53,170 - pyrogram.session.session - INFO - PingTask started
+2024-11-14 17:06:53,321 - pyrogram.session.session - INFO - PingTask stopped
+2024-11-14 17:06:53,322 - pyrogram.connection.connection - INFO - Disconnected
+2024-11-14 17:06:53,323 - pyrogram.session.session - INFO - NetworkTask stopped
+2024-11-14 17:06:53,323 - pyrogram.session.session - INFO - Session stopped
+2024-11-14 17:06:53,360 - pyrogram.session.auth - INFO - Start creating a new auth key on DC4
+2024-11-14 17:06:53,361 - pyrogram.connection.connection - INFO - Connecting...
+2024-11-14 17:06:53,429 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2024-11-14 17:06:54,838 - pyrogram.session.auth - INFO - Done auth key exchange: DhGenOk
+2024-11-14 17:06:54,839 - pyrogram.connection.connection - INFO - Disconnected
+2024-11-14 17:06:54,872 - pyrogram.connection.connection - INFO - Connecting...
+2024-11-14 17:06:54,944 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2024-11-14 17:06:54,945 - pyrogram.session.session - INFO - NetworkTask started
+2024-11-14 17:06:55,297 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2024-11-14 17:06:55,297 - pyrogram.session.session - INFO - Device: CPython 3.10.10 - Pyrogram 2.0.106
+2024-11-14 17:06:55,298 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2024-11-14 17:06:55,298 - pyrogram.session.session - INFO - Session started
+2024-11-14 17:06:55,299 - pyrogram.session.session - INFO - PingTask started
+2024-11-14 17:06:56,595 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("giris") in group 0 from "func.blumpd"
+2024-11-14 17:06:56,710 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("log_handler") in group 0 from "func.komutparser"
+2024-11-14 17:06:56,712 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("dl") in group 0 from "func.komutparser"
+2024-11-14 17:06:56,715 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("pinatasil") in group 0 from "func.pinata"
+2024-11-14 17:06:56,778 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("restart") in group 0 from "func.restart"
+2024-11-14 17:06:57,029 - __main__ - INFO - Tüm Platformlar with for Pyrogram v2.0.106 (Layer 158) started on tumunuindirbot. Premium False.
+2024-11-14 17:10:36,868 - pyrogram.session.session - WARNING - Server sent transport error: 429 (transport flood)
+2024-11-14 17:14:32,422 - pyrogram.session.auth - INFO - Start creating a new auth key on DC2
+2024-11-14 17:14:32,423 - pyrogram.connection.connection - INFO - Connecting...
+2024-11-14 17:14:32,492 - pyrogram.connection.connection - INFO - Connected! Production DC2 - IPv4
+2024-11-14 17:14:33,968 - pyrogram.session.auth - INFO - Done auth key exchange: DhGenOk
+2024-11-14 17:14:33,968 - pyrogram.connection.connection - INFO - Disconnected
+2024-11-14 17:14:33,995 - pyrogram.connection.connection - INFO - Connecting...
+2024-11-14 17:14:34,061 - pyrogram.connection.connection - INFO - Connected! Production DC2 - IPv4
+2024-11-14 17:14:34,061 - pyrogram.session.session - INFO - NetworkTask started
+2024-11-14 17:14:34,456 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2024-11-14 17:14:34,457 - pyrogram.session.session - INFO - Device: CPython 3.10.10 - Pyrogram 2.0.106
+2024-11-14 17:14:34,457 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2024-11-14 17:14:34,458 - pyrogram.session.session - INFO - Session started
+2024-11-14 17:14:34,460 - pyrogram.session.session - INFO - PingTask started
+2024-11-14 17:14:34,628 - pyrogram.session.session - INFO - PingTask stopped
+2024-11-14 17:14:34,629 - pyrogram.connection.connection - INFO - Disconnected
+2024-11-14 17:14:34,630 - pyrogram.session.session - INFO - NetworkTask stopped
+2024-11-14 17:14:34,630 - pyrogram.session.session - INFO - Session stopped
+2024-11-14 17:14:34,642 - pyrogram.session.auth - INFO - Start creating a new auth key on DC4
+2024-11-14 17:14:34,642 - pyrogram.connection.connection - INFO - Connecting...
+2024-11-14 17:14:34,705 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2024-11-14 17:14:36,246 - pyrogram.session.auth - INFO - Done auth key exchange: DhGenOk
+2024-11-14 17:14:36,247 - pyrogram.connection.connection - INFO - Disconnected
+2024-11-14 17:14:36,253 - pyrogram.connection.connection - INFO - Connecting...
+2024-11-14 17:14:36,341 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2024-11-14 17:14:36,342 - pyrogram.session.session - INFO - NetworkTask started
+2024-11-14 17:14:37,069 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2024-11-14 17:14:37,070 - pyrogram.session.session - INFO - Device: CPython 3.10.10 - Pyrogram 2.0.106
+2024-11-14 17:14:37,070 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2024-11-14 17:14:37,070 - pyrogram.session.session - INFO - Session started
+2024-11-14 17:14:37,070 - pyrogram.session.session - INFO - PingTask started
+2024-11-14 17:14:39,066 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("giris") in group 0 from "func.blumpd"
+2024-11-14 17:14:39,303 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("log_handler") in group 0 from "func.komutparser"
+2024-11-14 17:14:39,303 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("dl") in group 0 from "func.komutparser"
+2024-11-14 17:14:39,307 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("pinatasil") in group 0 from "func.pinata"
+2024-11-14 17:14:39,413 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("restart") in group 0 from "func.restart"
+2024-11-14 17:14:39,724 - __main__ - INFO - Tüm Platformlar with for Pyrogram v2.0.106 (Layer 158) started on tumunuindirbot. Premium False.
+2024-11-14 17:17:34,375 - pyrogram.session.auth - INFO - Start creating a new auth key on DC2
+2024-11-14 17:17:34,375 - pyrogram.connection.connection - INFO - Connecting...
+2024-11-14 17:17:34,469 - pyrogram.connection.connection - INFO - Connected! Production DC2 - IPv4
+2024-11-14 17:17:36,775 - pyrogram.session.auth - INFO - Done auth key exchange: DhGenOk
+2024-11-14 17:17:36,776 - pyrogram.connection.connection - INFO - Disconnected
+2024-11-14 17:17:36,807 - pyrogram.connection.connection - INFO - Connecting...
+2024-11-14 17:17:36,889 - pyrogram.connection.connection - INFO - Connected! Production DC2 - IPv4
+2024-11-14 17:17:36,891 - pyrogram.session.session - INFO - NetworkTask started
+2024-11-14 17:17:37,342 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2024-11-14 17:17:37,343 - pyrogram.session.session - INFO - Device: CPython 3.10.10 - Pyrogram 2.0.106
+2024-11-14 17:17:37,343 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2024-11-14 17:17:37,343 - pyrogram.session.session - INFO - Session started
+2024-11-14 17:17:37,346 - pyrogram.session.session - INFO - PingTask started
+2024-11-14 17:17:37,445 - pyrogram.session.session - INFO - PingTask stopped
+2024-11-14 17:17:37,446 - pyrogram.connection.connection - INFO - Disconnected
+2024-11-14 17:17:37,446 - pyrogram.session.session - INFO - NetworkTask stopped
+2024-11-14 17:17:37,447 - pyrogram.session.session - INFO - Session stopped
+2024-11-14 17:17:37,484 - pyrogram.session.auth - INFO - Start creating a new auth key on DC4
+2024-11-14 17:17:37,485 - pyrogram.connection.connection - INFO - Connecting...
+2024-11-14 17:17:37,554 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2024-11-14 17:17:39,437 - pyrogram.session.auth - INFO - Done auth key exchange: DhGenOk
+2024-11-14 17:17:39,438 - pyrogram.connection.connection - INFO - Disconnected
+2024-11-14 17:17:39,469 - pyrogram.connection.connection - INFO - Connecting...
+2024-11-14 17:17:39,568 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2024-11-14 17:17:39,569 - pyrogram.session.session - INFO - NetworkTask started
+2024-11-14 17:17:40,065 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2024-11-14 17:17:40,065 - pyrogram.session.session - INFO - Device: CPython 3.10.10 - Pyrogram 2.0.106
+2024-11-14 17:17:40,065 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2024-11-14 17:17:40,067 - pyrogram.session.session - INFO - Session started
+2024-11-14 17:17:40,068 - pyrogram.session.session - INFO - PingTask started
+2024-11-14 17:17:41,346 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("giris") in group 0 from "func.blumpd"
+2024-11-14 17:17:41,451 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("log_handler") in group 0 from "func.komutparser"
+2024-11-14 17:17:41,452 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("dl") in group 0 from "func.komutparser"
+2024-11-14 17:17:41,454 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("pinatasil") in group 0 from "func.pinata"
+2024-11-14 17:17:41,470 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("restart") in group 0 from "func.restart"
+2024-11-14 17:17:41,802 - __main__ - INFO - Tüm Platformlar with for Pyrogram v2.0.106 (Layer 158) started on tumunuindirbot. Premium False.
+2024-11-14 17:22:36,086 - pyrogram.connection.connection - INFO - Connecting...
+2024-11-14 17:22:36,151 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2024-11-14 17:22:36,153 - pyrogram.session.session - INFO - NetworkTask started
+2024-11-14 17:22:36,472 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2024-11-14 17:22:36,473 - pyrogram.session.session - INFO - Device: CPython 3.10.10 - Pyrogram 2.0.106
+2024-11-14 17:22:36,473 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2024-11-14 17:22:36,473 - pyrogram.session.session - INFO - Session started
+2024-11-14 17:22:36,479 - pyrogram.session.session - INFO - PingTask started
+2024-11-14 17:22:37,346 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("giris") in group 0 from "func.blumpd"
+2024-11-14 17:22:37,441 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("log_handler") in group 0 from "func.komutparser"
+2024-11-14 17:22:37,441 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("dl") in group 0 from "func.komutparser"
+2024-11-14 17:22:37,442 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("pinatasil") in group 0 from "func.pinata"
+2024-11-14 17:22:37,464 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("restart") in group 0 from "func.restart"
+2024-11-14 17:22:37,780 - __main__ - INFO - Tüm Platformlar with for Pyrogram v2.0.106 (Layer 158) started on tumunuindirbot. Premium False.
+2024-11-14 17:31:08,181 - asyncio - WARNING - socket.send() raised exception.
+2024-11-14 17:31:08,181 - asyncio - WARNING - socket.send() raised exception.
+2024-11-14 17:31:08,182 - asyncio - WARNING - socket.send() raised exception.
+2024-11-14 17:31:40,917 - asyncio - WARNING - socket.send() raised exception.
+2024-11-14 17:31:40,918 - asyncio - WARNING - socket.send() raised exception.
+2024-11-14 17:31:40,920 - asyncio - WARNING - socket.send() raised exception.
+2024-11-14 17:31:40,921 - asyncio - WARNING - socket.send() raised exception.
+2024-11-15 17:33:21,713 - pyrogram.session.auth - INFO - Start creating a new auth key on DC2
+2024-11-15 17:33:21,713 - pyrogram.connection.connection - INFO - Connecting...
+2024-11-15 17:33:22,806 - pyrogram.connection.connection - INFO - Connected! Production DC2 - IPv4
+2024-11-15 17:33:25,002 - pyrogram.session.auth - INFO - Done auth key exchange: DhGenOk
+2024-11-15 17:33:25,013 - pyrogram.connection.connection - INFO - Disconnected
+2024-11-15 17:33:25,032 - pyrogram.connection.connection - INFO - Connecting...
+2024-11-15 17:33:25,121 - pyrogram.connection.connection - INFO - Connected! Production DC2 - IPv4
+2024-11-15 17:33:25,123 - pyrogram.session.session - INFO - NetworkTask started
+2024-11-15 17:33:25,482 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2024-11-15 17:33:25,484 - pyrogram.session.session - INFO - Device: CPython 3.10.10 - Pyrogram 2.0.106
+2024-11-15 17:33:25,485 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2024-11-15 17:33:25,485 - pyrogram.session.session - INFO - Session started
+2024-11-15 17:33:25,487 - pyrogram.session.session - INFO - PingTask started
+2024-11-15 17:33:25,584 - pyrogram.session.session - INFO - PingTask stopped
+2024-11-15 17:33:25,585 - pyrogram.connection.connection - INFO - Disconnected
+2024-11-15 17:33:25,586 - pyrogram.session.session - INFO - NetworkTask stopped
+2024-11-15 17:33:25,586 - pyrogram.session.session - INFO - Session stopped
+2024-11-15 17:33:25,610 - pyrogram.session.auth - INFO - Start creating a new auth key on DC4
+2024-11-15 17:33:25,610 - pyrogram.connection.connection - INFO - Connecting...
+2024-11-15 17:33:25,716 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2024-11-15 17:33:27,919 - pyrogram.session.auth - INFO - Done auth key exchange: DhGenOk
+2024-11-15 17:33:27,919 - pyrogram.connection.connection - INFO - Disconnected
+2024-11-15 17:33:27,925 - pyrogram.connection.connection - INFO - Connecting...
+2024-11-15 17:33:28,016 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2024-11-15 17:33:28,016 - pyrogram.session.session - INFO - NetworkTask started
+2024-11-15 17:33:28,513 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2024-11-15 17:33:28,513 - pyrogram.session.session - INFO - Device: CPython 3.10.10 - Pyrogram 2.0.106
+2024-11-15 17:33:28,513 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2024-11-15 17:33:28,513 - pyrogram.session.session - INFO - Session started
+2024-11-15 17:33:28,514 - pyrogram.session.session - INFO - PingTask started
+2024-11-15 17:33:30,055 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("giris") in group 0 from "func.blumpd"
+2024-11-15 17:33:30,204 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("log_handler") in group 0 from "func.komutparser"
+2024-11-15 17:33:30,204 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("dl") in group 0 from "func.komutparser"
+2024-11-15 17:33:30,207 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("pinatasil") in group 0 from "func.pinata"
+2024-11-15 17:33:30,241 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("restart") in group 0 from "func.restart"
+2024-11-15 17:33:30,657 - __main__ - INFO - Tüm Platformlar with for Pyrogram v2.0.106 (Layer 158) started on tumunuindirbot. Premium False.
+2024-11-15 17:34:02,603 - func.platforms.disneyplus - INFO - 11
+2024-11-15 17:34:03,669 - func.platforms.disneyplus - INFO - {'badging': 'disneyplusoriginal', 'callToAction': None, 'contentId': 'e28fb81e-4d5b-40d4-8e50-a95f20547920', 'currentAvailability': {'region': 'TR', 'kidsMode': None}, 'encodedSeriesId': '3FfVmffm1ijj', 'family': {'encodedFamilyId': '1O4DKgbGGLlr', 'familyId': 'ZGlzbmV5b3JnOmRpc25leS5jb206cmFkYXI6MzY2NjY0', 'parent': True, 'parentRef': None, 'sequenceNumber': None}, 'image': {'tile': {'1.33': {'series': {'default': {'masterId': '45C5073572D533ED0165E152821528B5B8A0EC4E85CCC4FBC3FBD680C0C05821', 'masterWidth': 2880, 'masterHeight': 2160, 'url': 'https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/45C5073572D533ED0165E152821528B5B8A0EC4E85CCC4FBC3FBD680C0C05821'}}}, '0.71': {'series': {'default': {'masterId': '471DAF7F17EF23F20C0D267CF2AB775D2CA645DA9718406A3B2DC6B8564D0AC8', 'masterWidth': 2000, 'masterHeight': 2818, 'url': 'https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/471DAF7F17EF23F20C0D267CF2AB775D2CA645DA9718406A3B2DC6B8564D0AC8'}}}, '1.78': {'series': {'default': {'masterId': 'F5845A95BEAA5153FA1A1D77D39A4B261F9440B06424B7217AFAA33BB999AAA9', 'masterWidth': 3840, 'masterHeight': 2160, 'url': 'https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/F5845A95BEAA5153FA1A1D77D39A4B261F9440B06424B7217AFAA33BB999AAA9'}}}}, 'title_treatment': {'1.78': {'series': {'default': {'masterId': '8749A7EC131173CF0C24103768BAD4DDE40FE74789723045AF9D6D651A5CFF61', 'masterWidth': 1920, 'masterHeight': 1080, 'url': 'https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/8749A7EC131173CF0C24103768BAD4DDE40FE74789723045AF9D6D651A5CFF61'}}}}, 'background_details': {'1.78': {'series': {'default': {'masterId': '06D6ABC402F523B8EC801AF13EA23D0573DD237E2F9DA0ED6951D41F146CCD49', 'masterWidth': 3840, 'masterHeight': 2160, 'url': 'https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/06D6ABC402F523B8EC801AF13EA23D0573DD237E2F9DA0ED6951D41F146CCD49'}}}, '1.33': {'series': {'default': {'masterId': '5D8E6AF1820CCC3F7DBE968115866927D2D3B43E0AE41FA9596C41016BC82A05', 'masterWidth': 2880, 'masterHeight': 2160, 'url': 'https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/5D8E6AF1820CCC3F7DBE968115866927D2D3B43E0AE41FA9596C41016BC82A05'}}}}, 'background_up_next': {'1.78': {'series': {'default': {'masterId': '697A28AED5D743C018BFB122A62F3A318D61779F6887DDEF6F0EEA87F523C90A', 'masterWidth': 3840, 'masterHeight': 2160, 'url': 'https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/697A28AED5D743C018BFB122A62F3A318D61779F6887DDEF6F0EEA87F523C90A'}}}}}, 'labels': [], 'mediaMetadata': {'facets': [{'label': 'default'}]}, 'mediaRights': {'downloadBlocked': False, 'pconBlocked': False}, 'participant': {}, 'seasonsMaxYear': 2023, 'seasonsMinYear': 2022, 'seriesId': 'e28fb81e-4d5b-40d4-8e50-a95f20547920', 'seriesType': 'standard', 'text': {'title': {'full': {'series': {'default': {'content': 'I am Groot', 'language': 'tr', 'sourceEntity': 'series'}}}, 'slug': {'series': {'default': {'content': 'i-am-groot', 'language': 'tr', 'sourceEntity': 'series'}}}, 'brief': {'series': {'default': {'content': 'I am Groot', 'language': 'tr', 'sourceEntity': 'series'}}}}, 'description': {'medium': {'series': {'default': {'content': 'Sorun çýkaran aðaç dalý, "I Am Groot"un ikinci sezonunda yaramazlýk yapmak için dönüyor. Bebek Groot bu sefer Koruyucular\'ýn uzay gemilerinde kainatý ve daha ötesini keþfeder, yeni ve renkli mekânlarla ve yaratýklarla yüz yüze ya da burun buruna gelir.', 'language': 'tr', 'sourceEntity': 'series'}}}, 'brief': {'series': {'default': {'content': "Sorun çýkaran aðaç dalý, Koruyucular'ýn uzay gemilerinde kainatý ve ötesini keþfeder.", 'language': 'tr', 'sourceEntity': 'series'}}}, 'full': {'series': {'default': {'content': 'Sorun çýkaran aðaç dalý, "I Am Groot"un ikinci sezonunda yaramazlýk yapmak için geri dönüyor. Bebek Groot bu sefer Koruyucular\'ýn uzay gemilerinde kainatý ve daha ötesini keþfeder, yeni ve renkli mekânlarla ve yaratýklarla yüz yüze ya da burun buruna gelir. Kirsten Lepore\'nin yazýp yönettiði yepyeni beþ kýsa bölümlük dizide, Groot\'u seslendiren Vin Diesel galaksiye geri dönüyor.', 'language': 'tr', 'sourceEntity': 'series'}}}}}, 'type': 'DmcSeries', 'typedGenres': [{'type': 'BOLT', 'name': 'Science Fiction', 'partnerId': '300067'}, {'type': 'BOLT', 'name': 'Comedy', 'partnerId': '300054'}, {'type': 'BOLT', 'name': 'Animation', 'partnerId': '300001'}], 'ratings': [{'advisories': ['V'], 'description': None, 'filingNumber': None, 'system': 'AI', 'value': '7+'}], 'releases': [{'releaseDate': '2022-08-10', 'releaseOrg': None, 'releaseType': 'original', 'releaseYear': 2022, 'territory': None}], 'tags': [{'displayName': None, 'type': 'disneyPlusOriginal', 'value': 'true'}], 'videoArt': [{'mediaMetadata': {'urls': [{'url': 'https://vod-bgc-eu-west-1.media.dssott.com/bgui/ps01/disney/bgui/2023/07/27/1690473034-366664.mp4'}]}, 'purpose': 'full_bleed'}]}
+2024-11-15 17:35:34,433 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1231] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:35:34,449 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1231] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:35:35,845 - asyncio - WARNING - socket.send() raised exception.
+2024-11-15 17:35:35,846 - asyncio - WARNING - socket.send() raised exception.
+2024-11-15 17:35:35,846 - asyncio - WARNING - socket.send() raised exception.
+2024-11-15 17:35:35,847 - asyncio - WARNING - socket.send() raised exception.
+2024-11-15 17:35:35,847 - asyncio - WARNING - socket.send() raised exception.
+2024-11-15 17:35:35,848 - asyncio - WARNING - socket.send() raised exception.
+2024-11-15 17:35:35,848 - asyncio - WARNING - socket.send() raised exception.
+2024-11-15 17:35:35,849 - asyncio - WARNING - socket.send() raised exception.
+2024-11-15 17:35:35,872 - asyncio - WARNING - socket.send() raised exception.
+2024-11-15 17:35:35,872 - asyncio - WARNING - socket.send() raised exception.
+2024-11-15 17:35:35,872 - asyncio - WARNING - socket.send() raised exception.
+2024-11-15 17:35:35,873 - asyncio - WARNING - socket.send() raised exception.
+2024-11-15 17:35:35,873 - asyncio - WARNING - socket.send() raised exception.
+2024-11-15 17:35:35,873 - asyncio - WARNING - socket.send() raised exception.
+2024-11-15 17:35:35,873 - asyncio - WARNING - socket.send() raised exception.
+2024-11-15 17:35:35,873 - asyncio - WARNING - socket.send() raised exception.
+2024-11-15 17:35:35,874 - asyncio - WARNING - socket.send() raised exception.
+2024-11-15 17:35:35,874 - asyncio - WARNING - socket.send() raised exception.
+2024-11-15 17:35:35,874 - asyncio - WARNING - socket.send() raised exception.
+2024-11-15 17:35:35,874 - asyncio - WARNING - socket.send() raised exception.
+2024-11-15 17:35:35,874 - asyncio - WARNING - socket.send() raised exception.
+2024-11-15 17:35:35,875 - asyncio - WARNING - socket.send() raised exception.
+2024-11-15 17:35:35,875 - asyncio - WARNING - socket.send() raised exception.
+2024-11-15 17:35:35,875 - asyncio - WARNING - socket.send() raised exception.
+2024-11-15 17:35:36,187 - asyncio - WARNING - socket.send() raised exception.
+2024-11-15 17:35:36,189 - asyncio - WARNING - socket.send() raised exception.
+2024-11-15 17:35:36,190 - asyncio - WARNING - socket.send() raised exception.
+2024-11-15 17:35:36,191 - asyncio - WARNING - socket.send() raised exception.
+2024-11-15 17:35:36,191 - asyncio - WARNING - socket.send() raised exception.
+2024-11-15 17:35:36,192 - asyncio - WARNING - socket.send() raised exception.
+2024-11-15 17:35:36,192 - asyncio - WARNING - socket.send() raised exception.
+2024-11-15 17:36:04,258 - func.platforms.disneyplus - INFO - 11
+2024-11-15 17:36:05,361 - func.platforms.disneyplus - INFO - {'badging': 'disneyplusoriginal', 'callToAction': None, 'contentId': 'e28fb81e-4d5b-40d4-8e50-a95f20547920', 'currentAvailability': {'region': 'TR', 'kidsMode': None}, 'encodedSeriesId': '3FfVmffm1ijj', 'family': {'encodedFamilyId': '1O4DKgbGGLlr', 'familyId': 'ZGlzbmV5b3JnOmRpc25leS5jb206cmFkYXI6MzY2NjY0', 'parent': True, 'parentRef': None, 'sequenceNumber': None}, 'image': {'tile': {'1.33': {'series': {'default': {'masterId': '45C5073572D533ED0165E152821528B5B8A0EC4E85CCC4FBC3FBD680C0C05821', 'masterWidth': 2880, 'masterHeight': 2160, 'url': 'https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/45C5073572D533ED0165E152821528B5B8A0EC4E85CCC4FBC3FBD680C0C05821'}}}, '0.71': {'series': {'default': {'masterId': '471DAF7F17EF23F20C0D267CF2AB775D2CA645DA9718406A3B2DC6B8564D0AC8', 'masterWidth': 2000, 'masterHeight': 2818, 'url': 'https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/471DAF7F17EF23F20C0D267CF2AB775D2CA645DA9718406A3B2DC6B8564D0AC8'}}}, '1.78': {'series': {'default': {'masterId': 'F5845A95BEAA5153FA1A1D77D39A4B261F9440B06424B7217AFAA33BB999AAA9', 'masterWidth': 3840, 'masterHeight': 2160, 'url': 'https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/F5845A95BEAA5153FA1A1D77D39A4B261F9440B06424B7217AFAA33BB999AAA9'}}}}, 'title_treatment': {'1.78': {'series': {'default': {'masterId': '8749A7EC131173CF0C24103768BAD4DDE40FE74789723045AF9D6D651A5CFF61', 'masterWidth': 1920, 'masterHeight': 1080, 'url': 'https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/8749A7EC131173CF0C24103768BAD4DDE40FE74789723045AF9D6D651A5CFF61'}}}}, 'background_details': {'1.78': {'series': {'default': {'masterId': '06D6ABC402F523B8EC801AF13EA23D0573DD237E2F9DA0ED6951D41F146CCD49', 'masterWidth': 3840, 'masterHeight': 2160, 'url': 'https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/06D6ABC402F523B8EC801AF13EA23D0573DD237E2F9DA0ED6951D41F146CCD49'}}}, '1.33': {'series': {'default': {'masterId': '5D8E6AF1820CCC3F7DBE968115866927D2D3B43E0AE41FA9596C41016BC82A05', 'masterWidth': 2880, 'masterHeight': 2160, 'url': 'https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/5D8E6AF1820CCC3F7DBE968115866927D2D3B43E0AE41FA9596C41016BC82A05'}}}}, 'background_up_next': {'1.78': {'series': {'default': {'masterId': '697A28AED5D743C018BFB122A62F3A318D61779F6887DDEF6F0EEA87F523C90A', 'masterWidth': 3840, 'masterHeight': 2160, 'url': 'https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/697A28AED5D743C018BFB122A62F3A318D61779F6887DDEF6F0EEA87F523C90A'}}}}}, 'labels': [], 'mediaMetadata': {'facets': [{'label': 'default'}]}, 'mediaRights': {'downloadBlocked': False, 'pconBlocked': False}, 'participant': {}, 'seasonsMaxYear': 2023, 'seasonsMinYear': 2022, 'seriesId': 'e28fb81e-4d5b-40d4-8e50-a95f20547920', 'seriesType': 'standard', 'text': {'title': {'full': {'series': {'default': {'content': 'I am Groot', 'language': 'tr', 'sourceEntity': 'series'}}}, 'slug': {'series': {'default': {'content': 'i-am-groot', 'language': 'tr', 'sourceEntity': 'series'}}}, 'brief': {'series': {'default': {'content': 'I am Groot', 'language': 'tr', 'sourceEntity': 'series'}}}}, 'description': {'medium': {'series': {'default': {'content': 'Sorun çýkaran aðaç dalý, "I Am Groot"un ikinci sezonunda yaramazlýk yapmak için dönüyor. Bebek Groot bu sefer Koruyucular\'ýn uzay gemilerinde kainatý ve daha ötesini keþfeder, yeni ve renkli mekânlarla ve yaratýklarla yüz yüze ya da burun buruna gelir.', 'language': 'tr', 'sourceEntity': 'series'}}}, 'brief': {'series': {'default': {'content': "Sorun çýkaran aðaç dalý, Koruyucular'ýn uzay gemilerinde kainatý ve ötesini keþfeder.", 'language': 'tr', 'sourceEntity': 'series'}}}, 'full': {'series': {'default': {'content': 'Sorun çýkaran aðaç dalý, "I Am Groot"un ikinci sezonunda yaramazlýk yapmak için geri dönüyor. Bebek Groot bu sefer Koruyucular\'ýn uzay gemilerinde kainatý ve daha ötesini keþfeder, yeni ve renkli mekânlarla ve yaratýklarla yüz yüze ya da burun buruna gelir. Kirsten Lepore\'nin yazýp yönettiði yepyeni beþ kýsa bölümlük dizide, Groot\'u seslendiren Vin Diesel galaksiye geri dönüyor.', 'language': 'tr', 'sourceEntity': 'series'}}}}}, 'type': 'DmcSeries', 'typedGenres': [{'type': 'BOLT', 'name': 'Science Fiction', 'partnerId': '300067'}, {'type': 'BOLT', 'name': 'Comedy', 'partnerId': '300054'}, {'type': 'BOLT', 'name': 'Animation', 'partnerId': '300001'}], 'ratings': [{'advisories': ['V'], 'description': None, 'filingNumber': None, 'system': 'AI', 'value': '7+'}], 'releases': [{'releaseDate': '2022-08-10', 'releaseOrg': None, 'releaseType': 'original', 'releaseYear': 2022, 'territory': None}], 'tags': [{'displayName': None, 'type': 'disneyPlusOriginal', 'value': 'true'}], 'videoArt': [{'mediaMetadata': {'urls': [{'url': 'https://vod-bgc-eu-west-1.media.dssott.com/bgui/ps01/disney/bgui/2023/07/27/1690473034-366664.mp4'}]}, 'purpose': 'full_bleed'}]}
+2024-11-15 17:37:26,356 - pyrogram.connection.connection - INFO - Connecting...
+2024-11-15 17:37:26,438 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2024-11-15 17:37:26,439 - pyrogram.session.session - INFO - NetworkTask started
+2024-11-15 17:37:26,813 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2024-11-15 17:37:26,813 - pyrogram.session.session - INFO - Device: CPython 3.10.10 - Pyrogram 2.0.106
+2024-11-15 17:37:26,814 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2024-11-15 17:37:26,814 - pyrogram.session.session - INFO - Session started
+2024-11-15 17:37:26,818 - pyrogram.session.session - INFO - PingTask started
+2024-11-15 17:37:27,494 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("giris") in group 0 from "func.blumpd"
+2024-11-15 17:37:27,586 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("log_handler") in group 0 from "func.komutparser"
+2024-11-15 17:37:27,588 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("dl") in group 0 from "func.komutparser"
+2024-11-15 17:37:27,591 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("pinatasil") in group 0 from "func.pinata"
+2024-11-15 17:37:27,604 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("restart") in group 0 from "func.restart"
+2024-11-15 17:37:27,970 - __main__ - INFO - Tüm Platformlar with for Pyrogram v2.0.106 (Layer 158) started on tumunuindirbot. Premium False.
+2024-11-15 17:37:38,327 - func.platforms.disneyplus - INFO - 11
+2024-11-15 17:37:38,697 - func.platforms.disneyplus - INFO - {'badging': 'disneyplusoriginal', 'callToAction': None, 'contentId': 'e28fb81e-4d5b-40d4-8e50-a95f20547920', 'currentAvailability': {'region': 'TR', 'kidsMode': None}, 'encodedSeriesId': '3FfVmffm1ijj', 'family': {'encodedFamilyId': '1O4DKgbGGLlr', 'familyId': 'ZGlzbmV5b3JnOmRpc25leS5jb206cmFkYXI6MzY2NjY0', 'parent': True, 'parentRef': None, 'sequenceNumber': None}, 'image': {'tile': {'1.33': {'series': {'default': {'masterId': '45C5073572D533ED0165E152821528B5B8A0EC4E85CCC4FBC3FBD680C0C05821', 'masterWidth': 2880, 'masterHeight': 2160, 'url': 'https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/45C5073572D533ED0165E152821528B5B8A0EC4E85CCC4FBC3FBD680C0C05821'}}}, '0.71': {'series': {'default': {'masterId': '471DAF7F17EF23F20C0D267CF2AB775D2CA645DA9718406A3B2DC6B8564D0AC8', 'masterWidth': 2000, 'masterHeight': 2818, 'url': 'https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/471DAF7F17EF23F20C0D267CF2AB775D2CA645DA9718406A3B2DC6B8564D0AC8'}}}, '1.78': {'series': {'default': {'masterId': 'F5845A95BEAA5153FA1A1D77D39A4B261F9440B06424B7217AFAA33BB999AAA9', 'masterWidth': 3840, 'masterHeight': 2160, 'url': 'https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/F5845A95BEAA5153FA1A1D77D39A4B261F9440B06424B7217AFAA33BB999AAA9'}}}}, 'title_treatment': {'1.78': {'series': {'default': {'masterId': '8749A7EC131173CF0C24103768BAD4DDE40FE74789723045AF9D6D651A5CFF61', 'masterWidth': 1920, 'masterHeight': 1080, 'url': 'https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/8749A7EC131173CF0C24103768BAD4DDE40FE74789723045AF9D6D651A5CFF61'}}}}, 'background_details': {'1.78': {'series': {'default': {'masterId': '06D6ABC402F523B8EC801AF13EA23D0573DD237E2F9DA0ED6951D41F146CCD49', 'masterWidth': 3840, 'masterHeight': 2160, 'url': 'https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/06D6ABC402F523B8EC801AF13EA23D0573DD237E2F9DA0ED6951D41F146CCD49'}}}, '1.33': {'series': {'default': {'masterId': '5D8E6AF1820CCC3F7DBE968115866927D2D3B43E0AE41FA9596C41016BC82A05', 'masterWidth': 2880, 'masterHeight': 2160, 'url': 'https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/5D8E6AF1820CCC3F7DBE968115866927D2D3B43E0AE41FA9596C41016BC82A05'}}}}, 'background_up_next': {'1.78': {'series': {'default': {'masterId': '697A28AED5D743C018BFB122A62F3A318D61779F6887DDEF6F0EEA87F523C90A', 'masterWidth': 3840, 'masterHeight': 2160, 'url': 'https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/697A28AED5D743C018BFB122A62F3A318D61779F6887DDEF6F0EEA87F523C90A'}}}}}, 'labels': [], 'mediaMetadata': {'facets': [{'label': 'default'}]}, 'mediaRights': {'downloadBlocked': False, 'pconBlocked': False}, 'participant': {}, 'seasonsMaxYear': 2023, 'seasonsMinYear': 2022, 'seriesId': 'e28fb81e-4d5b-40d4-8e50-a95f20547920', 'seriesType': 'standard', 'text': {'title': {'full': {'series': {'default': {'content': 'I am Groot', 'language': 'tr', 'sourceEntity': 'series'}}}, 'slug': {'series': {'default': {'content': 'i-am-groot', 'language': 'tr', 'sourceEntity': 'series'}}}, 'brief': {'series': {'default': {'content': 'I am Groot', 'language': 'tr', 'sourceEntity': 'series'}}}}, 'description': {'medium': {'series': {'default': {'content': 'Sorun çýkaran aðaç dalý, "I Am Groot"un ikinci sezonunda yaramazlýk yapmak için dönüyor. Bebek Groot bu sefer Koruyucular\'ýn uzay gemilerinde kainatý ve daha ötesini keþfeder, yeni ve renkli mekânlarla ve yaratýklarla yüz yüze ya da burun buruna gelir.', 'language': 'tr', 'sourceEntity': 'series'}}}, 'brief': {'series': {'default': {'content': "Sorun çýkaran aðaç dalý, Koruyucular'ýn uzay gemilerinde kainatý ve ötesini keþfeder.", 'language': 'tr', 'sourceEntity': 'series'}}}, 'full': {'series': {'default': {'content': 'Sorun çýkaran aðaç dalý, "I Am Groot"un ikinci sezonunda yaramazlýk yapmak için geri dönüyor. Bebek Groot bu sefer Koruyucular\'ýn uzay gemilerinde kainatý ve daha ötesini keþfeder, yeni ve renkli mekânlarla ve yaratýklarla yüz yüze ya da burun buruna gelir. Kirsten Lepore\'nin yazýp yönettiði yepyeni beþ kýsa bölümlük dizide, Groot\'u seslendiren Vin Diesel galaksiye geri dönüyor.', 'language': 'tr', 'sourceEntity': 'series'}}}}}, 'type': 'DmcSeries', 'typedGenres': [{'type': 'BOLT', 'name': 'Science Fiction', 'partnerId': '300067'}, {'type': 'BOLT', 'name': 'Comedy', 'partnerId': '300054'}, {'type': 'BOLT', 'name': 'Animation', 'partnerId': '300001'}], 'ratings': [{'advisories': ['V'], 'description': None, 'filingNumber': None, 'system': 'AI', 'value': '7+'}], 'releases': [{'releaseDate': '2022-08-10', 'releaseOrg': None, 'releaseType': 'original', 'releaseYear': 2022, 'territory': None}], 'tags': [{'displayName': None, 'type': 'disneyPlusOriginal', 'value': 'true'}], 'videoArt': [{'mediaMetadata': {'urls': [{'url': 'https://vod-bgc-eu-west-1.media.dssott.com/bgui/ps01/disney/bgui/2023/07/27/1690473034-366664.mp4'}]}, 'purpose': 'full_bleed'}]}
+2024-11-15 17:38:24,182 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1232] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:38:25,519 - asyncio - WARNING - socket.send() raised exception.
+2024-11-15 17:38:53,640 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1232] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:38:54,653 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1232] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:38:55,664 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1232] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:38:55,973 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1231] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:38:55,983 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1231] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:38:56,664 - pyrogram.connection.connection - WARNING - Connection failed! Trying again...
+2024-11-15 17:38:57,267 - asyncio - WARNING - socket.send() raised exception.
+2024-11-15 17:44:31,804 - pyrogram.connection.connection - INFO - Connecting...
+2024-11-15 17:44:31,993 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2024-11-15 17:44:31,994 - pyrogram.session.session - INFO - NetworkTask started
+2024-11-15 17:44:32,605 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2024-11-15 17:44:32,608 - pyrogram.session.session - INFO - Device: CPython 3.10.10 - Pyrogram 2.0.106
+2024-11-15 17:44:32,608 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2024-11-15 17:44:32,608 - pyrogram.session.session - INFO - Session started
+2024-11-15 17:44:32,614 - pyrogram.session.session - INFO - PingTask started
+2024-11-15 17:44:33,355 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("giris") in group 0 from "func.blumpd"
+2024-11-15 17:44:33,455 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("log_handler") in group 0 from "func.komutparser"
+2024-11-15 17:44:33,456 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("dl") in group 0 from "func.komutparser"
+2024-11-15 17:44:33,458 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("pinatasil") in group 0 from "func.pinata"
+2024-11-15 17:44:33,471 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("restart") in group 0 from "func.restart"
+2024-11-15 17:44:34,061 - __main__ - INFO - Tüm Platformlar with for Pyrogram v2.0.106 (Layer 158) started on tumunuindirbot. Premium False.
+2024-11-15 17:45:52,434 - pyrogram.connection.connection - INFO - Connecting...
+2024-11-15 17:45:52,540 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2024-11-15 17:45:52,541 - pyrogram.session.session - INFO - NetworkTask started
+2024-11-15 17:45:53,695 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2024-11-15 17:45:53,696 - pyrogram.session.session - INFO - Device: CPython 3.10.10 - Pyrogram 2.0.106
+2024-11-15 17:45:53,696 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2024-11-15 17:45:53,697 - pyrogram.session.session - INFO - Session started
+2024-11-15 17:45:53,702 - pyrogram.session.session - INFO - PingTask started
+2024-11-15 17:45:54,422 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("giris") in group 0 from "func.blumpd"
+2024-11-15 17:45:54,495 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("log_handler") in group 0 from "func.komutparser"
+2024-11-15 17:45:54,495 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("dl") in group 0 from "func.komutparser"
+2024-11-15 17:45:54,497 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("pinatasil") in group 0 from "func.pinata"
+2024-11-15 17:45:54,511 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("restart") in group 0 from "func.restart"
+2024-11-15 17:45:54,984 - __main__ - INFO - Tüm Platformlar with for Pyrogram v2.0.106 (Layer 158) started on tumunuindirbot. Premium False.
+2024-11-15 17:47:06,582 - pyrogram.connection.connection - INFO - Connecting...
+2024-11-15 17:47:06,670 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2024-11-15 17:47:06,671 - pyrogram.session.session - INFO - NetworkTask started
+2024-11-15 17:47:07,203 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2024-11-15 17:47:07,204 - pyrogram.session.session - INFO - Device: CPython 3.10.10 - Pyrogram 2.0.106
+2024-11-15 17:47:07,204 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2024-11-15 17:47:07,204 - pyrogram.session.session - INFO - Session started
+2024-11-15 17:47:07,209 - pyrogram.session.session - INFO - PingTask started
+2024-11-15 17:47:07,896 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("giris") in group 0 from "func.blumpd"
+2024-11-15 17:47:07,961 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("log_handler") in group 0 from "func.komutparser"
+2024-11-15 17:47:07,961 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("dl") in group 0 from "func.komutparser"
+2024-11-15 17:47:07,962 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("pinatasil") in group 0 from "func.pinata"
+2024-11-15 17:47:07,974 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("restart") in group 0 from "func.restart"
+2024-11-15 17:47:08,560 - __main__ - INFO - Tüm Platformlar with for Pyrogram v2.0.106 (Layer 158) started on tumunuindirbot. Premium False.
+2024-11-15 17:49:00,757 - pyrogram.connection.connection - INFO - Connecting...
+2024-11-15 17:49:01,866 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2024-11-15 17:49:01,868 - pyrogram.session.session - INFO - NetworkTask started
+2024-11-15 17:49:02,463 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2024-11-15 17:49:02,465 - pyrogram.session.session - INFO - Device: CPython 3.10.10 - Pyrogram 2.0.106
+2024-11-15 17:49:02,465 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2024-11-15 17:49:02,465 - pyrogram.session.session - INFO - Session started
+2024-11-15 17:49:02,469 - pyrogram.session.session - INFO - PingTask started
+2024-11-15 17:49:03,137 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("giris") in group 0 from "func.blumpd"
+2024-11-15 17:49:03,201 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("log_handler") in group 0 from "func.komutparser"
+2024-11-15 17:49:03,201 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("dl") in group 0 from "func.komutparser"
+2024-11-15 17:49:03,203 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("pinatasil") in group 0 from "func.pinata"
+2024-11-15 17:49:03,247 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("restart") in group 0 from "func.restart"
+2024-11-15 17:49:03,630 - __main__ - INFO - Tüm Platformlar with for Pyrogram v2.0.106 (Layer 158) started on tumunuindirbot. Premium False.
+2024-11-15 17:49:55,841 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1231] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:49:55,852 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1231] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:50:10,907 - pyrogram.connection.connection - INFO - Connecting...
+2024-11-15 17:50:10,993 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2024-11-15 17:50:10,994 - pyrogram.session.session - INFO - NetworkTask started
+2024-11-15 17:50:11,396 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2024-11-15 17:50:11,396 - pyrogram.session.session - INFO - Device: CPython 3.10.10 - Pyrogram 2.0.106
+2024-11-15 17:50:11,396 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2024-11-15 17:50:11,396 - pyrogram.session.session - INFO - Session started
+2024-11-15 17:50:11,399 - pyrogram.session.session - INFO - PingTask started
+2024-11-15 17:50:12,029 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("giris") in group 0 from "func.blumpd"
+2024-11-15 17:50:12,099 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("log_handler") in group 0 from "func.komutparser"
+2024-11-15 17:50:12,099 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("dl") in group 0 from "func.komutparser"
+2024-11-15 17:50:12,101 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("pinatasil") in group 0 from "func.pinata"
+2024-11-15 17:50:12,113 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("restart") in group 0 from "func.restart"
+2024-11-15 17:50:12,481 - __main__ - INFO - Tüm Platformlar with for Pyrogram v2.0.106 (Layer 158) started on tumunuindirbot. Premium False.
+2024-11-15 17:50:51,282 - asyncio - WARNING - socket.send() raised exception.
+2024-11-15 17:50:51,282 - asyncio - WARNING - socket.send() raised exception.
+2024-11-15 17:50:51,282 - asyncio - WARNING - socket.send() raised exception.
+2024-11-15 17:50:53,340 - asyncio - WARNING - socket.send() raised exception.
+2024-11-15 17:50:53,341 - asyncio - WARNING - socket.send() raised exception.
+2024-11-15 17:50:53,341 - asyncio - WARNING - socket.send() raised exception.
+2024-11-15 17:50:53,341 - asyncio - WARNING - socket.send() raised exception.
+2024-11-15 17:50:53,343 - asyncio - WARNING - socket.send() raised exception.
+2024-11-15 17:50:53,343 - asyncio - WARNING - socket.send() raised exception.
+2024-11-15 17:50:53,343 - asyncio - WARNING - socket.send() raised exception.
+2024-11-15 17:50:53,343 - asyncio - WARNING - socket.send() raised exception.
+2024-11-15 17:51:24,602 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1232] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:51:25,618 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1232] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:51:26,648 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1232] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:51:27,662 - pyrogram.connection.connection - WARNING - Connection failed! Trying again...
+2024-11-15 17:51:27,663 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1232] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:51:28,678 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1232] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:51:29,099 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1232] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:51:29,679 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1232] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:51:30,108 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1232] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:51:30,688 - pyrogram.connection.connection - WARNING - Connection failed! Trying again...
+2024-11-15 17:51:30,690 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1232] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:51:31,109 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1232] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:51:31,701 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1232] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:51:32,138 - pyrogram.connection.connection - WARNING - Connection failed! Trying again...
+2024-11-15 17:51:32,138 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1232] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:51:32,719 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1232] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:51:33,146 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1232] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:51:33,729 - pyrogram.connection.connection - WARNING - Connection failed! Trying again...
+2024-11-15 17:51:33,730 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1232] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:51:34,149 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1232] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:51:34,735 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1232] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:51:35,144 - pyrogram.connection.connection - WARNING - Connection failed! Trying again...
+2024-11-15 17:51:35,147 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1232] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:51:35,755 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1232] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:51:36,153 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1232] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:51:36,770 - pyrogram.connection.connection - WARNING - Connection failed! Trying again...
+2024-11-15 17:51:36,773 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1232] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:51:37,148 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1232] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:51:37,791 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1232] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:51:38,093 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1232] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:51:38,155 - pyrogram.connection.connection - WARNING - Connection failed! Trying again...
+2024-11-15 17:51:38,157 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1232] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:51:38,789 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1232] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:51:39,105 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1232] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:51:39,184 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1232] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:51:39,801 - pyrogram.connection.connection - WARNING - Connection failed! Trying again...
+2024-11-15 17:51:39,803 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1232] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:51:40,116 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1232] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:51:40,194 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1232] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:51:40,816 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1232] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:51:41,127 - pyrogram.connection.connection - WARNING - Connection failed! Trying again...
+2024-11-15 17:51:41,129 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1232] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:51:41,206 - pyrogram.connection.connection - WARNING - Connection failed! Trying again...
+2024-11-15 17:51:41,208 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1232] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:51:41,832 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1232] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:51:42,142 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1232] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:51:42,223 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1232] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:51:42,846 - pyrogram.connection.connection - WARNING - Connection failed! Trying again...
+2024-11-15 17:51:42,847 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1232] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:51:43,157 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1232] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:51:43,234 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1232] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:51:43,871 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1232] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:51:44,182 - pyrogram.connection.connection - WARNING - Connection failed! Trying again...
+2024-11-15 17:51:44,184 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1232] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:51:44,247 - pyrogram.connection.connection - WARNING - Connection failed! Trying again...
+2024-11-15 17:51:44,248 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1232] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:51:44,885 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1232] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:51:45,184 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1232] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:51:45,262 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1232] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:51:45,904 - pyrogram.connection.connection - WARNING - Connection failed! Trying again...
+2024-11-15 17:51:45,905 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1232] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:51:46,191 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1232] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:51:46,269 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1232] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:51:46,907 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1232] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:51:47,191 - pyrogram.connection.connection - WARNING - Connection failed! Trying again...
+2024-11-15 17:51:47,192 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1232] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:51:47,285 - pyrogram.connection.connection - WARNING - Connection failed! Trying again...
+2024-11-15 17:51:47,286 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1232] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:51:47,926 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1232] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:51:48,209 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1232] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:51:48,302 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1232] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:51:48,941 - pyrogram.connection.connection - WARNING - Connection failed! Trying again...
+2024-11-15 17:51:48,943 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1232] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:51:49,225 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1232] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:51:49,318 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1232] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:51:49,955 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1232] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:51:50,237 - pyrogram.connection.connection - WARNING - Connection failed! Trying again...
+2024-11-15 17:51:50,238 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1232] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:51:50,331 - pyrogram.connection.connection - WARNING - Connection failed! Trying again...
+2024-11-15 17:51:50,334 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1232] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:51:50,964 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1232] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:51:51,246 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1232] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:51:51,356 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1232] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:51:51,978 - pyrogram.connection.connection - WARNING - Connection failed! Trying again...
+2024-11-15 17:51:51,980 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1232] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:51:52,259 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1232] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:51:52,368 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1232] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:51:52,983 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1232] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:51:53,279 - pyrogram.connection.connection - WARNING - Connection failed! Trying again...
+2024-11-15 17:51:53,280 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1232] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:51:53,389 - pyrogram.connection.connection - WARNING - Connection failed! Trying again...
+2024-11-15 17:51:53,390 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1232] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:51:54,000 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1232] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:51:54,296 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1232] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:51:54,402 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1232] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:51:55,012 - pyrogram.connection.connection - WARNING - Connection failed! Trying again...
+2024-11-15 17:51:55,013 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1232] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:51:55,295 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1232] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:51:55,419 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1232] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:51:56,023 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1232] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:51:56,303 - pyrogram.connection.connection - WARNING - Connection failed! Trying again...
+2024-11-15 17:51:56,304 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1232] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:51:56,429 - pyrogram.connection.connection - WARNING - Connection failed! Trying again...
+2024-11-15 17:51:56,430 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1232] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:51:57,032 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1232] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:51:57,301 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1232] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:51:57,441 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1232] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:51:58,049 - pyrogram.connection.connection - WARNING - Connection failed! Trying again...
+2024-11-15 17:51:58,050 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1232] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:51:58,316 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1232] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:51:58,441 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1232] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:51:59,067 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1232] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:51:59,331 - pyrogram.connection.connection - WARNING - Connection failed! Trying again...
+2024-11-15 17:51:59,332 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1232] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:51:59,457 - pyrogram.connection.connection - WARNING - Connection failed! Trying again...
+2024-11-15 17:51:59,458 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1232] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:52:25,624 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1232] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:52:26,263 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1232] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:52:26,636 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1232] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:52:27,279 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1232] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:52:27,640 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1232] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:52:28,295 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1232] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:52:28,653 - pyrogram.connection.connection - WARNING - Connection failed! Trying again...
+2024-11-15 17:52:28,657 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1232] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:52:29,290 - pyrogram.connection.connection - WARNING - Connection failed! Trying again...
+2024-11-15 17:52:29,292 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1232] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:52:29,669 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1232] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:52:30,311 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1232] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:52:30,685 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1232] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:52:31,325 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1232] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:52:31,658 - pyrogram.connection.connection - WARNING - Connection failed! Trying again...
+2024-11-15 17:52:31,661 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1232] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:52:32,325 - pyrogram.connection.connection - WARNING - Connection failed! Trying again...
+2024-11-15 17:52:32,326 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1232] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:52:32,687 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1232] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:52:33,329 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1232] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:52:33,675 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1232] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:52:34,348 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1232] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:52:34,690 - pyrogram.connection.connection - WARNING - Connection failed! Trying again...
+2024-11-15 17:52:34,691 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1232] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:52:35,359 - pyrogram.connection.connection - WARNING - Connection failed! Trying again...
+2024-11-15 17:52:35,361 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1232] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:52:35,703 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1232] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:52:36,389 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1232] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:52:36,639 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1232] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:52:36,716 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1232] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:52:37,714 - pyrogram.connection.connection - WARNING - Connection failed! Trying again...
+2024-11-15 17:52:42,047 - asyncio - WARNING - socket.send() raised exception.
+2024-11-15 17:52:42,048 - asyncio - WARNING - socket.send() raised exception.
+2024-11-15 17:52:42,052 - asyncio - WARNING - socket.send() raised exception.
+2024-11-15 17:52:42,053 - asyncio - WARNING - socket.send() raised exception.
+2024-11-15 17:52:42,057 - asyncio - WARNING - socket.send() raised exception.
+2024-11-15 17:54:23,806 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1232] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:54:24,810 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1232] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:54:25,235 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1232] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:54:25,813 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1232] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:54:26,237 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1232] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:54:26,828 - pyrogram.connection.connection - WARNING - Connection failed! Trying again...
+2024-11-15 17:54:26,830 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1232] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:54:27,250 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1232] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:54:27,844 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1232] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:54:28,281 - pyrogram.connection.connection - WARNING - Connection failed! Trying again...
+2024-11-15 17:54:28,283 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1232] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 17:54:28,845 - pyrogram.connection.connection - WARNING - Unable to connect due to network issues: [WinError 1232] Uzaktaki sistem taþýma iletiþim kurallarýný desteklemiyor
+2024-11-15 20:32:31,311 - pyrogram.session.auth - INFO - Start creating a new auth key on DC2
+2024-11-15 20:32:31,311 - pyrogram.connection.connection - INFO - Connecting...
+2024-11-15 20:32:31,408 - pyrogram.connection.connection - INFO - Connected! Production DC2 - IPv4
+2024-11-15 20:32:32,942 - pyrogram.session.auth - INFO - Done auth key exchange: DhGenOk
+2024-11-15 20:32:32,943 - pyrogram.connection.connection - INFO - Disconnected
+2024-11-15 20:32:32,972 - pyrogram.connection.connection - INFO - Connecting...
+2024-11-15 20:32:33,053 - pyrogram.connection.connection - INFO - Connected! Production DC2 - IPv4
+2024-11-15 20:32:33,053 - pyrogram.session.session - INFO - NetworkTask started
+2024-11-15 20:32:33,419 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2024-11-15 20:32:33,419 - pyrogram.session.session - INFO - Device: CPython 3.10.10 - Pyrogram 2.0.106
+2024-11-15 20:32:33,419 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2024-11-15 20:32:33,420 - pyrogram.session.session - INFO - Session started
+2024-11-15 20:32:33,421 - pyrogram.session.session - INFO - PingTask started
+2024-11-15 20:32:33,521 - pyrogram.session.session - INFO - PingTask stopped
+2024-11-15 20:32:33,521 - pyrogram.connection.connection - INFO - Disconnected
+2024-11-15 20:32:33,522 - pyrogram.session.session - INFO - NetworkTask stopped
+2024-11-15 20:32:33,522 - pyrogram.session.session - INFO - Session stopped
+2024-11-15 20:32:33,541 - pyrogram.session.auth - INFO - Start creating a new auth key on DC4
+2024-11-15 20:32:33,541 - pyrogram.connection.connection - INFO - Connecting...
+2024-11-15 20:32:33,622 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2024-11-15 20:32:35,201 - pyrogram.session.auth - INFO - Done auth key exchange: DhGenOk
+2024-11-15 20:32:35,202 - pyrogram.connection.connection - INFO - Disconnected
+2024-11-15 20:32:35,216 - pyrogram.connection.connection - INFO - Connecting...
+2024-11-15 20:32:35,308 - pyrogram.connection.connection - INFO - Connected! Production DC4 - IPv4
+2024-11-15 20:32:35,310 - pyrogram.session.session - INFO - NetworkTask started
+2024-11-15 20:32:35,765 - pyrogram.session.session - INFO - Session initialized: Layer 158
+2024-11-15 20:32:35,765 - pyrogram.session.session - INFO - Device: CPython 3.10.10 - Pyrogram 2.0.106
+2024-11-15 20:32:35,766 - pyrogram.session.session - INFO - System: Windows 10 (en)
+2024-11-15 20:32:35,766 - pyrogram.session.session - INFO - Session started
+2024-11-15 20:32:35,767 - pyrogram.session.session - INFO - PingTask started
+2024-11-15 20:32:38,815 - pyrogram.client - INFO - [fya] [LOAD] MessageHandler("giris") in group 0 from "func.blumpd"
