@@ -59,7 +59,16 @@ def humanbytes(size):
         n += 1
     return str(round(size, 2)) + " " + Dic_powerN[n] + 'B'
 
-
+def format_filename(filename):
+    # Dosya adı ve uzantısını ayır
+    name, ext = os.path.splitext(filename)
+    
+    # Dosya adını böl ve dönüştür
+    formatted_name = '.'.join(word.capitalize() for word in name.split('.'))
+    
+    # Uzantıyı geri ekle
+    return formatted_name + ext
+ 
 def TimeFormatter(milliseconds: int) -> str:
     seconds, milliseconds = divmod(int(milliseconds), 1000)
     minutes, seconds = divmod(seconds, 60)
@@ -115,6 +124,12 @@ def get_duration(filepath):
       return 0   
 
 async def tg_upload(message,video,caption):
+    try:
+        new_name = format_filename(video)
+        os.rename(video, new_name)
+        video = new_name
+    except Exception as e:
+        print(e)
     start_time = time.time()
     duration = get_duration(video)
     thumb_path = f"thumbs/{message.chat.id}/{message.chat.id}.jpg"
