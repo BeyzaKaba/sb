@@ -286,7 +286,10 @@ async def siram(bot, message):
                 drm_list = glob.glob(("encrypted/" + dot_title + season + episode + "*drm*"))
                 dlt_list = dwn_list + cmb_list + sub_list + drm_list + images
                 for items in dlt_list:
-                    os.remove(items)
+                    try:
+                        os.remove(items)
+                    except Exception as e:
+                        print(e)
 
             content_type = ori_content_type
     del sira[0]
