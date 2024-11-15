@@ -111,7 +111,7 @@ async def download(video_url, quality, season, episode, title, platform,
                 lang = lp.split(",")[1]
                 part = ""
                 #####################
-                tur_platformlar = ["exxen", "blutv]
+                tur_platformlar = ["exxen", "blutv"]
                 if platform in tur_platformlar:
                     if platform == "blutv":
                         istenen = [f"{dil}"]
