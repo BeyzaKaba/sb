@@ -115,7 +115,8 @@ async def download(video_url, quality, season, episode, title, platform,
                 if platform in tur_platformlar:
                     if platform == "blutv":
                         istenen = [f"{dil}"]
-                    istenen = ["tur"]
+                    else:
+                        istenen = ["tur"]
                 else:
                     istenen = [f"{lang_code}"]
                 if lang_code in istenen:
